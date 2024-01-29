@@ -15,7 +15,7 @@ redirect_from:
 
 - 2020--2022: `Postdoctoral researcher` at [ENS Lyon & CNRS](http://www.umpa.ens-lyon.fr), France.<br/> Mentor: [Prof. Nicolas Rougerie](http://www.umpa.ens-lyon.fr/umpa/annuaire/rougerie-nicolas).
 
-- 2017--2020: `PhD in Mathematical Physics` at [LMU Munich](https://www.mathematik.uni-muenchen.de), Germany.<br/> Advisor: [Prof. Phan Thanh Nam](https://www.mathematik.uni-muenchen.de/~nam/).<br/> Thesis: [_Blow-Up Analysis for Focusing Many-Body Quantum Systems_](https://edoc.ub.uni-muenchen.de/26564/).
+- 2016--2020: `PhD in Mathematical Physics` at [LMU Munich](https://www.mathematik.uni-muenchen.de), Germany.<br/> Advisor: [Prof. Phan Thanh Nam](https://www.mathematik.uni-muenchen.de/~nam/).<br/> Thesis: [_Blow-Up Analysis for Focusing Many-Body Quantum Systems_](https://edoc.ub.uni-muenchen.de/26564/).
 
 - 2014--2016: `Master in Fundamental & Applied Mathematics` at [Université de Nantes](https://www.math.sciences.univ-nantes.fr/en), France.
 
