@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-## `Positions \& Educations`
+## `Positions & Educations`
 
 - 2022--: Postdoctoral researcher with [Prof. Douglas Lundholm](https://www.katalog.uu.se/profile/?id=N19-2326) at [Uppsala University](https://www.math.uu.se/?languageId=1), Sweden.
 
