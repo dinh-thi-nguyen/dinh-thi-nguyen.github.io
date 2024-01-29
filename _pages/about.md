@@ -19,12 +19,7 @@ redirect_from:
 - 2014--2016: Master in Fundamental & Applied Mathematics at [Université de Nantes](https://www.math.sciences.univ-nantes.fr/en), France.
 
 - 2010--2014: Bachelor in Mathematics & Computer Sciences, [Vietnam National University](https://www.math.hcmus.edu.vn/en/) at Ho Chi Minh City, Vietnam.
-
-`Research Interests`
-===
----
-
-**Mathematical Physics**, _in particular_ `Many-Body Quantum Mechanics`,  `Functional Inequalities`,  `Calculus of Variations and Partial Differential Equations`
+- 
 
 `Publications`
 ===
