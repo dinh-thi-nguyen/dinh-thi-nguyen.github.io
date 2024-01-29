@@ -89,6 +89,10 @@ author:
   googlescholar    : "https://scholar.google.de/citations?user=RtwgIZIAAAAJ"
   email            : "dinh_thi.nguyen@math.uu.se"
   researchgate     : "https://www.researchgate.net/profile/Dinh-Thi-Nguyen"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:ndtkhtn@gmail.com"
   uri              :
   bitbucket        :
   codepen          :
