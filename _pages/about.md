@@ -33,6 +33,71 @@ Mathematical Physics, _in particular_
 ===
 ---
 
+<dl>
+  <dt>term</dt>
+  <dd>definition</dd>
+  <dd>another definition</dd>
+  <dt>another term</dt>
+  <dt>and another term</dt>
+  <dd>and a definition for the term</dd>
+</dl>
+
+<table rules="groups">
+  <thead>
+    <tr>
+      <th style="text-align: left">Header1</th>
+      <th style="text-align: center">Header2</th>
+      <th style="text-align: right">Header3</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: left">cell1</td>
+      <td style="text-align: center">cell2</td>
+      <td style="text-align: right">cell3</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">cell4</td>
+      <td style="text-align: center">cell5</td>
+      <td style="text-align: right">cell6</td>
+    </tr>
+  </tbody>
+  <tbody>
+    <tr>
+      <td style="text-align: left">cell1</td>
+      <td style="text-align: center">cell2</td>
+      <td style="text-align: right">cell3</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">cell4</td>
+      <td style="text-align: center">cell5</td>
+      <td style="text-align: right">cell6</td>
+    </tr>
+  </tbody>
+  <tfoot>
+    <tr>
+      <td style="text-align: left">Foot1</td>
+      <td style="text-align: center">Foot2</td>
+      <td style="text-align: right">Foot3</td>
+    </tr>
+  </tfoot>
+</table>
+
+
+<table>
+  <tbody>
+    <tr>
+      <td>A simple</td>
+      <td>table</td>
+    </tr>
+    <tr>
+      <td>with multiple</td>
+      <td>lines</td>
+    </tr>
+  </tbody>
+</table>
+
+
 1. D.-T. Nguyen, Stabilization against collapse of 2D attractive Bose–Einstein condensates with repulsive three-body interactions (2023). [Preprint](https://arxiv.org/pdf/2306.17617v1.pdf)
 
 1. D.-T. Nguyen, J. Ricaud, On one-dimensional Bose gases with two- and (critical) attractive three-body interactions (2022). [Preprint](https://doi.org/10.48550/arXiv:2210.04515)
