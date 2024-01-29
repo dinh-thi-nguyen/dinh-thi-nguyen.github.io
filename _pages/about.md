@@ -24,7 +24,8 @@ redirect_from:
 `Publications`
 ===
 ---
-<p class="notice--info">D.-T. Nguyen, Stabilization against collapse of 2D attractive Bose–Einstein condensates with repulsive three-body interactions (2023). [Preprint](https://arxiv.org/pdf/2306.17617v1.pdf).</p>
+
+<p class="notice--info">D.-T. Nguyen, Stabilization against collapse of 2D attractive Bose–Einstein condensates with repulsive three-body interactions (2023). <a href="https://arxiv.org/pdf/2306.17617v1.pdf">Preprint</a></p>
 
 
 1. D.-T. Nguyen, Stabilization against collapse of 2D attractive Bose–Einstein condensates with repulsive three-body interactions (2023). [Preprint](https://arxiv.org/pdf/2306.17617v1.pdf)
