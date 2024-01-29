@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Dinh-Thi NGUYEN"
+title                    : ""
 title_separator          : "-"
 name                     : "Dinh-Thi Nguyen"
 description              : "Posdoctoral Researcher"
@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Postdoctoral Researcher"
+  name             : "Dinh-Thi NGUYEN"
   avatar           : "https://scholar.googleusercontent.com/citations?view_op=medium_photo&user=RtwgIZIAAAAJ&citpid=5"
-  bio              : "Mathematical \ Physics \ Functional Inequalities \ Calculus of Variations & PDEs"
+  bio              : "Postdoctoral Researcher \ Mathematical Physics \ Functional Inequalities \ Calculus of Variations & PDEs"
   location         : "Uppsala, Sweden"
   employer         :
   pubmed           : 
