@@ -8,43 +8,44 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
-
-A data-driven personal website
+Short Academic CV
 ======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+------
+- 2022--: Postdoctoral researcher with [Prof. Douglas Lundholm](https://www.katalog.uu.se/profile/?id=N19-2326) at [Uppsala University](https://www.math.uu.se/?languageId=1), Sweden.
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+- 2020--2022: Postdoctoral researcher with [Prof. Nicolas Rougerie](http://www.umpa.ens-lyon.fr/umpa/annuaire/rougerie-nicolas) at [ENS Lyon & CNRS](http://www.umpa.ens-lyon.fr), France.
 
-Getting started
+- 2017 -- 2020: PhD in Mathematical Physics with [Prof. Phan Thanh Nam](https://www.mathematik.uni-muenchen.de/~nam/) at [LMU Munich](https://www.mathematik.uni-muenchen.de), Germany. Thesis: [_Blow-Up Analysis for Focusing Many-Body Quantum Systems_](https://edoc.ub.uni-muenchen.de/26564/).
+
+- 2014--2016: Master in Fundamental & Applied Mathematics at [Université de Nantes](https://www.math.sciences.univ-nantes.fr/en), France.
+
+- 2010--2014: Bachelor in Mathematics & Computer Sciences, [Vietnam National University](https://www.math.hcmus.edu.vn/en/) at Ho Chi Minh City, Vietnam.
+
+Research Interests
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
-
-Site-wide configuration
 ------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+Mathematical Physics, _in particular_
+- Many-Body Quantum Mechanics
+- Functional Inequalities
+- Calculus of Variations and Partial Differential Equations
 
-Create content & metadata
+Publications
+======
 ------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+1. D.-T. Nguyen, Stabilization against collapse of 2D attractive Bose–Einstein condensates with repulsive three-body interactions (2023). [Preprint](https://arxiv.org/pdf/2306.17617v1.pdf)
 
-**Markdown generator**
+1. D.-T. Nguyen, J. Ricaud, On one-dimensional Bose gases with two- and (critical) attractive three-body interactions (2022). [Preprint](https://doi.org/10.48550/arXiv:2210.04515)
 
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the academicpages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
+1. V. D. Dinh, D.-T. Nguyen, N. Rougerie, Blowup of two-dimensional attractive Bose–Einstein condensates at the critical rotational speed, Annales de l'Institut Henri Poincaré C, Analyse non linéaire (2023). [Article](https://doi.org/10.4171/AIHPC/94), [Preprint](https://arxiv.org/abs/2208.08317)
 
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
+1. D.-T. Nguyen, N. Rougerie, Thomas-Fermi profile of a fast rotating Bose-Einstein condensate, Pure and Applied Analysis, 4(3), pp. 535-569 (2022). [Article](https://doi.org/10.2140/paa.2022.4.535), [Preprint](https://arxiv.org/abs/2201.04418)
 
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
+1. D.-T. Nguyen, Blow-Up Profile of 2D Focusing Mixture Bose Gases, Zeitschrift für angewandte Mathematik und Physik, 71(3), p. 81 (2020). [Article](https://doi.org/10.1007/s00033-020-01302-y), [Preprint](https://arxiv.org/abs/1911.07810)
 
-For more info
-------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+1. D.-T. Nguyen, Blow-up Profile of Neutron Stars in the Hartree-Fock-Bogoliubov Theory, Calculus of Variations and Partial Differential Equations, 58(6), p. 202 (2019). [Article](https://doi.org/10.1007/s00526-019-1641-x), [Preprint](https://arxiv.org/abs/1903.10062)
+
+1. D.-T. Nguyen, Blow-up Profile of Neutron Stars in the Chandrasekhar Theory, Journal of Mathematical Physics, 60(7), p. 071508 (2019). [Article](https://doi.org/10.1063/1.5085277), [Preprint](https://arxiv.org/abs/1710.00538)
+
+1. D.-T. Nguyen, Many-Body Blow-Up Profile of Boson Stars with External Potentials, Review in Mathematical Physics, 31(10), p. 1950034 (2019). [Article](https://doi.org/10.1142/S0129055X1950034X), [Preprint](https://arxiv.org/abs/1805.00191)
+
+1. D.-T. Nguyen, On Blow-up Profile of Ground States of Boson Stars with External Potential, Journal of Statistical Physics, 169(2), pp. 395-422 (2017). [Article](https://doi.org/10.1007/s10955-017-1872-1), [Preprint](https://arxiv.org/abs/1703.10324)
