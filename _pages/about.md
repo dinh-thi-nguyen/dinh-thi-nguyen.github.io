@@ -24,10 +24,7 @@ redirect_from:
 ===
 ---
 
-`Mathematical Physics`, _in particular_
-- Many-Body Quantum Mechanics
-- Functional Inequalities
-- Calculus of Variations and Partial Differential Equations
+**Mathematical Physics**, _in particular_ `Many-Body Quantum Mechanics`,  `Functional Inequalities`,  `Calculus of Variations and Partial Differential Equations`
 
 `Publications`
 ===
