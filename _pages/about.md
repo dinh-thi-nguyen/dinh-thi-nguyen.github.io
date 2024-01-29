@@ -7,58 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-<h2 id="notices">Notices</h2>
-
-<p>Call attention to a block of text.</p>
-
-<table>
-  <thead>
-    <tr>
-      <th>Notice Type</th>
-      <th>Class</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Default</td>
-      <td><code class="language-plaintext highlighter-rouge">.notice</code></td>
-    </tr>
-    <tr>
-      <td>Primary</td>
-      <td><code class="language-plaintext highlighter-rouge">.notice--primary</code></td>
-    </tr>
-    <tr>
-      <td>Info</td>
-      <td><code class="language-plaintext highlighter-rouge">.notice--info</code></td>
-    </tr>
-    <tr>
-      <td>Warning</td>
-      <td><code class="language-plaintext highlighter-rouge">.notice--warning</code></td>
-    </tr>
-    <tr>
-      <td>Success</td>
-      <td><code class="language-plaintext highlighter-rouge">.notice--success</code></td>
-    </tr>
-    <tr>
-      <td>Danger</td>
-      <td><code class="language-plaintext highlighter-rouge">.notice--danger</code></td>
-    </tr>
-  </tbody>
-</table>
-
-<p class="notice"><strong>Watch out!</strong> This paragraph of text has been <a href="#">emphasized</a> with the <code class="language-plaintext highlighter-rouge">{: .notice}</code> class.</p>
-
-<p class="notice--primary"><strong>Watch out!</strong> This paragraph of text has been <a href="#">emphasized</a> with the <code class="language-plaintext highlighter-rouge">{: .notice--primary}</code> class.</p>
-
-<p class="notice--info"><strong>Watch out!</strong> This paragraph of text has been <a href="#">emphasized</a> with the <code class="language-plaintext highlighter-rouge">{: .notice--info}</code> class.</p>
-
-<p class="notice--warning"><strong>Watch out!</strong> This paragraph of text has been <a href="#">emphasized</a> with the <code class="language-plaintext highlighter-rouge">{: .notice--warning}</code> class.</p>
-
-<p class="notice--success"><strong>Watch out!</strong> This paragraph of text has been <a href="#">emphasized</a> with the <code class="language-plaintext highlighter-rouge">{: .notice--success}</code> class.</p>
-
-<p class="notice--danger"><strong>Watch out!</strong> This paragraph of text has been <a href="#">emphasized</a> with the <code class="language-plaintext highlighter-rouge">{: .notice--danger}</code> class.</p>
-
-
 `Positions & Educations`
 ===
 ---
@@ -76,6 +24,8 @@ redirect_from:
 `Publications`
 ===
 ---
+<p class="notice--info">D.-T. Nguyen, Stabilization against collapse of 2D attractive Bose–Einstein condensates with repulsive three-body interactions (2023). [Preprint](https://arxiv.org/pdf/2306.17617v1.pdf).</p>
+
 
 1. D.-T. Nguyen, Stabilization against collapse of 2D attractive Bose–Einstein condensates with repulsive three-body interactions (2023). [Preprint](https://arxiv.org/pdf/2306.17617v1.pdf)
 
