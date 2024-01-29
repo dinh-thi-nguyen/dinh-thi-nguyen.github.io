@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : ""
 title_separator          : "-"
-name                     : "Dinh"
+name                     : "Dinh-Thi Nguyen"
 description              : "personal description"
 url                      : "https://dinh-thi-nguyen.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Dinh-Thi NGUYEN"
-  avatar           : "profile.png"
+  avatar           : "https://scholar.googleusercontent.com/citations?view_op=medium_photo&user=RtwgIZIAAAAJ&citpid=5"
   bio              : "Postdoctoral Researcher"
   location         : "Uppsala, Sweden"
   employer         :
