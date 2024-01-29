@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-## Positions \& Educations
+## `Positions \& Educations`
 
 - 2022--: Postdoctoral researcher with [Prof. Douglas Lundholm](https://www.katalog.uu.se/profile/?id=N19-2326) at [Uppsala University](https://www.math.uu.se/?languageId=1), Sweden.
 
@@ -20,14 +20,14 @@ redirect_from:
 
 - 2010--2014: Bachelor in Mathematics & Computer Sciences, [Vietnam National University](https://www.math.hcmus.edu.vn/en/) at Ho Chi Minh City, Vietnam.
 
-## Research Interests
+## `Research Interests`
 
 Mathematical Physics, _in particular_
 - Many-Body Quantum Mechanics
 - Functional Inequalities
 - Calculus of Variations and Partial Differential Equations
 
-## Publications
+## `Publications`
 
 1. D.-T. Nguyen, Stabilization against collapse of 2D attractive Bose–Einstein condensates with repulsive three-body interactions (2023). [Preprint](https://arxiv.org/pdf/2306.17617v1.pdf)
 
