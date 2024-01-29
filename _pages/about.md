@@ -7,6 +7,9 @@ redirect_from:
   - /about.html
 ---
 
+<p class="notice"><strong>Watch out!</strong> This paragraph of text has been <a href="#">emphasized</a> with the <code class="language-plaintext highlighter-rouge">{: .notice}</code> class.</p>
+
+
 `Positions & Educations`
 ===
 ---
