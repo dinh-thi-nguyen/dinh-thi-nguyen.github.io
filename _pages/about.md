@@ -12,9 +12,9 @@ redirect_from:
 ---
 - 2022--2024: `Postdoctoral researcher` at [Uppsala University](https://www.math.uu.se/?languageId=1), Sweden.<br/> Mentor: [Prof. Douglas Lundholm](https://www.katalog.uu.se/profile/?id=N19-2326).
 
-- 2020--2022: `Postdoctoral researcher` at [ENS Lyon & CNRS](http://www.umpa.ens-lyon.fr), France. Mentor: [Prof. Nicolas Rougerie](http://www.umpa.ens-lyon.fr/umpa/annuaire/rougerie-nicolas).
+- 2020--2022: `Postdoctoral researcher` at [ENS Lyon & CNRS](http://www.umpa.ens-lyon.fr), France.<br/> Mentor: [Prof. Nicolas Rougerie](http://www.umpa.ens-lyon.fr/umpa/annuaire/rougerie-nicolas).
 
-- 2017--2020: `PhD in Mathematical Physics` at [LMU Munich](https://www.mathematik.uni-muenchen.de), Germany. Advisor: [Prof. Phan Thanh Nam](https://www.mathematik.uni-muenchen.de/~nam/). Thesis: [_Blow-Up Analysis for Focusing Many-Body Quantum Systems_](https://edoc.ub.uni-muenchen.de/26564/).
+- 2017--2020: `PhD in Mathematical Physics` at [LMU Munich](https://www.mathematik.uni-muenchen.de), Germany.<br/> Advisor: [Prof. Phan Thanh Nam](https://www.mathematik.uni-muenchen.de/~nam/).<br/> Thesis: [_Blow-Up Analysis for Focusing Many-Body Quantum Systems_](https://edoc.ub.uni-muenchen.de/26564/).
 
 - 2014--2016: `Master in Fundamental & Applied Mathematics` at [Université de Nantes](https://www.math.sciences.univ-nantes.fr/en), France.
 
