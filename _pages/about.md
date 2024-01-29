@@ -7,43 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-<table>
-  <thead>
-    <tr>
-      <th>Button Size</th>
-      <th>Example</th>
-      <th>Class</th>
-      <th>Kramdown</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>X-Large</td>
-      <td><a href="#" class="btn btn--primary btn--x-large">X-Large Button</a></td>
-      <td><code class="language-plaintext highlighter-rouge">.btn .btn--primary .btn--x-large</code></td>
-      <td><code class="language-plaintext highlighter-rouge">[Text](#link){: .btn .btn--primary .btn--x-large}</code></td>
-    </tr>
-    <tr>
-      <td>Large</td>
-      <td><a href="#" class="btn btn--primary btn--large">Large Button</a></td>
-      <td><code class="language-plaintext highlighter-rouge">.btn .btn--primary .btn--large</code></td>
-      <td><code class="language-plaintext highlighter-rouge">[Text](#link){: .btn .btn--primary .btn--large}</code></td>
-    </tr>
-    <tr>
-      <td>Default</td>
-      <td><a href="#" class="btn btn--primary">Default Button</a></td>
-      <td><code class="language-plaintext highlighter-rouge">.btn .btn--primary</code></td>
-      <td><code class="language-plaintext highlighter-rouge">[Text](#link){: .btn .btn--primary }</code></td>
-    </tr>
-    <tr>
-      <td>Small</td>
-      <td><a href="#" class="btn btn--primary btn--small">Small Button</a></td>
-      <td><code class="language-plaintext highlighter-rouge">.btn .btn--primary .btn--small</code></td>
-      <td><code class="language-plaintext highlighter-rouge">[Text](#link){: .btn .btn--primary .btn--small}</code></td>
-    </tr>
-  </tbody>
-</table>
-
 `Positions & Educations`
 ===
 ---
@@ -69,6 +32,17 @@ Mathematical Physics, _in particular_
 `Publications`
 ===
 ---
+
+<details>
+<summary>D.-T. Nguyen, Stabilization against collapse of 2D attractive Bose–Einstein condensates with repulsive three-body interactions (2023). [Preprint](https://arxiv.org/pdf/2306.17617v1.pdf)</summary>
+D.-T. Nguyen, Stabilization against collapse of 2D attractive Bose–Einstein condensates with repulsive three-body interactions (2023). [Preprint](https://arxiv.org/pdf/2306.17617v1.pdf)
+</details>
+
+<details>
+<summary>D.-T. Nguyen, Stabilization against collapse of 2D attractive Bose–Einstein condensates with repulsive three-body interactions (2023). [Preprint](https://arxiv.org/pdf/2306.17617v1.pdf)</summary>
+D.-T. Nguyen, Stabilization against collapse of 2D attractive Bose–Einstein condensates with repulsive three-body interactions (2023). [Preprint](https://arxiv.org/pdf/2306.17617v1.pdf)
+</details>
+
 
 1. D.-T. Nguyen, Stabilization against collapse of 2D attractive Bose–Einstein condensates with repulsive three-body interactions (2023). [Preprint](https://arxiv.org/pdf/2306.17617v1.pdf)
 
