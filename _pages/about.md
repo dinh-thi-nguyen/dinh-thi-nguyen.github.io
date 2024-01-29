@@ -7,6 +7,43 @@ redirect_from:
   - /about.html
 ---
 
+<table>
+  <thead>
+    <tr>
+      <th>Button Size</th>
+      <th>Example</th>
+      <th>Class</th>
+      <th>Kramdown</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>X-Large</td>
+      <td><a href="#" class="btn btn--primary btn--x-large">X-Large Button</a></td>
+      <td><code class="language-plaintext highlighter-rouge">.btn .btn--primary .btn--x-large</code></td>
+      <td><code class="language-plaintext highlighter-rouge">[Text](#link){: .btn .btn--primary .btn--x-large}</code></td>
+    </tr>
+    <tr>
+      <td>Large</td>
+      <td><a href="#" class="btn btn--primary btn--large">Large Button</a></td>
+      <td><code class="language-plaintext highlighter-rouge">.btn .btn--primary .btn--large</code></td>
+      <td><code class="language-plaintext highlighter-rouge">[Text](#link){: .btn .btn--primary .btn--large}</code></td>
+    </tr>
+    <tr>
+      <td>Default</td>
+      <td><a href="#" class="btn btn--primary">Default Button</a></td>
+      <td><code class="language-plaintext highlighter-rouge">.btn .btn--primary</code></td>
+      <td><code class="language-plaintext highlighter-rouge">[Text](#link){: .btn .btn--primary }</code></td>
+    </tr>
+    <tr>
+      <td>Small</td>
+      <td><a href="#" class="btn btn--primary btn--small">Small Button</a></td>
+      <td><code class="language-plaintext highlighter-rouge">.btn .btn--primary .btn--small</code></td>
+      <td><code class="language-plaintext highlighter-rouge">[Text](#link){: .btn .btn--primary .btn--small}</code></td>
+    </tr>
+  </tbody>
+</table>
+
 `Positions & Educations`
 ===
 ---
@@ -32,71 +69,6 @@ Mathematical Physics, _in particular_
 `Publications`
 ===
 ---
-
-<dl>
-  <dt>term</dt>
-  <dd>definition</dd>
-  <dd>another definition</dd>
-  <dt>another term</dt>
-  <dt>and another term</dt>
-  <dd>and a definition for the term</dd>
-</dl>
-
-<table rules="groups">
-  <thead>
-    <tr>
-      <th style="text-align: left">Header1</th>
-      <th style="text-align: center">Header2</th>
-      <th style="text-align: right">Header3</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="text-align: left">cell1</td>
-      <td style="text-align: center">cell2</td>
-      <td style="text-align: right">cell3</td>
-    </tr>
-    <tr>
-      <td style="text-align: left">cell4</td>
-      <td style="text-align: center">cell5</td>
-      <td style="text-align: right">cell6</td>
-    </tr>
-  </tbody>
-  <tbody>
-    <tr>
-      <td style="text-align: left">cell1</td>
-      <td style="text-align: center">cell2</td>
-      <td style="text-align: right">cell3</td>
-    </tr>
-    <tr>
-      <td style="text-align: left">cell4</td>
-      <td style="text-align: center">cell5</td>
-      <td style="text-align: right">cell6</td>
-    </tr>
-  </tbody>
-  <tfoot>
-    <tr>
-      <td style="text-align: left">Foot1</td>
-      <td style="text-align: center">Foot2</td>
-      <td style="text-align: right">Foot3</td>
-    </tr>
-  </tfoot>
-</table>
-
-
-<table>
-  <tbody>
-    <tr>
-      <td>A simple</td>
-      <td>table</td>
-    </tr>
-    <tr>
-      <td>with multiple</td>
-      <td>lines</td>
-    </tr>
-  </tbody>
-</table>
-
 
 1. D.-T. Nguyen, Stabilization against collapse of 2D attractive Bose–Einstein condensates with repulsive three-body interactions (2023). [Preprint](https://arxiv.org/pdf/2306.17617v1.pdf)
 
