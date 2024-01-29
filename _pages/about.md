@@ -10,15 +10,15 @@ redirect_from:
 `Positions & Educations`
 ===
 ---
-- 2022--: Postdoctoral researcher with [Prof. Douglas Lundholm](https://www.katalog.uu.se/profile/?id=N19-2326) at [Uppsala University](https://www.math.uu.se/?languageId=1), Sweden.
+- 2022--2024: `Postdoctoral researcher` at [Uppsala University](https://www.math.uu.se/?languageId=1), Sweden. Mentor: [Prof. Douglas Lundholm](https://www.katalog.uu.se/profile/?id=N19-2326).
 
-- 2020--2022: Postdoctoral researcher with [Prof. Nicolas Rougerie](http://www.umpa.ens-lyon.fr/umpa/annuaire/rougerie-nicolas) at [ENS Lyon & CNRS](http://www.umpa.ens-lyon.fr), France.
+- 2020--2022: `Postdoctoral researcher` at [ENS Lyon & CNRS](http://www.umpa.ens-lyon.fr), France. Mentor: [Prof. Nicolas Rougerie](http://www.umpa.ens-lyon.fr/umpa/annuaire/rougerie-nicolas).
 
-- 2017 -- 2020: PhD in Mathematical Physics with [Prof. Phan Thanh Nam](https://www.mathematik.uni-muenchen.de/~nam/) at [LMU Munich](https://www.mathematik.uni-muenchen.de), Germany. Thesis: [_Blow-Up Analysis for Focusing Many-Body Quantum Systems_](https://edoc.ub.uni-muenchen.de/26564/).
+- 2017--2020: `PhD in Mathematical Physics` at [LMU Munich](https://www.mathematik.uni-muenchen.de), Germany. Advisor: [Prof. Phan Thanh Nam](https://www.mathematik.uni-muenchen.de/~nam/). Thesis: [_Blow-Up Analysis for Focusing Many-Body Quantum Systems_](https://edoc.ub.uni-muenchen.de/26564/).
 
-- 2014--2016: Master in Fundamental & Applied Mathematics at [Université de Nantes](https://www.math.sciences.univ-nantes.fr/en), France.
+- 2014--2016: `Master in Fundamental & Applied Mathematics` at [Université de Nantes](https://www.math.sciences.univ-nantes.fr/en), France.
 
-- 2010--2014: Bachelor in Mathematics & Computer Sciences, [Vietnam National University](https://www.math.hcmus.edu.vn/en/) at Ho Chi Minh City, Vietnam.
+- 2010--2014: `Bachelor in Mathematics & Computer Sciences` at [Vietnam National University](https://www.math.hcmus.edu.vn/en/), Vietnam.
 
 
 `Publications`
