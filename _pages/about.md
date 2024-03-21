@@ -60,7 +60,7 @@ redirect_from:
 `Talks & Poster Presentations`
 ===
 ---
-
+The background color is `#ffffff` for light mode and `#000000` for dark mode.
 - Summer School on Current Topics in Mathematical Physics (July 2024)
 - The 9th European Congress of Mathematics, Seville, Spain (July 2024)
 - XIX International Congress on Mathematical Physics, Strasbourg, France (July 2024)
