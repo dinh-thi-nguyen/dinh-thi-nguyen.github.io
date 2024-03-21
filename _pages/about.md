@@ -56,3 +56,26 @@ redirect_from:
 - Teaching Assistant: Mathematical Quantum Mechanics II, LMU Munich (Summer 2018)
 - Teaching Assistant: Functional Analysis II, LMU Munich (Winter 2017)
 - Teaching Assistant: Complex Analysis, LMU Munich (Summer 2017)
+
+`Talks and Poster Presentations`
+===
+---
+
+- July 2024: Summer School on Current Topics in Mathematical Physics
+- July 2024: The 9th European Congress of Mathematics, Seville, Spain
+- July 2024: XIX International Congress on Mathematical Physics, Strasbourg, France
+- June 2024: Summer School on Effective Approximation and Dynamics of Many-Body Quantum Systems, Metz, France
+- September 2023: Workshop for Young Researchers on Analysis and Mathematical Physics, Seoul, Korea
+- August 2023: The 10th Vietnam Mathematical Congress, Da Nang, Vietnam
+- August 2023: VIASM-IAMP Summer School in Mathematical Physics, Quy Nhon, Vietnam
+- September 2022: Conference “QMath15: Mathematical Results in Quantum Physics”, UC Davis, United States
+- June 2022: The third School and Workshop “Mathematical Challenges in Quantum Mechanics”, Como, Italy
+- May 2022: School and Workshop “INdAM Quantum Meetings”, Milan, Italy
+- March 2022: Conference “Journés Jeunes EDPistes”, Lyon, France
+- August 2021: XX International Congress on Mathematical Physics, Geneva, Switzerland
+- August 2019: Conference “QMath14: Mathematical Results in Quantum Physics”, Univer- sity of Aarhus, Denmark
+- March 2019: Conference “Spectral Methods in Mathematical Physics”, Mittag-Leffler Institute, Stockholm, Sweden
+- November 2018: Gran Sasso Quantum Meetings “From many particle systems to quantum fluids”, Gran Sasso Science Institute, L’Aquila, Italy
+- July 2018: XIX International Congress on Mathematical Physics, Montréal, Canada
+- February 2018: The second School and Workshop “Mathematical Challenges in Quantum Mechanics”, Sapienza Università di Roma, Italy
+- July 2017: Summer School “Current Topics in Mathematic Physics”, Universität Zürich, Switzerland
