@@ -57,7 +57,7 @@ redirect_from:
 - Teaching Assistant: Functional Analysis II, LMU Munich (Winter 2017)
 - Teaching Assistant: Complex Analysis, LMU Munich (Summer 2017)
 
-`Talks & Poster Presentations`
+# Talks & `Poster Presentations`
 ===
 ---
 The background color is `#ffffff` for light mode and `#000000` for dark mode.
