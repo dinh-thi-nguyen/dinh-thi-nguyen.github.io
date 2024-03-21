@@ -57,7 +57,7 @@ redirect_from:
 - Teaching Assistant: Functional Analysis II, LMU Munich (Winter 2017)
 - Teaching Assistant: Complex Analysis, LMU Munich (Summer 2017)
 
-`Talks and Poster Presentations`
+`Talks & Poster Presentations`
 ===
 ---
 
