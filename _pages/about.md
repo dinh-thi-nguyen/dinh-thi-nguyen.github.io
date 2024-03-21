@@ -11,9 +11,9 @@ redirect_from:
 `Positions & Educations`
 ===
 ---
-- 2022--2024: `Postdoctoral researcher` at [Uppsala University](https://www.math.uu.se/?languageId=1), Sweden.<br/> Mentor: [Prof. Douglas Lundholm](https://www.katalog.uu.se/profile/?id=N19-2326).
+- 2022--2024: `Postdoctoral Researcher` at [Uppsala University](https://www.math.uu.se/?languageId=1), Sweden.<br/> Mentor: [Prof. Douglas Lundholm](https://www.katalog.uu.se/profile/?id=N19-2326).
 
-- 2020--2022: `Postdoctoral researcher` at [ENS Lyon & CNRS](http://www.umpa.ens-lyon.fr), France.<br/> Mentor: [Prof. Nicolas Rougerie](http://www.umpa.ens-lyon.fr/umpa/annuaire/rougerie-nicolas).
+- 2020--2022: `Postdoctoral Researcher` at [ENS Lyon & CNRS](http://www.umpa.ens-lyon.fr), France.<br/> Mentor: [Prof. Nicolas Rougerie](http://www.umpa.ens-lyon.fr/umpa/annuaire/rougerie-nicolas).
 
 - 2016--2020: `PhD in Mathematical Physics` at [LMU Munich](https://www.mathematik.uni-muenchen.de), Germany.<br/> Advisor: [Prof. Phan Thanh Nam](https://www.mathematik.uni-muenchen.de/~nam/).<br/> Thesis: [_Blow-Up Analysis for Focusing Many-Body Quantum Systems_](https://edoc.ub.uni-muenchen.de/26564/).
 
@@ -43,3 +43,16 @@ redirect_from:
 1. D.-T. Nguyen, _Many-Body Blow-Up Profile of Boson Stars with External Potentials_, Review in Mathematical Physics, 31(10), p. 1950034 (2019). [Article](https://doi.org/10.1142/S0129055X1950034X), [Preprint](https://arxiv.org/abs/1805.00191)
 
 1. D.-T. Nguyen, _On Blow-up Profile of Ground States of Boson Stars with External Potential_, Journal of Statistical Physics, 169(2), pp. 395-422 (2017). [Article](https://doi.org/10.1007/s10955-017-1872-1), [Preprint](https://arxiv.org/abs/1703.10324)
+
+
+`Teaching Experience`
+===
+---
+
+- Teaching Assistant: Several Variables Calculus, Uppsala University (Fall 2023)
+- Teaching Assistant: Mathematical Quantum Mechanics II, LMU Munich (Summer 2020)
+- Teaching Assistant: Mathematical Quantum Mechanics I, LMU Munich (Winter 2019)
+- Teaching Assistant: Mathematical Quantum Mechanics I, LMU Munich (Winter 2018)
+- Teaching Assistant: Mathematical Quantum Mechanics II, LMU Munich (Summer 2018)
+- Teaching Assistant: Functional Analysis II, LMU Munich (Winter 2017)
+- Teaching Assistant: Complex Analysis, LMU Munich (Summer 2017)
