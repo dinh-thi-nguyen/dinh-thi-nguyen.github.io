@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-# Positions & Educations
+`Positions & Educations`
 ===
 ---
 - 2022--2024: `Postdoctoral Researcher` at [Uppsala University](https://www.math.uu.se/?languageId=1), Sweden.<br/> Mentor: [Prof. Douglas Lundholm](https://www.katalog.uu.se/profile/?id=N19-2326).
@@ -57,7 +57,7 @@ redirect_from:
 - Teaching Assistant: Functional Analysis II, LMU Munich (Winter 2017)
 - Teaching Assistant: Complex Analysis, LMU Munich (Summer 2017)
 
-# Talks & `Poster Presentations`
+`Talks & Poster Presentations`
 ===
 ---
 The background color is `#ffffff` for light mode and `#000000` for dark mode.
