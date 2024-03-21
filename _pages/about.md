@@ -11,7 +11,7 @@ redirect_from:
 `Positions & Educations`
 ===
 ---
-- 2022--2024: `**Postdoctoral Researcher**` at [Uppsala University](https://www.math.uu.se/?languageId=1), Sweden.<br/> Mentor: [Prof. Douglas Lundholm](https://www.katalog.uu.se/profile/?id=N19-2326).
+- 2022--2024: `Postdoctoral Researcher` at [Uppsala University](https://www.math.uu.se/?languageId=1), Sweden.<br/> Mentor: [Prof. Douglas Lundholm](https://www.katalog.uu.se/profile/?id=N19-2326).
 
 - 2020--2022: `Postdoctoral Researcher` at [ENS Lyon & CNRS](http://www.umpa.ens-lyon.fr), France.<br/> Mentor: [Prof. Nicolas Rougerie](http://www.umpa.ens-lyon.fr/umpa/annuaire/rougerie-nicolas).
 
