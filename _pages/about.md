@@ -61,7 +61,11 @@ redirect_from:
 ===
 ---
 
-- Summer School on Current Topics in Mathematical Physics (July 2024)
+|:Year:         | :Name:       | :Type: |
+| ------------- | ------------- | ------------- |
+| :July 2024:  | :Summer School on Current Topics in Mathematical Physics: | :Contributed Talk: |
+| Content Cell  | Content Cell  | ------------- |
+
 - `The 9th European Congress of Mathematics, Seville, Spain (July 2024)`
 - XIX International Congress on Mathematical Physics, Strasbourg, France (July 2024)
 - `Summer School on Effective Approximation and Dynamics of Many-Body Quantum Systems, Metz, France (June 2024)`
