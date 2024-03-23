@@ -61,9 +61,9 @@ redirect_from:
 ===
 ---
 
-|:Year:         | :Name:       | :Type: |
-| ------------- | ------------- | ------------- |
-| :July 2024:  | :Summer School on Current Topics in Mathematical Physics: | :Contributed Talk: |
+|Year         | Name       | Type |
+| :---         |     :---:      |          ---: |
+| July 2024  | Summer School on Current Topics in Mathematical Physics | Contributed Talk |
 | Content Cell  | Content Cell  | ------------- |
 
 - `The 9th European Congress of Mathematics, Seville, Spain (July 2024)`
