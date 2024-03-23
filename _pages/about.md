@@ -60,13 +60,6 @@ redirect_from:
 `Talks & Poster Presentations`
 ===
 ---
-<table width="100%">
-  <tr>
-  <td width="10%"></td>
-  <td width="70%"></td>
-  <td width="20%"></td>
-  </tr>
-</table>
 
 | Year | Name | Type |
 | :---: | :---: | :---: |
@@ -87,4 +80,3 @@ redirect_from:
 | November 2018 | Gran Sasso Quantum Meetings “From many particle systems to quantum fluids”, Gran Sasso Science Institute, L’Aquila, Italy | Contributed Talk |
 | July 2018 | XIX International Congress on Mathematical Physics, Montréal, Canada | Contributed Talk |
 | February 2018 | The second School and Workshop “Mathematical Challenges in Quantum Mechanics”, Roma, Italy | Contributed Talk |
-| July 2017 | Summer School “Current Topics in Mathematic Physics”, Zürich, Switzerland | Prticipant |
