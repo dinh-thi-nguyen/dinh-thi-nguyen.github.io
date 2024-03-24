@@ -78,5 +78,5 @@ redirect_from:
 | August 2019 | Conference “QMath14: Mathematical Results in Quantum Physics”, Aarhus, Denmark | Poster Presentation |
 | March 2019 | Conference “Spectral Methods in Mathematical Physics”, Mittag-Leffler Institute, Stockholm, Sweden | Invited Talk |
 | November 2018 | Gran Sasso Quantum Meetings “From many particle systems to quantum fluids”, Gran Sasso Science Institute, L’Aquila, Italy | Contributed Talk |
-| July 2018 | Young Researchers Symposium XIX International Congress on Mathematical Physics, Montréal, Canada | Contributed Talk |
+| July 2018 | Young Researchers Symposium & XIX International Congress on Mathematical Physics, Montréal, Canada | Contributed Talk |
 | February 2018 | The second School and Workshop “Mathematical Challenges in Quantum Mechanics”, Roma, Italy | Contributed Talk |
