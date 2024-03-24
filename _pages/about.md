@@ -65,7 +65,7 @@ redirect_from:
 | :---: | :---: | :---: |
 | July 2024 | Summer School “Current Topics in Mathematical Physics“, Zürich, Switzerland | <!-- Contributed Talk --> |
 | July 2024 | The 9th European Congress of Mathematics, Seville, Spain | <!-- Poster Presentation --> |
-| July 2024 | XIX International Congress on Mathematical Physics, Strasbourg, France | <!-- Poster Presentation --> |
+| July 2024 | Young Researchers Symposium & XIX International Congress on Mathematical Physics, Strasbourg, France | <!-- Poster Presentation --> |
 | June 2024 | Summer School on Effective Approximation and Dynamics of Many-Body Quantum Systems, Metz, France | Poster Presentation |
 | September 2023 | Workshop for Young Researchers on Analysis and Mathematical Physics, Seoul, Korea | Invited Talk |
 | August 2023 | The 10th Vietnam Mathematical Congress, Da Nang, Vietnam | Contributed Talk |
@@ -78,5 +78,5 @@ redirect_from:
 | August 2019 | Conference “QMath14: Mathematical Results in Quantum Physics”, Aarhus, Denmark | Poster Presentation |
 | March 2019 | Conference “Spectral Methods in Mathematical Physics”, Mittag-Leffler Institute, Stockholm, Sweden | Invited Talk |
 | November 2018 | Gran Sasso Quantum Meetings “From many particle systems to quantum fluids”, Gran Sasso Science Institute, L’Aquila, Italy | Contributed Talk |
-| July 2018 | XIX International Congress on Mathematical Physics, Montréal, Canada | Contributed Talk |
+| July 2018 | Young Researchers Symposium XIX International Congress on Mathematical Physics, Montréal, Canada | Contributed Talk |
 | February 2018 | The second School and Workshop “Mathematical Challenges in Quantum Mechanics”, Roma, Italy | Contributed Talk |
