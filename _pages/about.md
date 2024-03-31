@@ -8,6 +8,12 @@ redirect_from:
   - /about.html
 ---
 
+---
+toc: true
+toc_label: "Unique Title"
+toc_icon: "heart"  # corresponding Font Awesome icon name (without fa prefix)
+---
+
 <style scoped>
 table{font-size: 15px;}
 img{pointer-events: none;}
