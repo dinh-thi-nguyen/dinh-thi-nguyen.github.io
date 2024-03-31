@@ -8,11 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-<style scoped>
-table {
-  font-size: 15px;
-}
-</style>
 
 `Positions & Educations`
 ===
