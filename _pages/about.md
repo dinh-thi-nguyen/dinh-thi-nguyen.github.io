@@ -25,6 +25,12 @@ redirect_from:
 ===
 ---
 
+| Year | Author(s) | Title | Journal |
+| :---: | :---: | :---:  | :---: |
+| 1. | a | | |
+| 1. | b | | |
+
+
 1. D.-T. Nguyen, _Stabilization against collapse of 2D attractive Bose–Einstein condensates with repulsive three-body interactions_ (2023). [Preprint](https://arxiv.org/pdf/2306.17617v1.pdf)
 
 1. D.-T. Nguyen, J. Ricaud, _On one-dimensional Bose gases with two- and (critical) attractive three-body interactions_ (2022). [Preprint](https://doi.org/10.48550/arXiv:2210.04515)
