@@ -20,11 +20,11 @@ table {
 
 | Year | Position / Education | Place | Mentor / Advisor |
 | :---: | :---: | :---:  | :---: |
-| 2022&#8209;&#8209;2024 | Postdoctoral Researcher | [Uppsala&nbsp;University](https://www.math.uu.se/?languageId=1) <br /> Sweden | [Prof. Douglas Lundholm](https://www.katalog.uu.se/profile/?id=N19-2326) |
-| 2020&#8209;&#8209;2022 | Postdoctoral Researcher | [ENS&nbsp;Lyon&nbsp;&&nbsp;CNRS](http://www.umpa.ens-lyon.fr) <br /> France | [Prof. Nicolas Rougerie](http://www.umpa.ens-lyon.fr/umpa/annuaire/rougerie-nicolas) |
-| 2016&#8209;2020 | **`PhD`** in Mathematical Physics <br /> _[Thesis](https://edoc.ub.uni-muenchen.de/26564/)_ | [LMU Munich](https://www.mathematik.uni-muenchen.de) <br /> Germany | [Prof. Phan Thanh Nam](https://www.mathematik.uni-muenchen.de/~nam/) |
-| 2014&#8209;&#8209;2016 | **`Master`** in Fundamental and Applied Mathematics | [Université&nbsp;de&nbsp;Nantes](https://www.math.sciences.univ-nantes.fr/en) <br /> France | [Prof. Erwan Le Gruyer](https://irmar.univ-rennes.fr/interlocuteurs/erwan-le-gruyer) |
-| 2010&#8209;&#8209;2014 | **`Bachelor`** in Mathematics and Computer Sciences | [VNU-HCMUS](https://www.math.hcmus.edu.vn/en/) <br /> Vietnam | [Prof. Duong Minh Duc](https://sites.google.com/view/duongminhduc/english) |
+| 2022&#8288;&#8211;&#8288;2024 | Postdoctoral Researcher | [Uppsala&nbsp;University](https://www.math.uu.se/?languageId=1) <br /> Sweden | [Prof. Douglas Lundholm](https://www.katalog.uu.se/profile/?id=N19-2326) |
+| 2020&#8288;&#8211;&#8288;2022 | Postdoctoral Researcher | [ENS&nbsp;Lyon&nbsp;&&nbsp;CNRS](http://www.umpa.ens-lyon.fr) <br /> France | [Prof. Nicolas Rougerie](http://www.umpa.ens-lyon.fr/umpa/annuaire/rougerie-nicolas) |
+| 2016&#8288;&#8211;&#8288;2020 | **`PhD`** in Mathematical Physics <br /> _[Thesis](https://edoc.ub.uni-muenchen.de/26564/)_ | [LMU Munich](https://www.mathematik.uni-muenchen.de) <br /> Germany | [Prof. Phan Thanh Nam](https://www.mathematik.uni-muenchen.de/~nam/) |
+| 2014&#8288;&#8211;&#8288;2016 | **`Master`** in Fundamental and Applied Mathematics | [Université&nbsp;de&nbsp;Nantes](https://www.math.sciences.univ-nantes.fr/en) <br /> France | [Prof. Erwan Le Gruyer](https://irmar.univ-rennes.fr/interlocuteurs/erwan-le-gruyer) |
+| 2010&#8288;&#8211;&#8288;2014 | **`Bachelor`** in Mathematics and Computer Sciences | [VNU-HCMUS](https://www.math.hcmus.edu.vn/en/) <br /> Vietnam | [Prof. Duong Minh Duc](https://sites.google.com/view/duongminhduc/english) |
 
 
 `Mathematical Interests`
@@ -71,9 +71,9 @@ table {
 
 | Year | Name | Place |
 | :---: | :---: | :---: |
-| 2014&#8209;&#8209;2016 | [Lebesgue Master Scholarship](https://www.lebesgue.fr/en/content/bourses_master) | France |
-| 2012&#8209;&#8209;2014 | [Scholarship from Vietnam Institute for Advanced Study in Mathematics](https://viasm.edu.vn/en/npdm/student-scholarship) | Vietnam |
-| 2010&#8209;&#8209;2014 | Scholarship for excellent students from Vietnam National University | Vietnam |
+| 2014&#8288;&#8211;&#8288;2016 | [Lebesgue Master Scholarship](https://www.lebesgue.fr/en/content/bourses_master) | France |
+| 2012&#8288;&#8211;&#8288;2014 | [Scholarship from Vietnam Institute for Advanced Study in Mathematics](https://viasm.edu.vn/en/npdm/student-scholarship) | Vietnam |
+| 2010&#8288;&#8211;&#8288;2014 | Scholarship for excellent students from Vietnam National University | Vietnam |
 | 2010 | Odon Vallet Scholarship for excellent high school students | Vietnam |
 | 2010 | Second Prize of Vietnam Mathematical Olympiad (high school) | Vietnam |
 
