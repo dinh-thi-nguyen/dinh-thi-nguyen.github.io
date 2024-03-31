@@ -25,7 +25,7 @@ redirect_from:
 ===
 ---
 
-!(https://www.mermaidchart.com/raw/d044d349-6cef-403e-8063-bd7cde957c1c?theme=light&version=v0.1&format=svg)
+![](https://www.mermaidchart.com/raw/d044d349-6cef-403e-8063-bd7cde957c1c?theme=light&version=v0.1&format=svg)
 
 `Publications`
 ===
