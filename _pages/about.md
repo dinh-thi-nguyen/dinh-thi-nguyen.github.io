@@ -61,6 +61,17 @@ redirect_from:
 `Achievements`
 ===
 ---
+
+| Year | Course | Place |
+| :---: | :---: | :---: |
+| Fall 2023 | Calculus of Several Variables | Uppsala University |
+| Summer 2020 | Mathematical Quantum Mechanics II | LMU Munich |
+| Winter 2019 | Mathematical Quantum Mechanics I | LMU Munich |
+| Winter 2018 | Mathematical Quantum Mechanics I | LMU Munich |
+| Summer 2018 | Mathematical Quantum Mechanics II | LMU Munich |
+| Winter 2017 | Functional Analysis II | LMU Munich |
+| Summer 2017 | Complex Analysis | LMU Munich |
+
 | Year | Name | Place |
 | :---: | :---: | :---: |
 | 2014--2016 | Lebesgue Master Scholarship | France |
