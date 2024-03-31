@@ -7,7 +7,6 @@ classes: wide
 toc: true
 toc_sticky: true
 toc_label: "Table of Content"
-toc_icon: "heart"  # corresponding Font Awesome icon name (without fa prefix)
 redirect_from: 
   - /about/
   - /about.html
