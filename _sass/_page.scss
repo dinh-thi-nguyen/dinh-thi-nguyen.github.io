@@ -17,6 +17,10 @@
 }
 
 .page {
+  width: calc(100% - #{$right-sidebar-width-narrow});
+}
+
+.page {
   @include breakpoint($large) {
     @include span(10 of 12 last);
     @include prefix(0.5 of 12);
@@ -149,7 +153,7 @@
     .page__lead {
       max-width: $medium;
     }
-
+   
     .page__title {
       font-size: $type-size-2;
 
