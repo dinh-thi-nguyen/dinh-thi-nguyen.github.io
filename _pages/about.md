@@ -47,7 +47,7 @@ graph TD;
 
 
 <div class="mermaid">
-mindmap
+mindmap TD;
   root((mindmap))
     Origins
       Long history
