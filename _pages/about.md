@@ -69,7 +69,7 @@ redirect_from:
 | July <br /> 2024 | Summer School “Current Topics in Mathematical Physics“ | Zürich <br /> Switzerland | <!-- Contributed <br /> Talk --> |
 | July <br /> 2024 | The 9th European Congress of Mathematics | Seville <br /> Spain | <!-- Poster Presentation --> |
 | July <br /> 2024 | XIX International Congress on Mathematical Physics | Strasbourg <br /> France | <!-- Contributed <br /> Talk --> |
-| June <br /> 2024 | Summer School “Effective Approximation & Dynamics of Many-Body Quantum Systems“ | Metz, France | Poster <br /> Presentation |
+| June <br /> 2024 | Summer School “Effective Approximation & Dynamics of Many-Body Quantum Systems“ | Metz <br /> France | Poster <br /> Presentation |
 | September <br /> 2023 | Workshop for Young Researchers on Analysis and Mathematical Physics | Seoul <br /> Korea | Invited <br /> Talk |
 | August <br /> 2023 | The 10th Vietnam Mathematical Congress | Da Nang <br /> Vietnam | Contributed <br /> Talk |
 | August <br /> 2023 | VIASM-IAMP Summer School in Mathematical Physics | Quy Nhon <br /> Vietnam | Invited <br /> Talk |
