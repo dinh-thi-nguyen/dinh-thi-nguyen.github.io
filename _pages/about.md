@@ -4,6 +4,7 @@ title: ""
 excerpt: "Dinh-Thi Nguyen Homepage"
 author_profile: true
 layout: home
+classes: wide
 toc: true
 toc_sticky: true
 toc_label: "Table of Content"
