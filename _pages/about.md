@@ -34,7 +34,7 @@ redirect_from:
 | 2020 | `D.-T. Nguyen` | Blow-Up Profile of 2D Focusing Mixture Bose Gases | Zeitschrift für angewandte Mathematik und Physik, 71(3), p. 81 <br /> [Article](https://doi.org/10.1007/s00033-020-01302-y), [Preprint](https://arxiv.org/abs/1911.07810) |
 | 2019 | `D.-T. Nguyen` | Blow-up Profile of Neutron Stars in the Hartree--Fock--Bogoliubov Theory | Calculus of Variations and Partial Differential Equations, 58(6), p. 202 <br /> [Article](https://doi.org/10.1007/s00526-019-1641-x), [Preprint](https://arxiv.org/abs/1903.10062) |
 | 2019 | `D.-T. Nguyen` | Blow-up Profile of Neutron Stars in the Chandrasekhar Theory | Journal of Mathematical Physics, 60(7), p. 071508 <br /> [Article](https://doi.org/10.1063/1.5085277), [Preprint](https://arxiv.org/abs/1710.00538) |
-| 2019 | `D.-T.&nbsp;Nguyen` | Many-Body Blow-Up Profile of Boson Stars with External Potentials | Review in Mathematical Physics, 31(10), p. 1950034 <br /> [Article](https://doi.org/10.1142/S0129055X1950034X), [Preprint](https://arxiv.org/abs/1805.00191) |
+| 2019 | `**D.-T. Nguyen**` | Many-Body Blow-Up Profile of Boson Stars with External Potentials | Review in Mathematical Physics, 31(10), p. 1950034 <br /> [Article](https://doi.org/10.1142/S0129055X1950034X), [Preprint](https://arxiv.org/abs/1805.00191) |
 | 2017 | `D.-T. Nguyen` | On Blow-up Profile of Ground States of Boson Stars with External Potential | Journal of Statistical Physics, 169(2), pp. 395-422 <br /> [Article](https://doi.org/10.1007/s10955-017-1872-1), [Preprint](https://arxiv.org/abs/1703.10324) |
 
 
@@ -51,6 +51,17 @@ redirect_from:
 | Summer 2018 | Mathematical Quantum Mechanics II | LMU Munich |
 | Winter 2017 | Functional Analysis II | LMU Munich |
 | Summer 2017 | Complex Analysis | LMU Munich |
+
+`Achievement`
+===
+---
+| Year | Course | Place |
+| :---: | :---: | :---: |
+| 2014--2016 | Lebesgue Master Scholarship | France |
+| 2012–-2014 | Scholarship from Vietnam Institute for Advanced Study in Mathematics | Vietnam
+| 2010-–2014 | Scholarship for excellent students from Vietnam National University | Vietnam
+| 2010 | Odon Vallet Scholarship for excellent hight school students | Vietnam |
+| 2010 | Second Prize of Vietnam Mathematical Olympiad (high school) |
 
 
 `Talks & Poster Presentations`
