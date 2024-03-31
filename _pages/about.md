@@ -34,7 +34,7 @@ graph TD;
 ```
 
 ```mermaid
-flowchart LR
+graph TD
 A[Hard] -->|Text| B(Round)
 B --> C{Decision}
 C -->|One| D[Result 1]
