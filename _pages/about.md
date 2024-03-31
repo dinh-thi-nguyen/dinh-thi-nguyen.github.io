@@ -33,16 +33,6 @@ graph TD;
     C-->D;
 ```
 
-```mermaid
-graph TD;
-    Mathematical Physics-->Many-Body Quantum Mechanics;
-    Many-Body Quantum Mechanics-->Operator Theory;
-    Operator Theory-->Analysis;
-    Analysis-->Calculus of Variations & PDEs;
-    Calculus of Variations & PDEs-->Functional Inequality;
-    Functional Inequality-->Mathematical Physics;
-```
-
  
 `Publications`
 ===
@@ -74,6 +64,7 @@ graph TD;
 | Summer 2018 | Mathematical Quantum Mechanics II | LMU Munich |
 | Winter 2017 | Functional Analysis II | LMU Munich |
 | Summer 2017 | Complex Analysis | LMU Munich |
+
 
 `Achievements`
 ===
