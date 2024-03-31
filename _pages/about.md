@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Dinh-Thi Nguyen Homepage"
+title: ""
 excerpt: "Dinh-Thi Nguyen Homepage"
 author_profile: true
 toc: true
