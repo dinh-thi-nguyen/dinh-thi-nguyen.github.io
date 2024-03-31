@@ -25,11 +25,7 @@ redirect_from:
 ===
 ---
 
-<script type="module">
-  import mermaid from 'https://unpkg.com/mermaid@9/dist/mermaid.min.js';
-  import mindmap from 'https://unpkg.com/@mermaid-js/mermaid-mindmap@9/dist/mermaid-mindmap.min.js';
-  await mermaid.registerExternalDiagrams([mindmap]);
-</script>
+<script src="https://cdn.jsdelivr.net/npm/mermaid@10.9.0/dist/mermaid.min.js"></script>
 
 
 <div class="mermaid">
