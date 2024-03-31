@@ -10,7 +10,7 @@ redirect_from:
 
 <style scoped>
 table {
-  font-size: 16px;
+  font-size: 15px;
 }
 </style>
 
