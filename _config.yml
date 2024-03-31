@@ -76,7 +76,7 @@ analytics:
   provider               : false # false (default), "google", "google-universal", "google-gtag", "custom"
   google:
   tracking_id            : "G-EWHN1SLGTM"
-  anonymize_ip           : # true, false (default)
+  anonymize_ip           : true
     
 
 # Site Author
