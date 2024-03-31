@@ -73,7 +73,7 @@ redirect_from:
 | September <br /> 2023 | Workshop for Young Researchers on Analysis and Mathematical Physics | Seoul <br /> Korea | Invited <br /> Talk |
 | August <br /> 2023 | The 10th Vietnam Mathematical Congress | Da Nang <br /> Vietnam | Contributed <br /> Talk |
 | August <br /> 2023 | VIASM-IAMP Summer School in Mathematical Physics | Quy Nhon <br /> Vietnam | Invited <br /> Talk |
-| September <br /> 2022 | Conference “QMath15: Mathematical Results in Quantum Physics” | UC Davis <br /> United States | Contributed <br /> Talk |
+| September <br /> 2022 | Conference “QMath15: Mathematical Results in Quantum Physics” | UC Davis <br /> United~States | Contributed <br /> Talk |
 | June <br /> 2022 | The 3rd School & Workshop “Mathematical Challenges in Quantum Mechanics” | Como <br /> Italy | Contributed <br /> Talk |
 | May <br /> 2022 | School and Workshop “INdAM Quantum Meetings” | Milan <br /> Italy | Contributed <br /> Talk |
 | March <br /> 2022 | Conference “Journés Jeunes EDPistes” | Lyon <br /> France | Invited <br /> Talk |
