@@ -9,17 +9,9 @@ redirect_from:
 ---
 
 <style scoped>
-table {
-  font-size: 15px;
-}
+table{font-size: 15px;}
+img{pointer-events: none;}
 </style>
-
-document.addEventListener('contextmenu', (e) => {
-  if (e.target.tagName === 'svg') {
-    e.preventDefault()
-    e.stopPropagation()
-  }
-})
 
 `Positions & Educations`
 ===
