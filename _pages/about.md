@@ -64,22 +64,22 @@ redirect_from:
 ===
 ---
 
-| Year | Name | Type |
-| :---: | :---: | :---: |
-| July <br /> 2024 | Summer School “Current Topics in Mathematical Physics“, <br /> Zürich, Switzerland | <!-- Contributed <br /> Talk --> |
-| July <br /> 2024 | The 9th European Congress of Mathematics, <br /> Seville, Spain | <!-- Poster Presentation --> |
-| July <br /> 2024 | XIX International Congress on Mathematical Physics, <br /> Strasbourg, France | <!-- Contributed <br /> Talk --> |
-| June <br /> 2024 | Summer School “Effective Approximation & Dynamics of Many-Body Quantum Systems“, <br /> Metz, France | Poster <br /> Presentation |
-| September <br /> 2023 | Workshop for Young Researchers on Analysis and Mathematical Physics, <br /> Seoul, Korea | Invited <br /> Talk |
-| August <br /> 2023 | The 10th Vietnam Mathematical Congress, <br /> Da Nang, Vietnam | Contributed <br /> Talk |
-| August <br /> 2023 | VIASM-IAMP Summer School in Mathematical Physics, <br /> Quy Nhon, Vietnam | Invited <br /> Talk |
-| September <br /> 2022 | Conference “QMath15: Mathematical Results in Quantum Physics”, <br /> UC Davis, United States | Contributed <br /> Talk |
-| June <br /> 2022 | The 3rd School & Workshop “Mathematical Challenges in Quantum Mechanics”, <br /> Como, Italy | Contributed <br /> Talk |
-| May <br /> 2022 | School and Workshop “INdAM Quantum Meetings”, <br /> Milan, Italy | Contributed <br /> Talk |
-| March <br /> 2022 | Conference “Journés Jeunes EDPistes”, <br /> Lyon, France | Invited <br /> Talk |
-| August <br /> 2021 | XX International Congress on Mathematical Physics, <br /> Geneva, Switzerland | Contributed <br /> Talk |
-| August <br /> 2019 | Conference “QMath14: Mathematical Results in Quantum Physics”, <br /> Aarhus, Denmark | Poster <br /> Presentation |
-| March <br /> 2019 | Conference “Spectral Methods in Mathematical Physics”, <br /> Mittag-Leffler Institute, Stockholm, Sweden | Invited <br /> Talk |
-| November <br /> 2018 | Gran Sasso Quantum Meetings “From many particle systems to quantum fluids”, <br /> Gran Sasso Science Institute, L’Aquila, Italy | Contributed <br /> Talk |
-| July <br /> 2018 | XIX International Congress on Mathematical Physics, <br /> Montréal, Canada | Contributed <br /> Talk |
-| February <br /> 2018 | The 2nd School & Workshop “Mathematical Challenges in Quantum Mechanics”, <br /> Roma, Italy | Contributed <br /> Talk |
+| Year | Name | Place | Type |
+| :---: | :---: | :---:  | :---: |
+| July <br /> 2024 | Summer School “Current Topics in Mathematical Physics“ | Zürich, Switzerland | <!-- Contributed <br /> Talk --> |
+| July <br /> 2024 | The 9th European Congress of Mathematics | Seville, Spain | <!-- Poster Presentation --> |
+| July <br /> 2024 | XIX International Congress on Mathematical Physics | Strasbourg, France | <!-- Contributed <br /> Talk --> |
+| June <br /> 2024 | Summer School “Effective Approximation & Dynamics of Many-Body Quantum Systems“ | Metz, France | Poster <br /> Presentation |
+| September <br /> 2023 | Workshop for Young Researchers on Analysis and Mathematical Physics | Seoul, Korea | Invited <br /> Talk |
+| August <br /> 2023 | The 10th Vietnam Mathematical Congress | Da Nang, Vietnam | Contributed <br /> Talk |
+| August <br /> 2023 | VIASM-IAMP Summer School in Mathematical Physics | Quy Nhon, Vietnam | Invited <br /> Talk |
+| September <br /> 2022 | Conference “QMath15: Mathematical Results in Quantum Physics” | UC Davis, United States | Contributed <br /> Talk |
+| June <br /> 2022 | The 3rd School & Workshop “Mathematical Challenges in Quantum Mechanics” | Como, Italy | Contributed <br /> Talk |
+| May <br /> 2022 | School and Workshop “INdAM Quantum Meetings” | Milan, Italy | Contributed <br /> Talk |
+| March <br /> 2022 | Conference “Journés Jeunes EDPistes” | Lyon, France | Invited <br /> Talk |
+| August <br /> 2021 | XX International Congress on Mathematical Physics | Geneva, Switzerland | Contributed <br /> Talk |
+| August <br /> 2019 | Conference “QMath14: Mathematical Results in Quantum Physics” | Aarhus, Denmark | Poster <br /> Presentation |
+| March <br /> 2019 | Conference “Spectral Methods in Mathematical Physics” | Mittag-Leffler Institute, Stockholm, Sweden | Invited <br /> Talk |
+| November <br /> 2018 | Gran Sasso Quantum Meetings “From many particle systems to quantum fluids” | Gran Sasso Science Institute, L’Aquila, Italy | Contributed <br /> Talk |
+| July <br /> 2018 | XIX International Congress on Mathematical Physics | Montréal, Canada | Contributed <br /> Talk |
+| February <br /> 2018 | The 2nd School & Workshop “Mathematical Challenges in Quantum Mechanics” | Roma, Italy | Contributed <br /> Talk |
