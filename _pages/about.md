@@ -26,13 +26,14 @@ redirect_from:
 ---
 
 ```mermaid
-    A-->B;
-    A-->C;
-    B-->D;
-    C-->D;
+graph TD;
+    Mathematical Physics-->Many-Body Quantum Mechanics;
+    Mathematical Physics-->Operator Theory;
+    Functional Inequality-->Analysis;
+    Calculus of Variations & PDEs-->Analysis;
 ```
 
-
+ 
 `Publications`
 ===
 ---
