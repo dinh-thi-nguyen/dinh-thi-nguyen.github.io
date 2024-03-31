@@ -25,8 +25,11 @@ redirect_from:
 ===
 ---
 
-<script src="https://cdn.jsdelivr.net/npm/mermaid@10.9.0/dist/mermaid.min.js"></script>
-
+<script type="module">
+  import mermaid from 'https://unpkg.com/mermaid@9/dist/mermaid.min.js';
+  import mindmap from 'https://unpkg.com/@mermaid-js/mermaid-mindmap@9/dist/mermaid-mindmap.min.js';
+  await mermaid.registerExternalDiagrams([mindmap]);
+</script>
 
 <div class="mermaid">
 ```mermaid
@@ -49,25 +52,6 @@ graph TD;
     B-->D;
     C-->D;
 </div>
-
-
-mindmap TD;
-  root((mindmap))
-    Origins
-      Long history
-      ::icon(fa fa-book)
-      Popularisation
-        British popular psychology author Tony Buzan
-    Research
-      On effectivness<br/>and features
-      On Automatic creation
-        Uses
-            Creative techniques
-            Strategic planning
-            Argument mapping
-    Tools
-      Pen and paper
-      Mermaid
 
       
 <div class="mermaid">
