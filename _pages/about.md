@@ -26,7 +26,6 @@ redirect_from:
 ---
 
 ```mermaid
-graph TD;
     A-->B;
     A-->C;
     B-->D;
