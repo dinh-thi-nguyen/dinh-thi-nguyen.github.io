@@ -4,7 +4,7 @@ title: "Dinh-Thi Nguyen Homepage"
 excerpt: "Dinh-Thi Nguyen Homepage"
 author_profile: true
 toc: true
-toc_label: "Unique Title"
+toc_label: "Table of Content"
 toc_icon: "heart"  # corresponding Font Awesome icon name (without fa prefix)
 redirect_from: 
   - /about/
