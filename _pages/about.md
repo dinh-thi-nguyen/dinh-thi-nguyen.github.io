@@ -14,19 +14,6 @@ table {
 }
 </style>
 
-<script src='https://sites.google.com/site/bituotblog/disable-copy.js' type='text/javascript'/>
-<style>
-body{
--moz-user-select: none !important;
--webkit-touch-callout: none!important;
--webkit-user-select: none!important;
--khtml-user-select: none!important;
--moz-user-select: none!important;
--ms-user-select: none!important;
-user-select: none!important;
-}
-</style>
-
 $('body').bind('copy paste',function(e) {
     e.preventDefault(); return false; 
 });
