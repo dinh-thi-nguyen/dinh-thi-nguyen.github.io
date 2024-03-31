@@ -25,7 +25,7 @@ redirect_from:
 ===
 ---
 
-![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://myoctocat.com/assets/images/base-octocat.svg)
+!([https://myoctocat.com/assets/images/base-octocat.svg](https://www.mermaidchart.com/raw/d044d349-6cef-403e-8063-bd7cde957c1c?theme=light&version=v0.1&format=svg))
 
 `Publications`
 ===
