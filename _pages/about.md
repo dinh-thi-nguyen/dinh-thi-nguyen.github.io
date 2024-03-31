@@ -12,7 +12,7 @@ redirect_from:
   - /about.html
 ---
 
-{% include toc %}
+
 <style scoped>
 table{font-size: 15px;}
 img{pointer-events: none;}
