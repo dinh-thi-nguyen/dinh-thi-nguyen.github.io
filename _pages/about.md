@@ -14,9 +14,12 @@ table {
 }
 </style>
 
-$('body').bind('copy paste',function(e) {
-    e.preventDefault(); return false; 
-});
+document.addEventListener('contextmenu', (e) => {
+  if (e.target.tagName === 'svg') {
+    e.preventDefault()
+    e.stopPropagation()
+  }
+})
 
 `Positions & Educations`
 ===
