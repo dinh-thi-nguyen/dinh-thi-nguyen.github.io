@@ -28,6 +28,7 @@ redirect_from:
 <script src="https://unpkg.com/mermaid@8.0.0/dist/mermaid.min.js"></script>
 
 <div class="mermaid">
+```mermaid
 mindmap
   root((mindmap))
     Origins
@@ -45,6 +46,7 @@ mindmap
     Tools
       Pen and paper
       Mermaid
+```
 </div>
 
 `Publications`
