@@ -16,9 +16,9 @@ redirect_from:
 | :---: | :---: | :---:  | :---: | :---: |
 | 2022&nbsp;--&nbsp;2024 | Postdoctoral Researcher | [Uppsala&nbsp;University](https://www.math.uu.se/?languageId=1) <br /> Sweden | [Prof. Douglas Lundholm](https://www.katalog.uu.se/profile/?id=N19-2326) | |
 | 2020&nbsp;--&nbsp;2022 | Postdoctoral Researcher | [ENS&nbsp;Lyon&nbsp;&&nbsp;CNRS](http://www.umpa.ens-lyon.fr) <br /> France | [Prof. Nicolas Rougerie](http://www.umpa.ens-lyon.fr/umpa/annuaire/rougerie-nicolas) | |
-| 2016&nbsp;--&nbsp;2020 | PhD in Mathematical Physics | [LMU Munich](https://www.mathematik.uni-muenchen.de) <br /> Germany | [Prof. Phan Thanh Nam](https://www.mathematik.uni-muenchen.de/~nam/) | [Thesis](https://edoc.ub.uni-muenchen.de/26564/) |
-| 2014&nbsp;--&nbsp;2016 | Master in Fundamental <br /> & Applied Mathematics | [Université&nbsp;de&nbsp;Nantes](https://www.math.sciences.univ-nantes.fr/en) <br /> France | |
-| 2010&nbsp;--&nbsp;2014 | Bachelor in Mathematics <br /> & Computer Sciences | [Vietnam&nbsp;National&nbsp;University](https://www.math.hcmus.edu.vn/en/) <br /> Vietnam | |
+| 2016&nbsp;--&nbsp;2020 | **PhD** in Mathematical Physics | [LMU Munich](https://www.mathematik.uni-muenchen.de) <br /> Germany | [Prof. Phan Thanh Nam](https://www.mathematik.uni-muenchen.de/~nam/) | [Thesis](https://edoc.ub.uni-muenchen.de/26564/) |
+| 2014&nbsp;--&nbsp;2016 | **Master** in Fundamental <br /> & Applied Mathematics | [Université&nbsp;de&nbsp;Nantes](https://www.math.sciences.univ-nantes.fr/en) <br /> France | |
+| 2010&nbsp;--&nbsp;2014 | **Bachelor** in Mathematics <br /> & Computer Sciences | [Vietnam&nbsp;National&nbsp;University](https://www.math.hcmus.edu.vn/en/) <br /> Vietnam | |
 
 - 2022--2024: `Postdoctoral Researcher` at [Uppsala University](https://www.math.uu.se/?languageId=1), Sweden.<br/> Mentor: [Prof. Douglas Lundholm](https://www.katalog.uu.se/profile/?id=N19-2326).
 
