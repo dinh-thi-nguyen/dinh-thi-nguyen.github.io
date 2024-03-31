@@ -27,6 +27,9 @@ user-select: none!important;
 }
 </style>
 
+$('body').bind('copy paste',function(e) {
+    e.preventDefault(); return false; 
+});
 
 `Positions & Educations`
 ===
