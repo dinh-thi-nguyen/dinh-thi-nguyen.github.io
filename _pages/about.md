@@ -27,6 +27,14 @@ redirect_from:
 
 ```mermaid
 graph TD;
+    A-->B;
+    A-->C;
+    B-->D;
+    C-->D;
+```
+
+```mermaid
+graph TD;
     Mathematical Physics-->Many-Body Quantum Mechanics;
     Many-Body Quantum Mechanics-->Operator Theory;
     Operator Theory-->Analysis;
@@ -67,7 +75,7 @@ graph TD;
 | Winter 2017 | Functional Analysis II | LMU Munich |
 | Summer 2017 | Complex Analysis | LMU Munich |
 
-`Achievement`
+`Achievements`
 ===
 ---
 | Year | Name | Place |
