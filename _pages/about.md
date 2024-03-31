@@ -28,9 +28,11 @@ redirect_from:
 ```mermaid
 graph TD;
     Mathematical Physics-->Many-Body Quantum Mechanics;
-    Mathematical Physics-->Operator Theory;
+    Many-Body Quantum Mechanics-->Operator Theory;
+    Operator Theory-->Analysis;
+    Mathematical Physics-->Calculus of Variations & PDEs;
+    Calculus of Variations & PDEs-->Functional Inequality;
     Functional Inequality-->Analysis;
-    Calculus of Variations & PDEs-->Analysis;
 ```
 
  
