@@ -194,6 +194,7 @@ collections:
 # Defaults
 defaults:
   # _posts
+  class: wide
   - scope:
       path: ""
       type: posts
