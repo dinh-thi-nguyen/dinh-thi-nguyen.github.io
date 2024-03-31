@@ -33,7 +33,7 @@ redirect_from:
 
 | Year | Author(s) | Title | Journal |
 | :---: | :---: | :---:  | :---: |
-| 2024 | D.&#8209;T.&nbsp;Nguyen, `D.-T. Nguyen`, <br /> J. Ricaud | On one-dimensional Bose gases with two- and (critical) attractive three-body interactions | SIAM Journal on Mathematical Analysis <br /> [Preprint](https://doi.org/10.48550/arXiv:2210.04515) |
+| 2024 | _D.&#8209;T.&nbsp;Nguyen_, `D.-T. Nguyen`, <br /> J. Ricaud | On one-dimensional Bose gases with two- and (critical) attractive three-body interactions | SIAM Journal on Mathematical Analysis <br /> [Preprint](https://doi.org/10.48550/arXiv:2210.04515) |
 | 2023 | `D.-T. Nguyen` | Stabilization against collapse of 2D attractive Bose--Einstein condensates with repulsive three-body interactions |  ArXiv:2306.17617v1 <br /> [Preprint](https://arxiv.org/pdf/2306.17617v1.pdf) |
 | 2023 | V. D.&nbsp;Dinh, <br /> `D.-T. Nguyen`, <br /> N.&nbsp;Rougerie | Blowup of two-dimensional attractive Bose--Einstein condensates at the critical rotational speed | Annales de l'Institut Henri Poincaré C, Analyse non linéaire <br /> [Article](https://doi.org/10.4171/AIHPC/94), [Preprint](https://arxiv.org/abs/2208.08317) |
 | 2022 | `D.-T. Nguyen`, <br /> N. Rougerie | Thomas-Fermi profile of a fast rotating Bose--Einstein condensate | Pure and Applied Analysis, 4(3), pp. 535-569 <br /> [Article](https://doi.org/10.2140/paa.2022.4.535), [Preprint](https://arxiv.org/abs/2201.04418) |
