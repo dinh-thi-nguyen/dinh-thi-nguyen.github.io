@@ -11,11 +11,20 @@ redirect_from:
 `Positions & Educations`
 ===
 ---
+
+| Year | Positions / Educations | Place | Mentor / Advisor | Thesis |
+| :---: | :---: | :---:  | :---: | :---: |
+| 2022--2024 | `Postdoctoral Researcher` | [Uppsala University](https://www.math.uu.se/?languageId=1), Sweden | [Prof. Douglas Lundholm](https://www.katalog.uu.se/profile/?id=N19-2326) | |
+| 2020--2022 | `Postdoctoral Researcher` | [ENS Lyon & CNRS](http://www.umpa.ens-lyon.fr), France | [Prof. Nicolas Rougerie](http://www.umpa.ens-lyon.fr/umpa/annuaire/rougerie-nicolas) | |
+| 2016--2020 | `PhD in Mathematical Physics` | [LMU Munich](https://www.mathematik.uni-muenchen.de), Germany | [Prof. Phan Thanh Nam](https://www.mathematik.uni-muenchen.de/~nam/) | [Blow-Up Analysis for Focusing Many-Body Quantum Systems](https://edoc.ub.uni-muenchen.de/26564/) |
+| 2014--2016 | `Master in Fundamental & Applied Mathematics` | [Université de Nantes](https://www.math.sciences.univ-nantes.fr/en), France | | | |
+| 2010--2014 | `Bachelor in Mathematics & Computer Sciences` | [Vietnam National University](https://www.math.hcmus.edu.vn/en/), Vietnam | | |
+
 - 2022--2024: `Postdoctoral Researcher` at [Uppsala University](https://www.math.uu.se/?languageId=1), Sweden.<br/> Mentor: [Prof. Douglas Lundholm](https://www.katalog.uu.se/profile/?id=N19-2326).
 
 - 2020--2022: `Postdoctoral Researcher` at [ENS Lyon & CNRS](http://www.umpa.ens-lyon.fr), France.<br/> Mentor: [Prof. Nicolas Rougerie](http://www.umpa.ens-lyon.fr/umpa/annuaire/rougerie-nicolas).
 
-- 2016--2020: `PhD in Mathematical Physics` at [LMU Munich](https://www.mathematik.uni-muenchen.de), Germany.<br/> Advisor: [Prof. Phan Thanh Nam](https://www.mathematik.uni-muenchen.de/~nam/).<br/> Thesis: [_Blow-Up Analysis for Focusing Many-Body Quantum Systems_](https://edoc.ub.uni-muenchen.de/26564/).
+- 2016--2020: `PhD in Mathematical Physics` at [LMU Munich](https://www.mathematik.uni-muenchen.de), Germany.<br/> Advisor: [Prof. Phan Thanh Nam](https://www.mathematik.uni-muenchen.de/~nam/).<br/> Thesis: [Blow-Up Analysis for Focusing Many-Body Quantum Systems](https://edoc.ub.uni-muenchen.de/26564/).
 
 - 2014--2016: `Master in Fundamental & Applied Mathematics` at [Université de Nantes](https://www.math.sciences.univ-nantes.fr/en), France.
 
