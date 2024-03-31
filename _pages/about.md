@@ -1,18 +1,16 @@
 ---
 permalink: /
-title: ""
+title: "Dinh-Thi Nguyen Homepage"
 excerpt: "Dinh-Thi Nguyen Homepage"
 author_profile: true
+toc: true
+toc_label: "Unique Title"
+toc_icon: "heart"  # corresponding Font Awesome icon name (without fa prefix)
 redirect_from: 
   - /about/
   - /about.html
 ---
 
----
-toc: true
-toc_label: "Unique Title"
-toc_icon: "heart"  # corresponding Font Awesome icon name (without fa prefix)
----
 
 <style scoped>
 table{font-size: 15px;}
