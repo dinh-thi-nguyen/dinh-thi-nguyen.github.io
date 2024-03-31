@@ -30,9 +30,9 @@ graph TD;
     Mathematical Physics-->Many-Body Quantum Mechanics;
     Many-Body Quantum Mechanics-->Operator Theory;
     Operator Theory-->Analysis;
-    Mathematical Physics-->Calculus of Variations & PDEs;
+    Analysis-->Calculus of Variations & PDEs;
     Calculus of Variations & PDEs-->Functional Inequality;
-    Functional Inequality-->Analysis;
+    Functional Inequality-->Mathematical Physics;
 ```
 
  
