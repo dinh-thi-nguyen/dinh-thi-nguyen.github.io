@@ -18,17 +18,7 @@ redirect_from:
 | 2020--2022 | Postdoctoral Researcher | [ENS&nbsp;Lyon&nbsp;&&nbsp;CNRS](http://www.umpa.ens-lyon.fr) <br /> France | [Prof. Nicolas Rougerie](http://www.umpa.ens-lyon.fr/umpa/annuaire/rougerie-nicolas) |
 | 2016--2020 | **PhD** in Mathematical Physics <br /> [Thesis](https://edoc.ub.uni-muenchen.de/26564/) | [LMU Munich](https://www.mathematik.uni-muenchen.de) <br /> Germany | [Prof. Phan Thanh Nam](https://www.mathematik.uni-muenchen.de/~nam/) |
 | 2014--2016 | **Master** in Fundamental <br /> & Applied Mathematics | [Université&nbsp;de&nbsp;Nantes](https://www.math.sciences.univ-nantes.fr/en) <br /> France | [Prof. Erwan Le Gruyer](https://irmar.univ-rennes.fr/interlocuteurs/erwan-le-gruyer) |
-| 2010--2014 | **Bachelor** in Mathematics <br /> & Computer Sciences | [VNU-HCMUS](https://www.math.hcmus.edu.vn/en/) <br /> Vietnam | Prof. [Prof. Duong Minh Duc](https://sites.google.com/view/duongminhduc/english) |
-
-- 2022--2024: `Postdoctoral Researcher` at [Uppsala University](https://www.math.uu.se/?languageId=1), Sweden.<br/> Mentor: [Prof. Douglas Lundholm](https://www.katalog.uu.se/profile/?id=N19-2326).
-
-- 2020--2022: `Postdoctoral Researcher` at [ENS Lyon & CNRS](http://www.umpa.ens-lyon.fr), France.<br/> Mentor: [Prof. Nicolas Rougerie](http://www.umpa.ens-lyon.fr/umpa/annuaire/rougerie-nicolas).
-
-- 2016--2020: `PhD in Mathematical Physics` at [LMU Munich](https://www.mathematik.uni-muenchen.de), Germany.<br/> Advisor: [Prof. Phan Thanh Nam](https://www.mathematik.uni-muenchen.de/~nam/).<br/> Thesis: [Blow-Up Analysis for Focusing Many-Body Quantum Systems](https://edoc.ub.uni-muenchen.de/26564/).
-
-- 2014--2016: `Master in Fundamental & Applied Mathematics` at [Université de Nantes](https://www.math.sciences.univ-nantes.fr/en), France.
-
-- 2010--2014: `Bachelor in Mathematics & Computer Sciences` at [Vietnam National University](https://www.math.hcmus.edu.vn/en/), Vietnam.
+| 2010--2014 | **Bachelor** in Mathematics <br /> & Computer Sciences | [VNU-HCMUS](https://www.math.hcmus.edu.vn/en/) <br /> Vietnam | [Prof. Duong Minh Duc](https://sites.google.com/view/duongminhduc/english) |
 
 
 `Publications`
