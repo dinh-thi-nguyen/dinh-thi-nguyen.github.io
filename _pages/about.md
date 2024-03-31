@@ -21,6 +21,19 @@ redirect_from:
 | 2010--2014 | **Bachelor** in Mathematics and Computer Sciences | [VNU-HCMUS](https://www.math.hcmus.edu.vn/en/) <br /> Vietnam | [Prof. Duong Minh Duc](https://sites.google.com/view/duongminhduc/english) |
 
 
+`Mathematical Interests`
+===
+---
+
+```mermaid
+graph TD;
+    A-->B;
+    A-->C;
+    B-->D;
+    C-->D;
+```
+
+
 `Publications`
 ===
 ---
