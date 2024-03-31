@@ -55,11 +55,11 @@ redirect_from:
 `Achievement`
 ===
 ---
-| Year | Course | Place |
+| Year | Name | Place |
 | :---: | :---: | :---: |
 | 2014--2016 | Lebesgue Master Scholarship | France |
-| 2012--2014 | Scholarship from Vietnam Institute for Advanced Study in Mathematics | Vietnam
-| 2010--2014 | Scholarship for excellent students from Vietnam National University | Vietnam
+| 2012--2014 | Scholarship from Vietnam Institute for Advanced Study in Mathematics | Vietnam |
+| 2010--2014 | Scholarship for excellent students from Vietnam National University | Vietnam |
 | 2010 | Odon Vallet Scholarship for excellent hight school students | Vietnam |
 | 2010 | Second Prize of Vietnam Mathematical Olympiad (high school) | Vietnam |
 
