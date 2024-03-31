@@ -8,6 +8,11 @@ redirect_from:
   - /about.html
 ---
 
+<style scoped>
+table {
+  font-size: 15px;
+}
+</style>
 
 `Positions & Educations`
 ===
@@ -66,8 +71,8 @@ redirect_from:
 
 | Year | Name | Place |
 | :---: | :---: | :---: |
-| 2014--2016 | Lebesgue Master Scholarship | France |
-| 2012--2014 | Scholarship from Vietnam Institute for Advanced Study in Mathematics | Vietnam |
+| 2014--2016 | [Lebesgue Master Scholarship](https://www.lebesgue.fr/en/content/bourses_master) | France |
+| 2012--2014 | [Scholarship from Vietnam Institute for Advanced Study in Mathematics](https://viasm.edu.vn/en/npdm/student-scholarship) | Vietnam |
 | 2010--2014 | Scholarship for excellent students from Vietnam National University | Vietnam |
 | 2010 | Odon Vallet Scholarship for excellent high school students | Vietnam |
 | 2010 | Second Prize of Vietnam Mathematical Olympiad (high school) | Vietnam |
