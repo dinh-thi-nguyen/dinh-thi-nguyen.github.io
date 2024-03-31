@@ -25,7 +25,8 @@ redirect_from:
 ===
 ---
 
-<script src="https://unpkg.com/mermaid@10.9.0/dist/mermaid.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/mermaid@10.9.0/dist/mermaid.min.js"></script>
+
 
 <div class="mermaid">
 ```mermaid
@@ -50,7 +51,7 @@ graph TD;
 </div>
 
 
-<div class="mermaid">
+<div class="mermaid-mindmap">
 mindmap TD;
   root((mindmap))
     Origins
