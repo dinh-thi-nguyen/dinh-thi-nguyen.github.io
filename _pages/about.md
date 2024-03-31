@@ -25,7 +25,7 @@ redirect_from:
 ===
 ---
 
-<script src="https://unpkg.com/mermaid@8.0.0/dist/mermaid.min.js"></script>
+<script src="https://unpkg.com/mermaid@9.0.0/dist/mermaid.min.js"></script>
 
 <div class="mermaid">
 ```mermaid
