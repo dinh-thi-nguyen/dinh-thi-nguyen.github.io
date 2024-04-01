@@ -7,8 +7,6 @@ layout: single
 classes: wide
 author_profile: true
 toc: true
-toc_sticky: true
-toc_label: "Table of Content"
 redirect_from: 
   - /about/
   - /about.html
