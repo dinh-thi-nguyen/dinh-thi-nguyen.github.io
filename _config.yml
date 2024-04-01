@@ -213,6 +213,7 @@ defaults:
       layout: single
       classes: wide
       author_profile: true
+      comments: true
   # _teaching
   - scope:
       path: ""
