@@ -3,7 +3,7 @@ permalink: /
 title: ""
 excerpt: "Dinh-Thi Nguyen Homepage"
 author_profile: true
-layout: single
+layout: splash
 classes: wide
 toc: true
 toc_sticky: true
