@@ -3,7 +3,7 @@ permalink: /
 title: ""
 excerpt: "Dinh-Thi Nguyen Homepage"
 author_profile: true
-layout: home
+layout: splash
 classes: wide
 author_profile: true
 toc: true
@@ -35,7 +35,19 @@ img{pointer-events: none;}
 ===
 ---
 
+<script type="module">
+  import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs';
+</script>
+
+
 ![](https://www.mermaidchart.com/raw/d044d349-6cef-403e-8063-bd7cde957c1c?theme=light&version=v0.1&format=svg)
+
+<script type="module">
+  import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@9.3.0/dist/mermaid.esm.min.mjs';
+  import mindmap from 'https://cdn.jsdelivr.net/npm/@mermaid-js/mermaid-mindmap@9.3.0/dist/mermaid-mindmap.esm.min.mjs';
+  await mermaid.registerExternalDiagrams([mindmap]);
+</script>
+
 
 `Publications`
 ===
