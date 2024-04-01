@@ -3,8 +3,7 @@ permalink: /
 title: ""
 excerpt: "Dinh-Thi Nguyen Homepage"
 author_profile: true
-layout: single
-classes: wide
+layout: splash
 author_profile: true
 toc: true
 redirect_from: 
@@ -18,11 +17,6 @@ table{font-size: 15px;}
 img{pointer-events: none;}
 </style>
 
-# Positions & Educations 
-## Second Positions & Educations 
-
-# A first-level heading
-## A second-level heading
 
 `Positions & Educations`
 ===
