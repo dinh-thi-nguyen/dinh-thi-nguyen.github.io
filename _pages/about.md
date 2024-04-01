@@ -4,8 +4,6 @@ title: ""
 excerpt: "Dinh-Thi Nguyen Homepage"
 author_profile: true
 layout: splash
-author_profile: true
-toc: true
 redirect_from: 
   - /about/
   - /about.html
