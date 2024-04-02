@@ -25,7 +25,7 @@ img{pointer-events: none;}
 | :---: | :---: | :---:  | :---: |
 | 2022&#8288;&#8211;&#8288;2024 | Postdoctoral Researcher | [Uppsala&nbsp;University](https://www.math.uu.se/?languageId=1), Sweden | [Prof. Douglas Lundholm](https://www.katalog.uu.se/profile/?id=N19-2326) |
 | 2020&#8288;&#8211;&#8288;2022 | Postdoctoral Researcher | [ENS&nbsp;Lyon&nbsp;&&nbsp;CNRS](http://www.umpa.ens-lyon.fr), France | [Prof. Nicolas Rougerie](http://www.umpa.ens-lyon.fr/umpa/annuaire/rougerie-nicolas) |
-| 2016&#8288;&#8211;&#8288;2020 | **PhD** in Mathematical Physics <br /> _[Thesis](https://edoc.ub.uni-muenchen.de/26564/)_ | [LMU Munich](https://www.mathematik.uni-muenchen.de), Germany | [Prof. Phan Thanh Nam](https://www.mathematik.uni-muenchen.de/~nam/) |
+| 2016&#8288;&#8211;&#8288;2020 | **PhD** in Mathematical Physics. _[Thesis](https://edoc.ub.uni-muenchen.de/26564/)_ | [LMU Munich](https://www.mathematik.uni-muenchen.de), Germany | [Prof. Phan Thanh Nam](https://www.mathematik.uni-muenchen.de/~nam/) |
 | 2014&#8288;&#8211;&#8288;2016 | **Master** in Fundamental and Applied Mathematics | [Université&nbsp;de&nbsp;Nantes](https://www.math.sciences.univ-nantes.fr/en), France | [Prof. Erwan Le Gruyer](https://irmar.univ-rennes.fr/interlocuteurs/erwan-le-gruyer) |
 | 2010&#8288;&#8211;&#8288;2014 | **Bachelor** in Mathematics and Computer Sciences | [VNU-HCMUS](https://www.math.hcmus.edu.vn/en/), Vietnam | [Prof. Duong Minh Duc](https://sites.google.com/view/duongminhduc/english) |
 
