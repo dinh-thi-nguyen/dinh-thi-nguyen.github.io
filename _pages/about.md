@@ -12,7 +12,7 @@ redirect_from:
 
 
 <style scoped>
-table{font-size: 15px;}
+table{font-size: 16px;}
 img{pointer-events: none;}
 </style>
 
@@ -34,18 +34,7 @@ img{pointer-events: none;}
 ===
 ---
 
-<script type="module">
-  import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs';
-</script>
-
-
 ![](https://www.mermaidchart.com/raw/d044d349-6cef-403e-8063-bd7cde957c1c?theme=light&version=v0.1&format=svg)
-
-<script type="module">
-  import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@9.3.0/dist/mermaid.esm.min.mjs';
-  import mindmap from 'https://cdn.jsdelivr.net/npm/@mermaid-js/mermaid-mindmap@9.3.0/dist/mermaid-mindmap.esm.min.mjs';
-  await mermaid.registerExternalDiagrams([mindmap]);
-</script>
 
 
 `Publications`
@@ -57,12 +46,12 @@ img{pointer-events: none;}
 | 2024 | _D.&#8209;T.&nbsp;Nguyen_, <br /> J. Ricaud | On one-dimensional Bose gases with two- and (critical) attractive three-body interactions | SIAM Journal on Mathematical Analysis <br /> [Preprint](https://doi.org/10.48550/arXiv:2210.04515) |
 | 2023 | _D.&#8209;T.&nbsp;Nguyen_ | Stabilization against collapse of 2D attractive Bose--Einstein condensates with repulsive three-body interactions |  ArXiv:2306.17617v1 <br /> [Preprint](https://arxiv.org/pdf/2306.17617v1.pdf) |
 | 2023 | V.&nbsp;D.&nbsp;Dinh, <br /> _D.&#8209;T.&nbsp;Nguyen_, <br /> N.&nbsp;Rougerie | Blowup of two-dimensional attractive Bose--Einstein condensates at the critical rotational speed | Annales de l'Institut Henri Poincaré C, Analyse non linéaire <br /> [Article](https://doi.org/10.4171/AIHPC/94), [Preprint](https://arxiv.org/abs/2208.08317) |
-| 2022 | _D.&#8209;T.&nbsp;Nguyen_, <br /> N. Rougerie | Thomas-Fermi profile of a fast rotating Bose--Einstein condensate | Pure and Applied Analysis, 4(3), pp. 535-569 <br /> [Article](https://doi.org/10.2140/paa.2022.4.535), [Preprint](https://arxiv.org/abs/2201.04418) |
-| 2020 | _D.&#8209;T.&nbsp;Nguyen_ | Blow-Up Profile of 2D Focusing Mixture Bose Gases | Zeitschrift für angewandte Mathematik und Physik, 71(3), p. 81 <br /> [Article](https://doi.org/10.1007/s00033-020-01302-y), [Preprint](https://arxiv.org/abs/1911.07810) |
-| 2019 | _D.&#8209;T.&nbsp;Nguyen_ | Blow-up Profile of Neutron Stars in the Hartree--Fock--Bogoliubov Theory | Calculus of Variations and Partial Differential Equations, 58(6), p. 202 <br /> [Article](https://doi.org/10.1007/s00526-019-1641-x), [Preprint](https://arxiv.org/abs/1903.10062) |
-| 2019 | _D.&#8209;T.&nbsp;Nguyen_ | Blow-up Profile of Neutron Stars in the Chandrasekhar Theory | Journal of Mathematical Physics, 60(7), p. 071508 <br /> [Article](https://doi.org/10.1063/1.5085277), [Preprint](https://arxiv.org/abs/1710.00538) |
-| 2019 | _D.&#8209;T.&nbsp;Nguyen_ | Many-Body Blow-Up Profile of Boson Stars with External Potentials | Review in Mathematical Physics, 31(10), p. 1950034 <br /> [Article](https://doi.org/10.1142/S0129055X1950034X), [Preprint](https://arxiv.org/abs/1805.00191) |
-| 2017 | _D.&#8209;T.&nbsp;Nguyen_ | On Blow-up Profile of Ground States of Boson Stars with External Potential | Journal of Statistical Physics, 169(2), pp. 395-422 <br /> [Article](https://doi.org/10.1007/s10955-017-1872-1), [Preprint](https://arxiv.org/abs/1703.10324) |
+| 2022 | _D.&#8209;T.&nbsp;Nguyen_, <br /> N. Rougerie | Thomas-Fermi profile of a fast rotating Bose--Einstein condensate | Pure and Applied Analysis, 4(3), pp.&nbsp;535&#8288;&#8211;&#8288;569 <br /> [Article](https://doi.org/10.2140/paa.2022.4.535), [Preprint](https://arxiv.org/abs/2201.04418) |
+| 2020 | _D.&#8209;T.&nbsp;Nguyen_ | Blow-Up Profile of 2D Focusing Mixture Bose Gases | Zeitschrift für angewandte Mathematik und Physik, 71(3), p.&nbsp;81 <br /> [Article](https://doi.org/10.1007/s00033-020-01302-y), [Preprint](https://arxiv.org/abs/1911.07810) |
+| 2019 | _D.&#8209;T.&nbsp;Nguyen_ | Blow-up Profile of Neutron Stars in the Hartree--Fock--Bogoliubov Theory | Calculus of Variations and Partial Differential Equations, 58(6), p.&nbsp;202 <br /> [Article](https://doi.org/10.1007/s00526-019-1641-x), [Preprint](https://arxiv.org/abs/1903.10062) |
+| 2019 | _D.&#8209;T.&nbsp;Nguyen_ | Blow-up Profile of Neutron Stars in the Chandrasekhar Theory | Journal of Mathematical Physics, 60(7), p.&nbsp;071508 <br /> [Article](https://doi.org/10.1063/1.5085277), [Preprint](https://arxiv.org/abs/1710.00538) |
+| 2019 | _D.&#8209;T.&nbsp;Nguyen_ | Many-Body Blow-Up Profile of Boson Stars with External Potentials | Review in Mathematical Physics, 31(10), p.&nbsp;1950034 <br /> [Article](https://doi.org/10.1142/S0129055X1950034X), [Preprint](https://arxiv.org/abs/1805.00191) |
+| 2017 | _D.&#8209;T.&nbsp;Nguyen_ | On Blow-up Profile of Ground States of Boson Stars with External Potential | Journal of Statistical Physics, 169(2), pp.&nbsp;395&#8288;&#8211;&#8288;422 <br /> [Article](https://doi.org/10.1007/s10955-017-1872-1), [Preprint](https://arxiv.org/abs/1703.10324) |
 
 
 `Teaching Experience`
