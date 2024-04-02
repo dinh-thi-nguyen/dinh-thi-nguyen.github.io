@@ -12,7 +12,7 @@ redirect_from:
 
 
 <style scoped>
-table{font-size: 16px;}
+table{font-size: 17px;}
 img{pointer-events: none;}
 </style>
 
