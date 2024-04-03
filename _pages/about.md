@@ -106,4 +106,4 @@ img{pointer-events: none;}
 | July <br /> 2018 | XIX International Congress on Mathematical Physics | Montréal <br /> Canada | Contributed <br /> Talk |
 | February <br /> 2018 | The 2nd School & Workshop “Mathematical Challenges in Quantum Mechanics” | Roma <br /> Italy | Contributed <br /> Talk |
 
-<iframe src="https://www.google.com/maps/d/embed?mid=1ELysbd_HcyENvsuK5auBFbFpwZ0" width="640" height="480"></iframe>
+<iframe src="https://www.google.com/maps/d/embed?mid=1qwnOjoPKjfauAtwDIOf5Zki56Nj0QJI&ehbc=2E312F" width="100%" height="480"></iframe>
