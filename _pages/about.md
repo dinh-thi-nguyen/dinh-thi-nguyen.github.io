@@ -107,4 +107,15 @@ img{pointer-events: none;}
 | February <br /> 2018 | The 2nd School & Workshop “Mathematical Challenges in Quantum Mechanics” | Roma <br /> Italy | Contributed <br /> Talk |
 
 
+<iframe
+  width="600"
+  height="450"
+  style="border:0"
+  loading="lazy"
+  allowfullscreen
+  referrerpolicy="no-referrer-when-downgrade"
+  src="https://www.google.com/maps/embed/v1/place?key=API_KEY
+    &q=Space+Needle,Seattle+WA">
+</iframe>
+
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1qwnOjoPKjfauAtwDIOf5Zki56Nj0QJI&ehbc=2E312F&noprof=1" width="100%" height="480">frameborder="0" style="border:0; margin-top: -200px;"></iframe>
