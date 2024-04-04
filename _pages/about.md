@@ -108,14 +108,13 @@ img{pointer-events: none;}
 
 
 <iframe
-  width="600"
-  height="450"
+  width="100%"
+  height="420"
   style="border:0"
   loading="lazy"
   allowfullscreen
   referrerpolicy="no-referrer-when-downgrade"
-  src="https://www.google.com/maps/embed/v1/place?key=API_KEY
-    &q=Space+Needle,Seattle+WA">
+  src="https://www.google.com/maps/d/u/0/embed?mid=1qwnOjoPKjfauAtwDIOf5Zki56Nj0QJI&ehbc=2E312F&noprof=1">
 </iframe>
 
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1qwnOjoPKjfauAtwDIOf5Zki56Nj0QJI&ehbc=2E312F&noprof=1" width="100%" height="480">frameborder="0" style="border:0; margin-top: -200px;"></iframe>
