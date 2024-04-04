@@ -117,4 +117,4 @@ img{pointer-events: none;}
   src="https://www.google.com/maps/d/u/0/embed?mid=1qwnOjoPKjfauAtwDIOf5Zki56Nj0QJI&ehbc=2E312F&noprof=1">
 </iframe>
 
-<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1qwnOjoPKjfauAtwDIOf5Zki56Nj0QJI&ehbc=2E312F&noprof=1" width="100%" height="480">frameborder="0" style="border:0; margin-top: -200px;"></iframe>
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1qwnOjoPKjfauAtwDIOf5Zki56Nj0QJI&ehbc=2E312F&noprof=1" width="100%" height="480"> style="border:0; margin-top: -200px;"></iframe>
