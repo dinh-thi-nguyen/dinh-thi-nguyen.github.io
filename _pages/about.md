@@ -21,7 +21,7 @@ img{pointer-events: none;}
 ===
 ---
 
-| Year | Position&nbsp;/&nbsp;Education | Place | Mentor&nbsp;/&nbsp;Advisor |
+| Year | Education / Position | Place | Advisor / Mentor |
 | :---: | :---: | :---:  | :---: |
 | 2022&#8288;&#8211;&#8288;2024 | Postdoctoral Researcher | [Uppsala&nbsp;University](https://www.math.uu.se/?languageId=1), Sweden | [Prof. Douglas Lundholm](https://www.katalog.uu.se/profile/?id=N19-2326) |
 | 2020&#8288;&#8211;&#8288;2022 | Postdoctoral Researcher | [ENS&nbsp;Lyon&nbsp;&&nbsp;CNRS](http://www.umpa.ens-lyon.fr), France | [Prof. Nicolas Rougerie](http://www.umpa.ens-lyon.fr/umpa/annuaire/rougerie-nicolas) |
