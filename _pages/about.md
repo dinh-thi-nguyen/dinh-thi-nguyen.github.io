@@ -104,6 +104,7 @@ img{pointer-events: none;}
 | August <br /> 2021 | [XX International Congress on Mathematical Physics](http://icmp2021.com) | Geneva <br /> Switzerland | Contributed <br /> Talk |
 | July <br /> 2020 | [SGPDE Workshop](https://sgiam.github.io/sgpde-workshop/) | HCMC <br /> Vietnam | Invited <br /> Talk |
 | February <br /> 2020 | [Bilbao Analysis and PDE](https://sites.google.com/view/apdebilbao/seminars/2019-2020) | Bilbao <br /> Spain | Seminar <br /> Talk |
+| October <br /> 2019 | [The Analysis of Complex Quantum Systems: Large Coulomb Systems and Related Matters](https://conferences.cirm-math.fr/2066.html) | CIRM, Marseille <br /> France | Contributed <br /> Talk |
 | August <br /> 2019 | [Conference "QMath14: Mathematical Results in Quantum Physics"](https://conferences.au.dk/qmath14) | Aarhus <br /> Denmark | Poster <br /> Presentation |
 | March <br /> 2019 | [Conference "Spectral Methods in Mathematical Physics"](https://www.mittag-leffler.se/activities/spectral-methods-in-mathematical-physics/) | Stockholm <br /> Sweden | Invited <br /> Talk |
 | November <br /> 2018 | [Gran Sasso Quantum Meetings "From many particle systems to quantum fluids"](https://indico.gssi.it/event/3/) | L’Aquila <br /> Italy | Contributed <br /> Talk |
