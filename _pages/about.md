@@ -92,6 +92,7 @@ img{pointer-events: none;}
 | July <br /> 2024 | [The 9th European Congress of Mathematics](https://www.ecm2024sevilla.com) | Seville <br /> Spain | <!-- Poster Presentation --> |
 | July <br /> 2024 | [XXI International Congress on Mathematical Physics](https://icmp2024.org) | Strasbourg <br /> France | <!-- Contributed <br /> Talk --> |
 | June <br /> 2024 | [Summer School "Effective Approximation & Dynamics of Many-Body Quantum Systems"](https://effective-quantum.sciencesconf.org) | Metz <br /> France | Poster <br /> Presentation |
+| September <br /> 2023 | [Seminar Mathematical Analysis](https://www.math.hcmus.edu.vn/en/tuyển-sinh/12-tin-tuc/tin-nghiên-cứu/798-mathematical-analysis-seminar) | VNU-HCMUS <br /> Vietnam | Seminar <br /> Talk |
 | September <br /> 2023 | [Workshop for Young Researchers on Analysis and Mathematical Physics](https://sites.google.com/view/my-ramp/) | Seoul <br /> Korea | Invited <br /> Talk |
 | August <br /> 2023 | [The 10th Vietnam Mathematical Congress](https://viasm.edu.vn/en/hdkh/dhthtq2023) | Da Nang <br /> Vietnam | Contributed <br /> Talk |
 | August <br /> 2023 | [VIASM-IAMP Summer School in Mathematical Physics](https://viasm.edu.vn/hdkh/iamp2023) | Quy Nhon <br /> Vietnam | Invited <br /> Talk |
