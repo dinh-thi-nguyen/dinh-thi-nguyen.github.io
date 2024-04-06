@@ -95,6 +95,7 @@ img{pointer-events: none;}
 | September <br /> 2023 | [Workshop for Young Researchers on Analysis and Mathematical Physics](https://sites.google.com/view/my-ramp/) | Seoul <br /> Korea | Invited <br /> Talk |
 | August <br /> 2023 | [The 10th Vietnam Mathematical Congress](https://viasm.edu.vn/en/hdkh/dhthtq2023) | Da Nang <br /> Vietnam | Contributed <br /> Talk |
 | August <br /> 2023 | [VIASM-IAMP Summer School in Mathematical Physics](https://viasm.edu.vn/hdkh/iamp2023) | Quy Nhon <br /> Vietnam | Invited <br /> Talk |
+| August <br /> 2023 | [PDEs and Applications seminar](https://www.math.uu.se/the-department/calendar/event/?eventId=79222) | Uppsala <br /> Sweden | Seminar <br /> Talk |
 | September <br /> 2022 | [Conference "Asymptotic analysis and spectral theory"](https://uol.de/aspect22) | Oldenburg <br /> Germany | Contributed <br /> Talk |
 | September <br /> 2022 | [Conference "QMath15: Mathematical Results in Quantum Physics"](https://www.math.ucdavis.edu/~qmath/) | UC Davis <br /> United&nbsp;States | Contributed <br /> Talk |
 | June <br /> 2022 | [The 3rd School & Workshop "Mathematical Challenges in Quantum Mechanics"](http://www.mcqm.it) | Como <br /> Italy | Contributed <br /> Talk |
@@ -102,6 +103,7 @@ img{pointer-events: none;}
 | March <br /> 2022 | [Conference "Journés Jeunes EDPistes"](https://jjedp22.sciencesconf.org) | Lyon <br /> France | Invited <br /> Talk |
 | August <br /> 2021 | [XX International Congress on Mathematical Physics](http://icmp2021.com) | Geneva <br /> Switzerland | Contributed <br /> Talk |
 | July <br /> 2020 | [SGPDE Workshop](https://sgiam.github.io/sgpde-workshop/) | HCMC <br /> Vietnam | Invited <br /> Talk |
+| February <br /> 2020 | [Bilbao Analysis and PDE](https://sites.google.com/view/apdebilbao/seminars/2019-2020) | Bilbao <br /> Spain | Seminar <br /> Talk |
 | August <br /> 2019 | [Conference "QMath14: Mathematical Results in Quantum Physics"](https://conferences.au.dk/qmath14) | Aarhus <br /> Denmark | Poster <br /> Presentation |
 | March <br /> 2019 | [Conference "Spectral Methods in Mathematical Physics"](https://www.mittag-leffler.se/activities/spectral-methods-in-mathematical-physics/) | Stockholm <br /> Sweden | Invited <br /> Talk |
 | November <br /> 2018 | [Gran Sasso Quantum Meetings "From many particle systems to quantum fluids"](https://indico.gssi.it/event/3/) | L’Aquila <br /> Italy | Contributed <br /> Talk |
