@@ -98,7 +98,7 @@ img{pointer-events: none;}
 | August <br /> 2023 | [VIASM-IAMP Summer School in Mathematical Physics](https://viasm.edu.vn/hdkh/iamp2023) | Quy Nhon <br /> Vietnam | Invited <br /> Talk |
 | August <br /> 2023 | [PDEs and Applications seminar](https://www.math.uu.se/the-department/calendar/event/?eventId=79222) | Uppsala <br /> Sweden | Seminar <br /> Talk |
 | September <br /> 2022 | [Conference "Asymptotic analysis and spectral theory"](https://uol.de/aspect22) | Oldenburg <br /> Germany | Contributed <br /> Talk |
-| September <br /> 2022 | [Conference "QMath15: Mathematical Results in Quantum Physics"](https://www.math.ucdavis.edu/~qmath/) | UC Davis <br /> United&nbsp;States | Contributed <br /> Talk |
+| September <br /> 2022 | [Conference "QMath15: Mathematical Results in Quantum Physics"](https://www.math.ucdavis.edu/~qmath/) | UC Davis <br /> USA | Contributed <br /> Talk |
 | June <br /> 2022 | [The 3rd School & Workshop "Mathematical Challenges in Quantum Mechanics"](http://www.mcqm.it) | Como <br /> Italy | Contributed <br /> Talk |
 | May <br /> 2022 | [School and Workshop "INdAM Quantum Meetings"](https://sites.google.com/view/iqm22) | Milan <br /> Italy | Contributed <br /> Talk |
 | March <br /> 2022 | [Conference "Journés Jeunes EDPistes"](https://jjedp22.sciencesconf.org) | Lyon <br /> France | Invited <br /> Talk |
