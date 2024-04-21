@@ -43,6 +43,7 @@ img{pointer-events: none;}
 
 | Year | Author(s) | Title | Journal |
 | :---: | :---: | :---:  | :---: |
+| 2024 | Alireza Ataei, <br /> Douglas Lundholm, <br /> _D.&#8209;T.&nbsp;Nguyen_ | A generalized Liouville equation and magnetic stability | ArXiv:2404.09332 <br /> [Preprint](https://arxiv.org/abs/2404.09332) |
 | 2024 | _D.&#8209;T.&nbsp;Nguyen_, <br /> J. Ricaud | On one-dimensional Bose gases with two- and (critical) attractive three-body interactions | SIAM Journal on Mathematical Analysis (accepted) <br /> [Preprint](https://arxiv.org/abs/2210.04515) |
 | 2023 | _D.&#8209;T.&nbsp;Nguyen_ | Stabilization against collapse of 2D attractive Bose&#8288;&#8211;&#8288;Einstein condensates with repulsive three-body interactions |  ArXiv:2306.17617v1 <br /> [Preprint](https://arxiv.org/pdf/2306.17617v1.pdf) |
 | 2023 | V.&nbsp;D.&nbsp;Dinh, <br /> _D.&#8209;T.&nbsp;Nguyen_, <br /> N.&nbsp;Rougerie | Blowup of two-dimensional attractive Bose&#8288;&#8211;&#8288;Einstein condensates at the critical rotational speed | Annales de l'Institut Henri Poincaré C, Analyse non linéaire <br /> [Article](https://doi.org/10.4171/AIHPC/94), [Preprint](https://arxiv.org/abs/2208.08317) |
