@@ -25,7 +25,7 @@ img{pointer-events: none;}
 | :---: | :---: | :---:  | :---: |
 | 2022&#8288;&#8211;&#8288;2024 | Postdoctoral Researcher | [Uppsala&nbsp;University](https://www.math.uu.se/?languageId=1), Sweden | [Prof. Douglas Lundholm](https://www.katalog.uu.se/profile/?id=N19-2326) |
 | 2020&#8288;&#8211;&#8288;2022 | Postdoctoral Researcher | [ENS&nbsp;Lyon&nbsp;&&nbsp;CNRS](http://www.umpa.ens-lyon.fr), France | [Prof. Nicolas Rougerie](http://www.umpa.ens-lyon.fr/umpa/annuaire/rougerie-nicolas) |
-| 2016&#8288;&#8211;&#8288;2020 | **PhD** in Mathematical Physics. _[Thesis](https://edoc.ub.uni-muenchen.de/26564/)_ | [LMU Munich](https://www.mathematik.uni-muenchen.de), Germany | [Prof. Phan Thanh Nam](https://www.mathematik.uni-muenchen.de/~nam/) |
+| 2016&#8288;&#8211;&#8288;2020 | **PhD** in Mathematical Physics. _[Thesis](https://edoc.ub.uni-muenchen.de/26564/)_ | [LMU Munich](https://www.mathematik.uni-muenchen.de), Germany | [Prof. Phan Thành Nam](https://www.mathematik.uni-muenchen.de/~nam/) |
 | 2014&#8288;&#8211;&#8288;2016 | **Master** in Fundamental and Applied Mathematics | [Université&nbsp;de&nbsp;Nantes](https://www.math.sciences.univ-nantes.fr/en), France | [Prof. Erwan Le Gruyer](https://irmar.univ-rennes.fr/interlocuteurs/erwan-le-gruyer) |
 | 2010&#8288;&#8211;&#8288;2014 | **Bachelor** in Mathematics and Computer Sciences | [VNU-HCMUS](https://www.math.hcmus.edu.vn/en/), Vietnam | [Prof. Duong Minh Duc](https://sites.google.com/view/duongminhduc/english) |
 
@@ -43,7 +43,7 @@ img{pointer-events: none;}
 
 | Year | Author(s) | Title | Journal |
 | :---: | :---: | :---:  | :---: |
-| 2024 | Alireza Ataei, <br /> Douglas Lundholm, <br /> _D.&#8209;T.&nbsp;Nguyen_ | A generalized Liouville equation and magnetic stability | ArXiv:2404.09332 <br /> [Preprint](https://arxiv.org/abs/2404.09332) |
+| 2024 | A. Ataei, <br /> D. Lundholm, <br /> _D.&#8209;T.&nbsp;Nguyen_ | A generalized Liouville equation and magnetic stability | ArXiv:2404.09332 <br /> [Preprint](https://arxiv.org/abs/2404.09332) |
 | 2024 | _D.&#8209;T.&nbsp;Nguyen_, <br /> J. Ricaud | On one-dimensional Bose gases with two- and (critical) attractive three-body interactions | SIAM Journal on Mathematical Analysis (accepted) <br /> [Preprint](https://arxiv.org/abs/2210.04515) |
 | 2023 | _D.&#8209;T.&nbsp;Nguyen_ | Stabilization against collapse of 2D attractive Bose&#8288;&#8211;&#8288;Einstein condensates with repulsive three-body interactions |  ArXiv:2306.17617v1 <br /> [Preprint](https://arxiv.org/pdf/2306.17617v1.pdf) |
 | 2023 | V.&nbsp;D.&nbsp;Dinh, <br /> _D.&#8209;T.&nbsp;Nguyen_, <br /> N.&nbsp;Rougerie | Blowup of two-dimensional attractive Bose&#8288;&#8211;&#8288;Einstein condensates at the critical rotational speed | Annales de l'Institut Henri Poincaré C, Analyse non linéaire <br /> [Article](https://doi.org/10.4171/AIHPC/94), [Preprint](https://arxiv.org/abs/2208.08317) |
