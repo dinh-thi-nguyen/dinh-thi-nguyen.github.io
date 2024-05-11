@@ -90,8 +90,8 @@ img{pointer-events: none;}
 | Year | Name | Place | Type |
 | :---: | :---: | :---:  | :---: |
 | July <br /> 2024 | [Summer School "Current Topics in Mathematical Physics"](https://www.math.uzh.ch/konferenzdetails0?key1=762) | Zürich <br /> Switzerland | <!-- Contributed <br /> Talk --> |
-| July <br /> 2024 | [The 9th European Congress of Mathematics](https://www.ecm2024sevilla.com) | Seville <br /> Spain | <!-- Poster Presentation --> |
-| July <br /> 2024 | [XXI International Congress on Mathematical Physics](https://icmp2024.org) | Strasbourg <br /> France | <!-- Contributed <br /> Talk --> |
+| July <br /> 2024 | [The 9th European Congress of Mathematics](https://www.ecm2024sevilla.com) | Seville <br /> Spain | Poster Presentation |
+| July <br /> 2024 | [XXI International Congress on Mathematical Physics](https://icmp2024.org) | Strasbourg <br /> France | Contributed <br /> Talk |
 | June <br /> 2024 | [Summer School "Effective Approximation & Dynamics of Many-Body Quantum Systems"](https://effective-quantum.sciencesconf.org) | Metz <br /> France | Poster <br /> Presentation |
 | September <br /> 2023 | [Seminar Mathematical Analysis](https://www.math.hcmus.edu.vn/en/tuyển-sinh/12-tin-tuc/tin-nghiên-cứu/798-mathematical-analysis-seminar) | HCMC <br /> Vietnam | Seminar <br /> Talk |
 | September <br /> 2023 | [Workshop for Young Researchers on Analysis and Mathematical Physics](https://sites.google.com/view/my-ramp/) | Seoul <br /> Korea | Invited <br /> Talk |
