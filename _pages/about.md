@@ -89,28 +89,28 @@ img{pointer-events: none;}
 
 | Year | Name | Place | Type |
 | :---: | :---: | :---:  | :---: |
-| 2024 <br /> July | [Summer School "Current Topics in Mathematical Physics"](https://www.math.uzh.ch/konferenzdetails0?key1=762) | Zürich <br /> Switzerland | <!-- Contributed <br /> Talk --> |
-| 2024 <br /> July | [The 9th European Congress of Mathematics](https://www.ecm2024sevilla.com) | Seville <br /> Spain | Poster Presentation |
-| 2024 <br /> July | [XXI International Congress on Mathematical Physics](https://icmp2024.org) | Strasbourg <br /> France | Contributed <br /> Talk |
-| 2024 <br /> June | [Summer School "Effective Approximation & Dynamics of Many-Body Quantum Systems"](https://effective-quantum.sciencesconf.org) | Metz <br /> France | Poster <br /> Presentation |
-| 2023 <br /> September | [Seminar Mathematical Analysis](https://www.math.hcmus.edu.vn/en/tuyển-sinh/12-tin-tuc/tin-nghiên-cứu/798-mathematical-analysis-seminar) | HCMC <br /> Vietnam | Seminar <br /> Talk |
-| 2023 <br /> September | [Workshop for Young Researchers on Analysis and Mathematical Physics](https://sites.google.com/view/my-ramp/) | Seoul <br /> Korea | Invited <br /> Talk |
-| 2023 <br /> August | [The 10th Vietnam Mathematical Congress](https://viasm.edu.vn/en/hdkh/dhthtq2023) | Da Nang <br /> Vietnam | Contributed <br /> Talk |
-| 2023 <br /> August | [VIASM-IAMP Summer School in Mathematical Physics](https://viasm.edu.vn/hdkh/iamp2023) | Quy Nhon <br /> Vietnam | Invited <br /> Talk |
-| 2023 <br /> August | [PDEs and Applications seminar](https://www.math.uu.se/the-department/calendar/event/?eventId=79222) | Uppsala <br /> Sweden | Seminar <br /> Talk |
-| 2022 <br /> September | [Conference "Asymptotic analysis and spectral theory"](https://uol.de/aspect22) | Oldenburg <br /> Germany | Contributed <br /> Talk |
-| 2022 <br /> September | [Conference "QMath15: Mathematical Results in Quantum Physics"](https://www.math.ucdavis.edu/~qmath/) | UC Davis <br /> USA | Contributed <br /> Talk |
-| 2022 <br /> June | [The 3rd School & Workshop "Mathematical Challenges in Quantum Mechanics"](http://www.mcqm.it) | Como <br /> Italy | Contributed <br /> Talk |
-| 2022 <br /> May | [School and Workshop "INdAM Quantum Meetings"](https://sites.google.com/view/iqm22) | Milan <br /> Italy | Contributed <br /> Talk |
-| 2022 <br /> March | [Conference "Journés Jeunes EDPistes"](https://jjedp22.sciencesconf.org) | Lyon <br /> France | Invited <br /> Talk |
-| 2021 <br /> August | [XX International Congress on Mathematical Physics](http://icmp2021.com) | Geneva <br /> Switzerland | Contributed <br /> Talk |
-| 2020 <br /> July | [SGPDE Workshop](https://sgiam.github.io/sgpde-workshop/) | HCMC <br /> Vietnam | Invited <br /> Talk |
-| 2020 <br /> February | [Bilbao Analysis and PDE](https://sites.google.com/view/apdebilbao/seminars/2019-2020) | Bilbao <br /> Spain | Seminar <br /> Talk |
-| 2019 <br /> October | [The Analysis of Complex Quantum Systems: Large Coulomb Systems and Related Matters](https://conferences.cirm-math.fr/2066.html) | CIRM <br /> France | Contributed <br /> Talk |
-| 2019 <br /> August | [Conference "QMath14: Mathematical Results in Quantum Physics"](https://conferences.au.dk/qmath14) | Aarhus <br /> Denmark | Poster <br /> Presentation |
-| 2019 <br /> March | [Conference "Spectral Methods in Mathematical Physics"](https://www.mittag-leffler.se/activities/spectral-methods-in-mathematical-physics/) | Stockholm <br /> Sweden | Invited <br /> Talk |
-| 2018 <br /> November | [Gran Sasso Quantum Meetings "From many particle systems to quantum fluids"](https://indico.gssi.it/event/3/) | L’Aquila <br /> Italy | Contributed <br /> Talk |
-| 2018 <br /> July | [XIX International Congress on Mathematical Physics](https://icmp2018.ca) | Montréal <br /> Canada | Contributed <br /> Talk |
-| 2018 <br /> February | [The 2nd School & Workshop "Mathematical Challenges in Quantum Mechanics"](https://mcqm18.cond-math.it) | Roma <br /> Italy | Contributed <br /> Talk |
+| 2024 <br /> July | [Summer School "Current Topics in Mathematical Physics"](https://www.math.uzh.ch/konferenzdetails0?key1=762) | Switzerland <br /> Zürich | <!-- Contributed <br /> Talk --> |
+| 2024 <br /> July | [The 9th European Congress of Mathematics](https://www.ecm2024sevilla.com) | Spain <br /> Seville | Poster Presentation |
+| 2024 <br /> July | [XXI International Congress on Mathematical Physics](https://icmp2024.org) | France <br /> Strasbourg | Contributed <br /> Talk |
+| 2024 <br /> June | [Summer School "Effective Approximation & Dynamics of Many-Body Quantum Systems"](https://effective-quantum.sciencesconf.org) | France <br /> Metz | Poster <br /> Presentation |
+| 2023 <br /> September | [Seminar Mathematical Analysis](https://www.math.hcmus.edu.vn/en/tuyển-sinh/12-tin-tuc/tin-nghiên-cứu/798-mathematical-analysis-seminar) | Vietnam <br /> HCMC | Seminar <br /> Talk |
+| 2023 <br /> September | [Workshop for Young Researchers on Analysis and Mathematical Physics](https://sites.google.com/view/my-ramp/) | Korea <br /> Seoul | Invited <br /> Talk |
+| 2023 <br /> August | [The 10th Vietnam Mathematical Congress](https://viasm.edu.vn/en/hdkh/dhthtq2023) | Vietnam <br /> Da Nang | Contributed <br /> Talk |
+| 2023 <br /> August | [VIASM-IAMP Summer School in Mathematical Physics](https://viasm.edu.vn/hdkh/iamp2023) | Vietnam <br /> Quy Nhon | Invited <br /> Talk |
+| 2023 <br /> August | [PDEs and Applications seminar](https://www.math.uu.se/the-department/calendar/event/?eventId=79222) | Sweden <br /> Uppsala | Seminar <br /> Talk |
+| 2022 <br /> September | [Conference "Asymptotic analysis and spectral theory"](https://uol.de/aspect22) | Germany <br /> Oldenburg | Contributed <br /> Talk |
+| 2022 <br /> September | [Conference "QMath15: Mathematical Results in Quantum Physics"](https://www.math.ucdavis.edu/~qmath/) | USA <br /> UC Davis | Contributed <br /> Talk |
+| 2022 <br /> June | [The 3rd School & Workshop "Mathematical Challenges in Quantum Mechanics"](http://www.mcqm.it) | Italy <br /> Como | Contributed <br /> Talk |
+| 2022 <br /> May | [School and Workshop "INdAM Quantum Meetings"](https://sites.google.com/view/iqm22) | Italy <br /> Milan | Contributed <br /> Talk |
+| 2022 <br /> March | [Conference "Journés Jeunes EDPistes"](https://jjedp22.sciencesconf.org) | France <br /> Lyon | Invited <br /> Talk |
+| 2021 <br /> August | [XX International Congress on Mathematical Physics](http://icmp2021.com) | Switzerland <br /> Geneva | Contributed <br /> Talk |
+| 2020 <br /> July | [SGPDE Workshop](https://sgiam.github.io/sgpde-workshop/) | Vietnam <br /> HCMC | Invited <br /> Talk |
+| 2020 <br /> February | [Bilbao Analysis and PDE](https://sites.google.com/view/apdebilbao/seminars/2019-2020) | Spain <br /> Bilbao | Seminar <br /> Talk |
+| 2019 <br /> October | [The Analysis of Complex Quantum Systems: Large Coulomb Systems and Related Matters](https://conferences.cirm-math.fr/2066.html) | France <br /> CIRM | Contributed <br /> Talk |
+| 2019 <br /> August | [Conference "QMath14: Mathematical Results in Quantum Physics"](https://conferences.au.dk/qmath14) | Denmark <br /> Aarhus | Poster <br /> Presentation |
+| 2019 <br /> March | [Conference "Spectral Methods in Mathematical Physics"](https://www.mittag-leffler.se/activities/spectral-methods-in-mathematical-physics/) | Sweden <br /> Stockholm | Invited <br /> Talk |
+| 2018 <br /> November | [Gran Sasso Quantum Meetings "From many particle systems to quantum fluids"](https://indico.gssi.it/event/3/) | Italy <br /> L’Aquila | Contributed <br /> Talk |
+| 2018 <br /> July | [XIX International Congress on Mathematical Physics](https://icmp2018.ca) | Canada <br /> Montréal | Contributed <br /> Talk |
+| 2018 <br /> February | [The 2nd School & Workshop "Mathematical Challenges in Quantum Mechanics"](https://mcqm18.cond-math.it) | Italy <br /> Roma | Contributed <br /> Talk |
 
 <iframe src="https://www.google.com/maps/d/u/1/embed?mid=1qwnOjoPKjfauAtwDIOf5Zki56Nj0QJI&ehbc=2E312F&noprof=1" width="100%" height="480"> style="border:0; margin-top: -200px;"></iframe>
