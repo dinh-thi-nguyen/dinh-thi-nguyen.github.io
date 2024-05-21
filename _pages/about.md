@@ -44,7 +44,7 @@ img{pointer-events: none;}
 | Year | Author(s) | Title | Journal |
 | :---: | :---: | :---:  | :---: |
 | 2024 | A. Ataei, <br /> D. Lundholm, <br /> _D.&#8209;T.&nbsp;Nguyen_ | A generalized Liouville equation and magnetic stability | ArXiv:2404.09332 <br /> [Preprint](https://arxiv.org/abs/2404.09332) |
-| 2024 | _D.&#8209;T.&nbsp;Nguyen_, <br /> J. Ricaud | On one-dimensional Bose gases with two- and (critical) attractive three-body interactions | SIAM Journal on Mathematical Analysis, 56(3), pp.&nbsp;3203&#8288;&#8211;&#8288;3251 <br /> [Article](https://doi.org/10.1137/22M1535139), [Preprint](https://arxiv.org/abs/2210.04515) |
+| 2024 | _D.&#8209;T.&nbsp;Nguyen_, <br /> J. Ricaud | On one-dimensional Bose gases with two-body and (critical) attractive three-body interactions | SIAM Journal on Mathematical Analysis, 56(3), pp.&nbsp;3203&#8288;&#8211;&#8288;3251 <br /> [Article](https://doi.org/10.1137/22M1535139), [Preprint](https://arxiv.org/abs/2210.04515) |
 | 2023 | _D.&#8209;T.&nbsp;Nguyen_ | Stabilization against collapse of 2D attractive Bose&#8288;&#8211;&#8288;Einstein condensates with repulsive three-body interactions |  ArXiv:2306.17617v1 <br /> [Preprint](https://arxiv.org/pdf/2306.17617v1.pdf) |
 | 2023 | V.&nbsp;D.&nbsp;Dinh, <br /> _D.&#8209;T.&nbsp;Nguyen_, <br /> N.&nbsp;Rougerie | Blowup of two-dimensional attractive Bose&#8288;&#8211;&#8288;Einstein condensates at the critical rotational speed | Annales de l'Institut Henri Poincaré C, Analyse non linéaire <br /> [Article](https://doi.org/10.4171/AIHPC/94), [Preprint](https://arxiv.org/abs/2208.08317) |
 | 2022 | _D.&#8209;T.&nbsp;Nguyen_, <br /> N. Rougerie | Thomas&#8288;&#8211;&#8288;Fermi profile of a fast rotating Bose&#8288;&#8211;&#8288;Einstein condensate | Pure and Applied Analysis, 4(3), pp.&nbsp;535&#8288;&#8211;&#8288;569 <br /> [Article](https://doi.org/10.2140/paa.2022.4.535), [Preprint](https://arxiv.org/abs/2201.04418) |
@@ -89,28 +89,28 @@ img{pointer-events: none;}
 
 | Year | Name | Place | Type |
 | :---: | :---: | :---:  | :---: |
-| July <br /> 2024 | [Summer School "Current Topics in Mathematical Physics"](https://www.math.uzh.ch/konferenzdetails0?key1=762) | Zürich <br /> Switzerland | <!-- Contributed <br /> Talk --> |
-| July <br /> 2024 | [The 9th European Congress of Mathematics](https://www.ecm2024sevilla.com) | Seville <br /> Spain | Poster Presentation |
-| July <br /> 2024 | [XXI International Congress on Mathematical Physics](https://icmp2024.org) | Strasbourg <br /> France | Contributed <br /> Talk |
-| June <br /> 2024 | [Summer School "Effective Approximation & Dynamics of Many-Body Quantum Systems"](https://effective-quantum.sciencesconf.org) | Metz <br /> France | Poster <br /> Presentation |
-| September <br /> 2023 | [Seminar Mathematical Analysis](https://www.math.hcmus.edu.vn/en/tuyển-sinh/12-tin-tuc/tin-nghiên-cứu/798-mathematical-analysis-seminar) | HCMC <br /> Vietnam | Seminar <br /> Talk |
-| September <br /> 2023 | [Workshop for Young Researchers on Analysis and Mathematical Physics](https://sites.google.com/view/my-ramp/) | Seoul <br /> Korea | Invited <br /> Talk |
-| August <br /> 2023 | [The 10th Vietnam Mathematical Congress](https://viasm.edu.vn/en/hdkh/dhthtq2023) | Da Nang <br /> Vietnam | Contributed <br /> Talk |
-| August <br /> 2023 | [VIASM-IAMP Summer School in Mathematical Physics](https://viasm.edu.vn/hdkh/iamp2023) | Quy Nhon <br /> Vietnam | Invited <br /> Talk |
-| August <br /> 2023 | [PDEs and Applications seminar](https://www.math.uu.se/the-department/calendar/event/?eventId=79222) | Uppsala <br /> Sweden | Seminar <br /> Talk |
-| September <br /> 2022 | [Conference "Asymptotic analysis and spectral theory"](https://uol.de/aspect22) | Oldenburg <br /> Germany | Contributed <br /> Talk |
-| September <br /> 2022 | [Conference "QMath15: Mathematical Results in Quantum Physics"](https://www.math.ucdavis.edu/~qmath/) | UC Davis <br /> USA | Contributed <br /> Talk |
-| June <br /> 2022 | [The 3rd School & Workshop "Mathematical Challenges in Quantum Mechanics"](http://www.mcqm.it) | Como <br /> Italy | Contributed <br /> Talk |
-| May <br /> 2022 | [School and Workshop "INdAM Quantum Meetings"](https://sites.google.com/view/iqm22) | Milan <br /> Italy | Contributed <br /> Talk |
-| March <br /> 2022 | [Conference "Journés Jeunes EDPistes"](https://jjedp22.sciencesconf.org) | Lyon <br /> France | Invited <br /> Talk |
-| August <br /> 2021 | [XX International Congress on Mathematical Physics](http://icmp2021.com) | Geneva <br /> Switzerland | Contributed <br /> Talk |
-| July <br /> 2020 | [SGPDE Workshop](https://sgiam.github.io/sgpde-workshop/) | HCMC <br /> Vietnam | Invited <br /> Talk |
-| February <br /> 2020 | [Bilbao Analysis and PDE](https://sites.google.com/view/apdebilbao/seminars/2019-2020) | Bilbao <br /> Spain | Seminar <br /> Talk |
-| October <br /> 2019 | [The Analysis of Complex Quantum Systems: Large Coulomb Systems and Related Matters](https://conferences.cirm-math.fr/2066.html) | CIRM <br /> France | Contributed <br /> Talk |
-| August <br /> 2019 | [Conference "QMath14: Mathematical Results in Quantum Physics"](https://conferences.au.dk/qmath14) | Aarhus <br /> Denmark | Poster <br /> Presentation |
-| March <br /> 2019 | [Conference "Spectral Methods in Mathematical Physics"](https://www.mittag-leffler.se/activities/spectral-methods-in-mathematical-physics/) | Stockholm <br /> Sweden | Invited <br /> Talk |
-| November <br /> 2018 | [Gran Sasso Quantum Meetings "From many particle systems to quantum fluids"](https://indico.gssi.it/event/3/) | L’Aquila <br /> Italy | Contributed <br /> Talk |
-| July <br /> 2018 | [XIX International Congress on Mathematical Physics](https://icmp2018.ca) | Montréal <br /> Canada | Contributed <br /> Talk |
-| February <br /> 2018 | [The 2nd School & Workshop "Mathematical Challenges in Quantum Mechanics"](https://mcqm18.cond-math.it) | Roma <br /> Italy | Contributed <br /> Talk |
+| 2024 <br /> July | [Summer School "Current Topics in Mathematical Physics"](https://www.math.uzh.ch/konferenzdetails0?key1=762) | Zürich <br /> Switzerland | <!-- Contributed <br /> Talk --> |
+| 2024 <br /> July | [The 9th European Congress of Mathematics](https://www.ecm2024sevilla.com) | Seville <br /> Spain | Poster Presentation |
+| 2024 <br /> July | [XXI International Congress on Mathematical Physics](https://icmp2024.org) | Strasbourg <br /> France | Contributed <br /> Talk |
+| 2024 <br /> June | [Summer School "Effective Approximation & Dynamics of Many-Body Quantum Systems"](https://effective-quantum.sciencesconf.org) | Metz <br /> France | Poster <br /> Presentation |
+| 2023 <br /> September | [Seminar Mathematical Analysis](https://www.math.hcmus.edu.vn/en/tuyển-sinh/12-tin-tuc/tin-nghiên-cứu/798-mathematical-analysis-seminar) | HCMC <br /> Vietnam | Seminar <br /> Talk |
+| 2023 <br /> September | [Workshop for Young Researchers on Analysis and Mathematical Physics](https://sites.google.com/view/my-ramp/) | Seoul <br /> Korea | Invited <br /> Talk |
+| 2023 <br /> August | [The 10th Vietnam Mathematical Congress](https://viasm.edu.vn/en/hdkh/dhthtq2023) | Da Nang <br /> Vietnam | Contributed <br /> Talk |
+| 2023 <br /> August | [VIASM-IAMP Summer School in Mathematical Physics](https://viasm.edu.vn/hdkh/iamp2023) | Quy Nhon <br /> Vietnam | Invited <br /> Talk |
+| 2023 <br /> August | [PDEs and Applications seminar](https://www.math.uu.se/the-department/calendar/event/?eventId=79222) | Uppsala <br /> Sweden | Seminar <br /> Talk |
+| 2022 <br /> September | [Conference "Asymptotic analysis and spectral theory"](https://uol.de/aspect22) | Oldenburg <br /> Germany | Contributed <br /> Talk |
+| 2022 <br /> September | [Conference "QMath15: Mathematical Results in Quantum Physics"](https://www.math.ucdavis.edu/~qmath/) | UC Davis <br /> USA | Contributed <br /> Talk |
+| 2022 <br /> June | [The 3rd School & Workshop "Mathematical Challenges in Quantum Mechanics"](http://www.mcqm.it) | Como <br /> Italy | Contributed <br /> Talk |
+| 2022 <br /> May | [School and Workshop "INdAM Quantum Meetings"](https://sites.google.com/view/iqm22) | Milan <br /> Italy | Contributed <br /> Talk |
+| 2022 <br /> March | [Conference "Journés Jeunes EDPistes"](https://jjedp22.sciencesconf.org) | Lyon <br /> France | Invited <br /> Talk |
+| 2021 <br /> August | [XX International Congress on Mathematical Physics](http://icmp2021.com) | Geneva <br /> Switzerland | Contributed <br /> Talk |
+| 2020 <br /> July | [SGPDE Workshop](https://sgiam.github.io/sgpde-workshop/) | HCMC <br /> Vietnam | Invited <br /> Talk |
+| 2020 <br /> February | [Bilbao Analysis and PDE](https://sites.google.com/view/apdebilbao/seminars/2019-2020) | Bilbao <br /> Spain | Seminar <br /> Talk |
+| 2019 <br /> October | [The Analysis of Complex Quantum Systems: Large Coulomb Systems and Related Matters](https://conferences.cirm-math.fr/2066.html) | CIRM <br /> France | Contributed <br /> Talk |
+| 2019 <br /> August | [Conference "QMath14: Mathematical Results in Quantum Physics"](https://conferences.au.dk/qmath14) | Aarhus <br /> Denmark | Poster <br /> Presentation |
+| 2019 <br /> March | [Conference "Spectral Methods in Mathematical Physics"](https://www.mittag-leffler.se/activities/spectral-methods-in-mathematical-physics/) | Stockholm <br /> Sweden | Invited <br /> Talk |
+| 2018 <br /> November | [Gran Sasso Quantum Meetings "From many particle systems to quantum fluids"](https://indico.gssi.it/event/3/) | L’Aquila <br /> Italy | Contributed <br /> Talk |
+| 2018 <br /> July | [XIX International Congress on Mathematical Physics](https://icmp2018.ca) | Montréal <br /> Canada | Contributed <br /> Talk |
+| 2018 <br /> February | [The 2nd School & Workshop "Mathematical Challenges in Quantum Mechanics"](https://mcqm18.cond-math.it) | Roma <br /> Italy | Contributed <br /> Talk |
 
 <iframe src="https://www.google.com/maps/d/u/1/embed?mid=1qwnOjoPKjfauAtwDIOf5Zki56Nj0QJI&ehbc=2E312F&noprof=1" width="100%" height="480"> style="border:0; margin-top: -200px;"></iframe>
