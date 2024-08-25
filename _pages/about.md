@@ -87,9 +87,12 @@ img{pointer-events: none;}
 ===
 ---
 
-| Year | Name | Place | Type |
+| Year | Name | Place | Remark |
 | :---: | :---: | :---:  | :---: |
-| 2024 <br /> July | [Summer School "Current Topics in Mathematical Physics"](https://www.math.uzh.ch/konferenzdetails0?key1=762) | Switzerland <br /> Zürich | <!-- Contributed <br /> Talk --> |
+| 2024 <br /> August | [Seminar Mathematics \& Applied Sciences](https://sites.google.com/site/chungnhanphu/math-applied-sciences-seminars?authuser=0) | Vietnam <br /> HCMC | <!-- Seminar <br /> Talk --> |
+| 2024 <br /> August | [VIASM-IAMP Summer School in Mathematical Physics](https://viasm.edu.vn/hdkh/iamp2024) | Vietnam <br /> Hue | Participant |
+| 2024 <br /> August | [Conference "Resonances in the Mathematical World"](https://www.math.hcmus.edu.vn/en/resonancesmathematicalworld) | Vietnam <br /> HCMC | <!-- Contributed <br /> Talk --> |
+| 2024 <br /> July | [Summer School "Current Topics in Mathematical Physics"](https://www.math.uzh.ch/konferenzdetails0?key1=762) | Switzerland <br /> Zürich | <!-- Participant --> |
 | 2024 <br /> July | [The 9th European Congress of Mathematics](https://www.ecm2024sevilla.com) | Spain <br /> Seville | Poster Presentation |
 | 2024 <br /> July | [XXI International Congress on Mathematical Physics](https://icmp2024.org) | France <br /> Strasbourg | Contributed <br /> Talk |
 | 2024 <br /> June | [Summer School "Effective Approximation & Dynamics of Many-Body Quantum Systems"](https://effective-quantum.sciencesconf.org) | France <br /> Metz | Poster <br /> Presentation |
