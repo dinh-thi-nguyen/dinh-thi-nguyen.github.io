@@ -94,6 +94,7 @@ img{pointer-events: none;}
 | 2024 <br /> August | [Conference "Resonances in the Mathematical World"](https://www.math.hcmus.edu.vn/en/resonancesmathematicalworld) | Vietnam <br /> HCMC | Contributed <br /> Talk |
 | 2024 <br /> July | [Summer School "Current Topics in Mathematical Physics"](https://www.math.uzh.ch/konferenzdetails0?key1=762) | Switzerland <br /> Zürich | Participant |
 | 2024 <br /> July | [The 9th European Congress of Mathematics](https://www.ecm2024sevilla.com) | Spain <br /> Seville | Poster Presentation |
+| 2024 <br /> July | [Oberseminar: Calculus of Variations and Applications](https://www.math.lmu.de/~triay/seminar.php) | Germany <br /> Munich | Seminar <br /> Talk |
 | 2024 <br /> July | [XXI International Congress on Mathematical Physics](https://icmp2024.org) | France <br /> Strasbourg | Contributed <br /> Talk |
 | 2024 <br /> June | [Summer School "Effective Approximation & Dynamics of Many-Body Quantum Systems"](https://effective-quantum.sciencesconf.org) | France <br /> Metz | Poster <br /> Presentation |
 | 2023 <br /> September | [Seminar Mathematical Analysis](https://www.math.hcmus.edu.vn/en/tuyển-sinh/12-tin-tuc/tin-nghiên-cứu/798-mathematical-analysis-seminar) | Vietnam <br /> HCMC | Seminar <br /> Talk |
