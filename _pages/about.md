@@ -43,6 +43,7 @@ img{pointer-events: none;}
 
 | Year | Author(s) | Title | Journal |
 | :---: | :---: | :---:  | :---: |
+| 2024 | _D.&#8209;T.&nbsp;Nguyen_ | 2D attractive almost-bosonic anyon gases | ArXiv:2409.00409 <br /> [Preprint](https://arxiv.org/abs/2409.00409) |
 | 2024 | A. Ataei, <br /> D. Lundholm, <br /> _D.&#8209;T.&nbsp;Nguyen_ | A generalized Liouville equation and magnetic stability | ArXiv:2404.09332 <br /> [Preprint](https://arxiv.org/abs/2404.09332) |
 | 2024 | _D.&#8209;T.&nbsp;Nguyen_, <br /> J. Ricaud | On one-dimensional Bose gases with two-body and (critical) attractive three-body interactions | SIAM Journal on Mathematical Analysis, 56(3), pp.&nbsp;3203&#8288;&#8211;&#8288;3251 <br /> [Article](https://doi.org/10.1137/22M1535139), [Preprint](https://arxiv.org/abs/2210.04515) |
 | 2023 | _D.&#8209;T.&nbsp;Nguyen_ | Stabilization against collapse of 2D attractive Bose&#8288;&#8211;&#8288;Einstein condensates with repulsive three-body interactions |  ArXiv:2306.17617v1 <br /> [Preprint](https://arxiv.org/pdf/2306.17617v1.pdf) |
