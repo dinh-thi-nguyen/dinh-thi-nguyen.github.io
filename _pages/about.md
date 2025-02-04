@@ -23,7 +23,7 @@ img{pointer-events: none;}
 
 | Year | Education / Position | Place | Advisor / Mentor |
 | :---: | :---: | :---:  | :---: |
-| since 2024 | Lecturer and Researcher | [Uppsala&nbsp;of&nbsp;Science,&nbsp;VNUHCM]([https://www.math.uu.se/?languageId=1](https://www.math.hcmus.edu.vn/tổ-chức/danh-bạ)), Vietnam |  |
+| since 2024 | Lecturer and Researcher | [Uppsala&nbsp;of&nbsp;Science&nbsp;&&nbsp;VNUHCM]([https://www.math.uu.se/?languageId=1](https://www.math.hcmus.edu.vn/tổ-chức/danh-bạ)), Vietnam |  |
 | 2022&#8288;&#8211;&#8288;2024 | Postdoctoral Researcher | [Uppsala&nbsp;University](https://www.math.uu.se/?languageId=1), Sweden | [Prof. Douglas Lundholm](https://www.katalog.uu.se/profile/?id=N19-2326) |
 | 2020&#8288;&#8211;&#8288;2022 | Postdoctoral Researcher | [ENS&nbsp;Lyon&nbsp;&&nbsp;CNRS](http://www.umpa.ens-lyon.fr), France | [Prof. Nicolas Rougerie](http://www.umpa.ens-lyon.fr/umpa/annuaire/rougerie-nicolas) |
 | 2016&#8288;&#8211;&#8288;2020 | **PhD** in Mathematical Physics. _[Thesis](https://edoc.ub.uni-muenchen.de/26564/)_ | [LMU Munich](https://www.mathematik.uni-muenchen.de), Germany | [Prof. Phan Thành Nam](https://www.mathematik.uni-muenchen.de/~nam/) |
