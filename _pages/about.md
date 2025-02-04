@@ -23,7 +23,7 @@ img{pointer-events: none;}
 
 | Year | Education / Position | Place | Advisor / Mentor |
 | --- | --- | ---  | --- |
-| since 2024 | Lecturer and Researcher | [Uppsala&nbsp;of&nbsp;Science&nbsp;&&nbsp;VNUHCM]([https://www.math.uu.se/?languageId=1](https://www.math.hcmus.edu.vn/tổ-chức/danh-bạ)), Vietnam |  |
+| since 2024 | Lecturer and Researcher | [Uppsala&nbsp;of&nbsp;Science&nbsp;&&nbsp;VNUHCM](https://www.math.hcmus.edu.vn/tổ-chức/danh-bạ), Vietnam |  |
 | 2022&#8288;&#8211;&#8288;2024 | Postdoctoral Researcher | [Uppsala&nbsp;University](https://www.math.uu.se/?languageId=1), Sweden | [Prof. Douglas Lundholm](https://www.katalog.uu.se/profile/?id=N19-2326) |
 | 2020&#8288;&#8211;&#8288;2022 | Postdoctoral Researcher | [ENS&nbsp;Lyon&nbsp;&&nbsp;CNRS](http://www.umpa.ens-lyon.fr), France | [Prof. Nicolas Rougerie](http://www.umpa.ens-lyon.fr/umpa/annuaire/rougerie-nicolas) |
 | 2016&#8288;&#8211;&#8288;2020 | **PhD** in Mathematical Physics. _[Thesis](https://edoc.ub.uni-muenchen.de/26564/)_ | [LMU Munich](https://www.mathematik.uni-muenchen.de), Germany | [Prof. Phan Thành Nam](https://www.mathematik.uni-muenchen.de/~nam/) |
@@ -43,7 +43,7 @@ img{pointer-events: none;}
 ---
 
 | Year | Author(s) | Title | Journal |
-| :---: | :---: | :---:  | :---: |
+| --- | --- | ---  | --- |
 | 2024 | _D.&#8209;T.&nbsp;Nguyen_ | 2D attractive almost-bosonic anyon gases | ArXiv:2409.00409 <br /> [Preprint](https://arxiv.org/abs/2409.00409) |
 | 2024 | A. Ataei, <br /> D. Lundholm, <br /> _D.&#8209;T.&nbsp;Nguyen_ | A generalized Liouville equation and magnetic stability | ArXiv:2404.09332 <br /> [Preprint](https://arxiv.org/abs/2404.09332) |
 | 2024 | _D.&#8209;T.&nbsp;Nguyen_, <br /> J. Ricaud | On one-dimensional Bose gases with two-body and (critical) attractive three-body interactions | SIAM Journal on Mathematical Analysis, 56(3), pp.&nbsp;3203&#8288;&#8211;&#8288;3251 <br /> [Article](https://doi.org/10.1137/22M1535139), [Preprint](https://arxiv.org/abs/2210.04515) |
@@ -62,7 +62,7 @@ img{pointer-events: none;}
 ---
 
 | Year | Course | Place |
-| :---: | :---: | :---: |
+| --- | --- | --- |
 | Fall 2023 | Calculus of Several Variables | Uppsala University |
 | Summer 2020 | Mathematical Quantum Mechanics II | LMU Munich |
 | Winter 2019 | Mathematical Quantum Mechanics I | LMU Munich |
@@ -77,7 +77,7 @@ img{pointer-events: none;}
 ---
 
 | Year | Name | Place |
-| :---: | :---: | :---: |
+| --- | --- | --- |
 | 2014&#8288;&#8211;&#8288;2016 | [Lebesgue Master Scholarship](https://www.lebesgue.fr/en/content/bourses_master) | France |
 | 2012&#8288;&#8211;&#8288;2014 | [Scholarship for excellent students from Vietnam Institute for Advanced Study in Mathematics](https://viasm.edu.vn/en/npdm/student-scholarship) | Vietnam |
 | 2010&#8288;&#8211;&#8288;2014 | Scholarship for excellent students from Vietnam National University | Vietnam |
@@ -90,7 +90,7 @@ img{pointer-events: none;}
 ---
 
 | Year | Name | Place | Remark |
-| :---: | :---: | :---:  | :---: |
+| :---: | --- | :---:  | :---: |
 | 2024 <br /> August | [Seminar Mathematics & Applied Sciences](https://sites.google.com/site/chungnhanphu/math-applied-sciences-seminars?authuser=0) | Vietnam <br /> HCMC | Seminar <br /> Talk |
 | 2024 <br /> August | [VIASM-IAMP Summer School in Mathematical Physics](https://viasm.edu.vn/hdkh/iamp2024) | Vietnam <br /> Hue | Participant |
 | 2024 <br /> August | [Conference "Resonances in the Mathematical World"](https://www.math.hcmus.edu.vn/en/resonancesmathematicalworld) | Vietnam <br /> HCMC | Contributed <br /> Talk |
