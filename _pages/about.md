@@ -23,7 +23,7 @@ img{pointer-events: none;}
 
 | Year | Education / Position | Place | Advisor / Mentor |
 | --- | --- | ---  | --- |
-| since 2024 | Lecturer&nbsp;&&nbsp;Researcher | [VNU-HCMUS](https://www.math.hcmus.edu.vn/tổ-chức/danh-bạ), Vietnam |  |
+| since 2025 | Lecturer&nbsp;&&nbsp;Researcher | [VNU-HCMUS](https://www.math.hcmus.edu.vn/tổ-chức/danh-bạ), Vietnam |  |
 | 2022&#8288;&#8211;&#8288;2024 | Postdoctoral Researcher | [Uppsala&nbsp;University](https://www.math.uu.se/?languageId=1), Sweden | [Prof. Douglas Lundholm](https://www.katalog.uu.se/profile/?id=N19-2326) |
 | 2020&#8288;&#8211;&#8288;2022 | Postdoctoral Researcher | [ENS&nbsp;Lyon&nbsp;&&nbsp;CNRS](http://www.umpa.ens-lyon.fr), France | [Prof. Nicolas Rougerie](http://www.umpa.ens-lyon.fr/umpa/annuaire/rougerie-nicolas) |
 | 2016&#8288;&#8211;&#8288;2020 | **PhD** in Mathematical Physics. _[Thesis](https://edoc.ub.uni-muenchen.de/26564/)_ | [LMU Munich](https://www.mathematik.uni-muenchen.de), Germany | [Prof. Phan Thành Nam](https://www.mathematik.uni-muenchen.de/~nam/) |
@@ -45,7 +45,7 @@ img{pointer-events: none;}
 | Year | Author(s) | Title | Journal |
 | --- | --- | ---  | --- |
 | 2025 | _D.&#8209;T.&nbsp;Nguyen_, <br /> N. Rougerie | Erratum&#8288;&#8211;&#8288;Addendum to Thomas&#8288;&#8211;&#8288;Fermi profile of a fast rotating Bose&#8288;&#8211;&#8288;Einstein condensate | Pure and Applied Analysis, 7(1), pp.&nbsp;243&#8288;&#8211;&#8288;249 <br /> [Article](https://doi.org/10.2140/paa.2025.7.243), [Preprint](https://arxiv.org/abs/2201.04418v3) |
-| 2025 | _D.&#8209;T.&nbsp;Nguyen_ | Stabilization against collapse of 2D attractive Bose&#8288;&#8211;&#8288;Einstein condensates with repulsive three-body interactions | Letters in Mathematical Physics <br /> [Article](https://doi.org/10.1007/s11005-025-01897-1), [Preprint](https://arxiv.org/pdf/2306.17617v1.pdf) |
+| 2025 | _D.&#8209;T.&nbsp;Nguyen_ | Stabilization against collapse of 2D attractive Bose&#8288;&#8211;&#8288;Einstein condensates with repulsive three-body interactions | Letters in Mathematical Physics, 115(2), p.&nbsp;31 <br /> [Article](https://doi.org/10.1007/s11005-025-01897-1), [Preprint](https://arxiv.org/pdf/2306.17617v1.pdf) |
 | 2024 | _D.&#8209;T.&nbsp;Nguyen_ | 2D attractive almost-bosonic anyon gases | ArXiv:2409.00409 <br /> [Preprint](https://arxiv.org/abs/2409.00409) |
 | 2024 | A. Ataei, <br /> D. Lundholm, <br /> _D.&#8209;T.&nbsp;Nguyen_ | A generalized Liouville equation and magnetic stability | ArXiv:2404.09332 <br /> [Preprint](https://arxiv.org/abs/2404.09332) |
 | 2024 | _D.&#8209;T.&nbsp;Nguyen_, <br /> J. Ricaud | On one-dimensional Bose gases with two-body and (critical) attractive three-body interactions | SIAM Journal on Mathematical Analysis, 56(3), pp.&nbsp;3203&#8288;&#8211;&#8288;3251 <br /> [Article](https://doi.org/10.1137/22M1535139), [Preprint](https://arxiv.org/abs/2210.04515) |
