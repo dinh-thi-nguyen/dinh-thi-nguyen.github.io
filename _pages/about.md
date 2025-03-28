@@ -35,7 +35,7 @@ img{pointer-events: none;}
 ===
 ---
 <p align="center">
-[A Poster](https://drive.google.com/file/d/1KUkPCF74z5McV8FoPVK9njWRcc7UaiVL/preview) I presented at the [2024 International Congress of Mathematical Physics](https://icmp2024.org) in Strasbourg, France.
+[**A Poster**](https://drive.google.com/file/d/1KUkPCF74z5McV8FoPVK9njWRcc7UaiVL/preview) about Bose&#8288;&#8211;&#8288;Einstein condensate that I presented at the [2024 International Congress of Mathematical Physics](https://icmp2024.org) in Strasbourg, France.
 </p>
 ![](https://www.mermaidchart.com/raw/d044d349-6cef-403e-8063-bd7cde957c1c?theme=light&version=v0.1&format=svg)
 
