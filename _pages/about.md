@@ -34,7 +34,8 @@ img{pointer-events: none;}
 `Mathematical Interests`
 ===
 ---
-Here is a [**Poster**](https://drive.google.com/file/d/1KUkPCF74z5McV8FoPVK9njWRcc7UaiVL/preview) on Bose&#8288;&#8211;&#8288;Einstein condensates that I presented at the [2024 International Congress of Mathematical Physics](https://icmp2024.org) in Strasbourg, France.
+> [!NOTE]
+> Here is a [**Poster**](https://drive.google.com/file/d/1KUkPCF74z5McV8FoPVK9njWRcc7UaiVL/preview) on Bose&#8288;&#8211;&#8288;Einstein condensates that I presented at the [2024 International Congress of Mathematical Physics](https://icmp2024.org) in Strasbourg, France.
 
 ![](https://www.mermaidchart.com/raw/d044d349-6cef-403e-8063-bd7cde957c1c?theme=light&version=v0.1&format=svg)
 
