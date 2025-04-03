@@ -97,7 +97,7 @@ img{pointer-events: none;}
 | 2024/08 | [VIASM-IAMP Summer School in Mathematical Physics](https://viasm.edu.vn/hdkh/iamp2024) | Vietnam, Hue | Participant |
 | 2024/08 | [Conference "Resonances in the Mathematical World"](https://www.math.hcmus.edu.vn/en/resonancesmathematicalworld) | Vietnam, HCMC | Contributed talk |
 | 2024/07 | [Summer School "Current Topics in Mathematical Physics"](https://www.math.uzh.ch/konferenzdetails0?key1=762) | Switzerland, Zürich | Participant |
-| 2024/07 | [The 9th European Congress of Mathematics](https://www.ecm2024sevilla.com) | Spain, Seville | Poster presentation |
+| 2024/07 | [The 9th European Congress of Mathematics](https://www.ecm2024sevilla.com) | Spain, Seville | Poster |
 | 2024/07 | [Oberseminar: Calculus of Variations and Applications](https://www.math.lmu.de/~triay/seminar.php#Thi) | Germany, Munich | Seminar talk |
 | 2024/07 | [XXI International Congress on Mathematical Physics](https://icmp2024.org) | France, Strasbourg | Contributed talk |
 | 2024/06 | [Summer School "Effective Approximation & Dynamics of Many-Body Quantum Systems"](https://effective-quantum.sciencesconf.org) | France, Metz | Poster |
