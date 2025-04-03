@@ -91,7 +91,6 @@ img{pointer-events: none;}
 ===
 ---
 
-| :---: | :---: | :---:  | :---: |
 | Year | Name | Place | Remark |
 | --- | --- | ---  | --- |
 | 2024/08 | [Seminar Mathematics & Applied Sciences](https://sites.google.com/site/chungnhanphu/math-applied-sciences-seminars?authuser=0) | Vietnam, HCMC | Seminar talk |
