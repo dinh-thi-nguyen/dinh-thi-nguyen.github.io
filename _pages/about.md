@@ -65,7 +65,8 @@ img{pointer-events: none;}
 
 | Year | Course | Place |
 | --- | --- | --- |
-| Fall 2023 | Calculus of Several Variables | Uppsala University |
+| Spring 2025 | Multivariable Calculus | VNU-HCMUS University |
+| Fall 2023 | Multivariable Calculus | Uppsala University |
 | Summer 2020 | Mathematical Quantum Mechanics II | LMU Munich |
 | Winter 2019 | Mathematical Quantum Mechanics I | LMU Munich |
 | Winter 2018 | Mathematical Quantum Mechanics I | LMU Munich |
