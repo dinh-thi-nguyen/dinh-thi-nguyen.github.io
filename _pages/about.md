@@ -127,10 +127,11 @@ img{pointer-events: none;}
 `List of journals in Mathematical Physics`
 ===
 ---
-<a href="https://www.scimagojr.com/journalsearch.php?q=23200&amp;tip=sid&amp;exact=no" title="SCImago Journal &amp; Country Rank"><img border="0" src="https://www.scimagojr.com/journal_img.php?id=23200" alt="SCImago Journal &amp; Country Rank"  /></a>
-
-<a href="https://www.scimagojr.com/journalsearch.php?q=28663&amp;tip=sid&amp;exact=no" title="SCImago Journal &amp; Country Rank"><img border="0" src="https://www.scimagojr.com/journal_img.php?id=28663" alt="SCImago Journal &amp; Country Rank"  /></a>
-
-<a href="https://www.scimagojr.com/journalsearch.php?q=21101196741&amp;tip=sid&amp;exact=no" title="SCImago Journal &amp; Country Rank"><img border="0" src="https://www.scimagojr.com/journal_img.php?id=21101196741" alt="SCImago Journal &amp; Country Rank"  /></a>
-
+<a href="https://www.scimagojr.com/journalsearch.php?q=23200&amp;tip=sid&amp;exact=no" title="Annales de l'Institut Henri Poincare (C) Analyse Non Lineaire"><img border="0" src="https://www.scimagojr.com/journal_img.php?id=23200" alt="Annales de l'Institut Henri Poincare (C) Analyse Non Lineaire"  /></a>
+<a href="https://www.scimagojr.com/journalsearch.php?q=28663&amp;tip=sid&amp;exact=no" title="Letters in Mathematical Physics"><img border="0" src="https://www.scimagojr.com/journal_img.php?id=28663" alt="Letters in Mathematical Physics"  /></a>
+<a href="https://www.scimagojr.com/journalsearch.php?q=21101196741&amp;tip=sid&amp;exact=no" title="Pure and Applied Analysis"><img border="0" src="https://www.scimagojr.com/journal_img.php?id=21101196741" alt="Pure and Applied AnalysisRank"  /></a>
 <a href="https://www.scimagojr.com/journalsearch.php?q=21100400176&amp;tip=sid&amp;exact=no" title="Analysis and Mathematical Physics"><img border="0" src="https://www.scimagojr.com/journal_img.php?id=21100400176" alt="Analysis and Mathematical Physics"  /></a>
+<a href="https://www.scimagojr.com/journalsearch.php?q=29716&amp;tip=sid&amp;exact=no" title="Reviews in Mathematical Physics"><img border="0" src="https://www.scimagojr.com/journal_img.php?id=29716" alt="Reviews in Mathematical Physics"  /></a>
+<a href="https://www.scimagojr.com/journalsearch.php?q=28574&amp;tip=sid&amp;exact=no" title="Journal of Statistical Physics"><img border="0" src="https://www.scimagojr.com/journal_img.php?id=28574" alt="Journal of Statistical Physics"  /></a>
+<a href="https://www.scimagojr.com/journalsearch.php?q=28544&amp;tip=sid&amp;exact=no" title="Journal of Mathematical Physics"><img border="0" src="https://www.scimagojr.com/journal_img.php?id=28544" alt="Journal of Mathematical Physics"  /></a>
+<a href="https://www.scimagojr.com/journalsearch.php?q=23897&amp;tip=sid&amp;exact=no" title="Journal of Geometry and Physics"><img border="0" src="https://www.scimagojr.com/journal_img.php?id=23897" alt="Journal of Geometry and Physics"  /></a>
