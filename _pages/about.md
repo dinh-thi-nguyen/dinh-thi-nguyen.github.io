@@ -123,3 +123,14 @@ img{pointer-events: none;}
 | 2018/02 | [The 2nd School & Workshop "Mathematical Challenges in Quantum Mechanics"](https://mcqm18.cond-math.it) | Italy, Roma | Contributed talk |
 
 <iframe src="https://www.google.com/maps/d/u/1/embed?mid=1qwnOjoPKjfauAtwDIOf5Zki56Nj0QJI&ehbc=2E312F&noprof=1" width="100%" height="480"> style="border:0; margin-top: -200px;"></iframe>
+
+`List of journals in Mathematical Physics`
+===
+---
+<a href="https://www.scimagojr.com/journalsearch.php?q=23200&amp;tip=sid&amp;exact=no" title="SCImago Journal &amp; Country Rank"><img border="0" src="https://www.scimagojr.com/journal_img.php?id=23200" alt="SCImago Journal &amp; Country Rank"  /></a>
+
+<a href="https://www.scimagojr.com/journalsearch.php?q=28663&amp;tip=sid&amp;exact=no" title="SCImago Journal &amp; Country Rank"><img border="0" src="https://www.scimagojr.com/journal_img.php?id=28663" alt="SCImago Journal &amp; Country Rank"  /></a>
+
+<a href="https://www.scimagojr.com/journalsearch.php?q=21101196741&amp;tip=sid&amp;exact=no" title="SCImago Journal &amp; Country Rank"><img border="0" src="https://www.scimagojr.com/journal_img.php?id=21101196741" alt="SCImago Journal &amp; Country Rank"  /></a>
+
+<a href="https://www.scimagojr.com/journalsearch.php?q=21100400176&amp;tip=sid&amp;exact=no" title="Analysis and Mathematical Physics"><img border="0" src="https://www.scimagojr.com/journal_img.php?id=21100400176" alt="Analysis and Mathematical Physics"  /></a>
