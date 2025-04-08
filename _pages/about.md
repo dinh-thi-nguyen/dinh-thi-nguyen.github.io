@@ -127,6 +127,7 @@ img{pointer-events: none;}
 `List of journals in Mathematical Physics` (to be updated)
 ===
 ---
+<p align="center">
 <a href="https://www.scimagojr.com/journalsearch.php?q=27437&amp;tip=sid&amp;exact=no" title="Communications in Mathematical Physics"><img border="0" src="https://www.scimagojr.com/journal_img.php?id=27437" alt="Communications in Mathematical Physics"  /></a>
 <a href="https://www.scimagojr.com/journalsearch.php?q=21100782672&amp;tip=sid&amp;exact=no" title="Journal of Spectral Theory"><img border="0" src="https://www.scimagojr.com/journal_img.php?id=21100782672" alt="Journal of Spectral Theory"  /></a>
 <a href="https://www.scimagojr.com/journalsearch.php?q=23262&amp;tip=sid&amp;exact=no" title="Inventiones Mathematicae"><img border="0" src="https://www.scimagojr.com/journal_img.php?id=23262" alt="Inventiones Mathematicae"  /></a>
@@ -157,3 +158,4 @@ img{pointer-events: none;}
 <a href="https://www.scimagojr.com/journalsearch.php?q=23897&amp;tip=sid&amp;exact=no" title="Journal of Geometry and Physics"><img border="0" src="https://www.scimagojr.com/journal_img.php?id=23897" alt="Journal of Geometry and Physics"  /></a>
 <a href="https://www.scimagojr.com/journalsearch.php?q=28701&amp;tip=sid&amp;exact=no" title="Mathematical Physics Analysis and Geometry"><img border="0" src="https://www.scimagojr.com/journal_img.php?id=28701" alt="Mathematical Physics Analysis and Geometry"  /></a>
 <a href="https://www.scimagojr.com/journalsearch.php?q=29707&amp;tip=sid&amp;exact=no" title="Reports on Mathematical Physics"><img border="0" src="https://www.scimagojr.com/journal_img.php?id=29707" alt="Reports on Mathematical Physics"  /></a>
+</p>
