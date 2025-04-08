@@ -124,7 +124,7 @@ img{pointer-events: none;}
 
 <iframe src="https://www.google.com/maps/d/u/1/embed?mid=1qwnOjoPKjfauAtwDIOf5Zki56Nj0QJI&ehbc=2E312F&noprof=1" width="100%" height="480"> style="border:0; margin-top: -200px;"></iframe>
 
-`List of journals in Mathematical Physics`
+`List of journals in Mathematical Physics` (to be updated)
 ===
 ---
 <a href="https://www.scimagojr.com/journalsearch.php?q=27437&amp;tip=sid&amp;exact=no" title="Communications in Mathematical Physics"><img border="0" src="https://www.scimagojr.com/journal_img.php?id=27437" alt="Communications in Mathematical Physics"  /></a>
