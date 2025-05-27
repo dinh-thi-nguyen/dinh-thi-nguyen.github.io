@@ -143,7 +143,7 @@ img{pointer-events: none;}
   - Lewin, [_Spectral Theory and Quantum Mechanics_](https://link.springer.com/book/10.1007/978-3-031-66878-4).
   - Rougerie, [_De Finetti theorems, mean-field limits and Bose-Einstein condensation_](https://arxiv.org/abs/1506.05263).
   - Lundholm, [_Methods of modern mathematical physics, Uncertainty and exclusion principles in quantum mechanics_](https://arxiv.org/abs/1805.03063).
-  - Teschl, [_Mathematical Methods in Quantum Mechanics_](https://www.mat.univie.ac.at/~gerald/ftp/book-schroe/schroe.pdf), available for **_free_** and with supplementary material on [author's webpage](https://www.mat.univie.ac.at/~gerald/ftp/book-schroe/index.html).
+  - Teschl, [_Mathematical Methods in Quantum Mechanics_](https://www.mat.univie.ac.at/~gerald/ftp/book-schroe/schroe.pdf), available for **_free_** and with supplementary material at [author's webpage](https://www.mat.univie.ac.at/~gerald/ftp/book-schroe/index.html).
 
 **3. Usefull links**
   - [The International Association of Mathematical Physics (IAMP)](www.iamp.org/).
