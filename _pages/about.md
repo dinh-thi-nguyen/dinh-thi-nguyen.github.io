@@ -127,10 +127,19 @@ img{pointer-events: none;}
 `Miscellaneous`
 ===
 ---
-[List of journals in Mathematical Physics](https://www.scimagojr.com/journalrank.php?category=2610)
+**1. [List of journals in Mathematical Physics](https://www.scimagojr.com/journalrank.php?category=2610)**
 
-Books on Mathematical Physics
-
-[The Feynman Lectures on Physics](https://www.feynmanlectures.caltech.edu/info/index.html)
-
-Elliott H. Lieb, Michael Loss, [_Analysis_](https://bookstore.ams.org/view?ProductCode=GSM/14.R), 
+**2. Books / Notes / Mathematics / Physics**
+  - [The Feynman Lectures on Physics](https://www.feynmanlectures.caltech.edu/info/index.html)
+  - Lieb, Loss, [_Analysis_](https://bookstore.ams.org/view?ProductCode=GSM/14.R), with [sample chapter](https://www.math.utoronto.ca/almut/MAT1000/LL-6.pdf) and [supplementary material](https://loss.math.gatech.edu/Analysis.html).
+  - Lieb, Seiringer, [_The Stability of Matter in Quantum Mechanics_](https://www.cambridge.org/core/books/stability-of-matter-in-quantum-mechanics/BC90EBAF135B745979EA749076A2F931) with [book review](https://arxiv.org/abs/1111.0170) by Solovej and [supplementary material](https://web.math.princeton.edu/~lieb/stability.html).
+  - Lieb, Solovej, Seiringer, Yngvason, [_The Mathematics of the Bose Gas and its Condensation_](https://link.springer.com/book/10.1007/b137508), available at [arXiv](https://arxiv.org/abs/cond-mat/0610117).
+  - Selecta of Elliott H. Lieb _including_
+    - Thirring, [_The Stability of Matter From Atoms to Stars_](https://link.springer.com/book/10.1007/b138553).
+    - Loss, Ruskai, [_Inequalities_](https://link.springer.com/book/10.1007/b138553).
+    - Nachtergaele, Solovej, Yngvason, [_Condensed Matter Physics and Exactly Soluble Models_](https://link.springer.com/book/10.1007/978-3-662-06390-3).
+    - Nachtergaele, Solovej, Yngvason, [_Statistical Mechanics_](https://link.springer.com/book/10.1007/978-3-662-10018-9).
+  - Frank, Laptev, Lewin, Seiringer, [_The Physics and Mathematics of Elliott Lieb_](https://ems.press/books/standalone/234).
+  - Lewin, [_Spectral Theory and Quantum Mechanics_](https://link.springer.com/book/10.1007/978-3-031-66878-4).
+  - Lundholm, [_Methods of modern mathematical physics, Uncertainty and exclusion principles in quantum mechanics_](https://arxiv.org/abs/1805.03063).
+  - Teschl, [_Mathematical Methods in Quantum Mechanics_](https://www.mat.univie.ac.at/~gerald/ftp/book-schroe/schroe.pdf), available for free and with supplementary material on [author's webpage](https://www.mat.univie.ac.at/~gerald/ftp/book-schroe/index.html).
