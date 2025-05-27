@@ -124,13 +124,13 @@ img{pointer-events: none;}
 
 <iframe src="https://www.google.com/maps/d/u/1/embed?mid=1qwnOjoPKjfauAtwDIOf5Zki56Nj0QJI&ehbc=2E312F&noprof=1" width="100%" height="480"> style="border:0; margin-top: -200px;"></iframe>
 
-`Miscellaneous`
+`Miscellaneous` (to be updated)
 ===
 ---
 **1. [List of journals in Mathematical Physics](https://www.scimagojr.com/journalrank.php?category=2610)**
 
 **2. Books / Notes / Mathematics / Physics**
-  - [The Feynman Lectures on Physics](https://www.feynmanlectures.caltech.edu/info/index.html)
+  - [The Feynman Lectures on Physics](https://www.feynmanlectures.caltech.edu/info/index.html).
   - Lieb, Loss, [_Analysis_](https://bookstore.ams.org/view?ProductCode=GSM/14.R), with [sample chapter](https://www.math.utoronto.ca/almut/MAT1000/LL-6.pdf) and [supplementary material](https://loss.math.gatech.edu/Analysis.html).
   - Lieb, Seiringer, [_The Stability of Matter in Quantum Mechanics_](https://www.cambridge.org/core/books/stability-of-matter-in-quantum-mechanics/BC90EBAF135B745979EA749076A2F931) with [book review](https://arxiv.org/abs/1111.0170) by Solovej and [supplementary material](https://web.math.princeton.edu/~lieb/stability.html).
   - Lieb, Solovej, Seiringer, Yngvason, [_The Mathematics of the Bose Gas and its Condensation_](https://link.springer.com/book/10.1007/b137508), available at [arXiv](https://arxiv.org/abs/cond-mat/0610117).
@@ -142,4 +142,8 @@ img{pointer-events: none;}
   - Frank, Laptev, Lewin, Seiringer, [_The Physics and Mathematics of Elliott Lieb_](https://ems.press/books/standalone/234).
   - Lewin, [_Spectral Theory and Quantum Mechanics_](https://link.springer.com/book/10.1007/978-3-031-66878-4).
   - Lundholm, [_Methods of modern mathematical physics, Uncertainty and exclusion principles in quantum mechanics_](https://arxiv.org/abs/1805.03063).
-  - Teschl, [_Mathematical Methods in Quantum Mechanics_](https://www.mat.univie.ac.at/~gerald/ftp/book-schroe/schroe.pdf), available for free and with supplementary material on [author's webpage](https://www.mat.univie.ac.at/~gerald/ftp/book-schroe/index.html).
+  - Teschl, [_Mathematical Methods in Quantum Mechanics_](https://www.mat.univie.ac.at/~gerald/ftp/book-schroe/schroe.pdf), available for **_free_** and with supplementary material on [author's webpage](https://www.mat.univie.ac.at/~gerald/ftp/book-schroe/index.html).
+
+**3. Usefull links**
+  - [The International Association of Mathematical Physics (IAMP)](www.iamp.org/).
+  - Master / PhD scholarships: [Henri Lebesgue Centre](https://www.lebesgue.fr/en/content/bourses_master), [GSSI](https://gssi.it/research-area/maths-research), [French-German (ANR-DFG) joint project](https://effective-quantum.org).
