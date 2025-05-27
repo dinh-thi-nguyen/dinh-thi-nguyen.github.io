@@ -124,44 +124,13 @@ img{pointer-events: none;}
 
 <iframe src="https://www.google.com/maps/d/u/1/embed?mid=1qwnOjoPKjfauAtwDIOf5Zki56Nj0QJI&ehbc=2E312F&noprof=1" width="100%" height="480"> style="border:0; margin-top: -200px;"></iframe>
 
-`List of journals in Mathematical Physics` (to be updated)
+`Miscellaneous`
 ===
 ---
-<p align="center">
-<a href="https://www.scimagojr.com/journalsearch.php?q=27437&amp;tip=sid&amp;exact=no" title="Communications in Mathematical Physics"><img border="0" src="https://www.scimagojr.com/journal_img.php?id=27437" alt="Communications in Mathematical Physics"  /></a>
-<a href="https://www.scimagojr.com/journalsearch.php?q=21100782672&amp;tip=sid&amp;exact=no" title="Journal of Spectral Theory"><img border="0" src="https://www.scimagojr.com/journal_img.php?id=21100782672" alt="Journal of Spectral Theory"  /></a>
-<a href="https://www.scimagojr.com/journalsearch.php?q=23262&amp;tip=sid&amp;exact=no" title="Inventiones Mathematicae"><img border="0" src="https://www.scimagojr.com/journal_img.php?id=23262" alt="Inventiones Mathematicae"  /></a>
-<a href="https://www.scimagojr.com/journalsearch.php?q=25208&amp;tip=sid&amp;exact=no" title="Archive for Rational Mechanics and Analysis"><img border="0" src="https://www.scimagojr.com/journal_img.php?id=25208" alt="Archive for Rational Mechanics and Analysis"  /></a>
-<a href="https://www.scimagojr.com/journalsearch.php?q=26418&amp;tip=sid&amp;exact=no" title="SIAM Journal on Mathematical Analysis"><img border="0" src="https://www.scimagojr.com/journal_img.php?id=26418" alt="SIAM Journal on Mathematical Analysis"  /></a>
-<a href="https://www.scimagojr.com/journalsearch.php?q=25309&amp;tip=sid&amp;exact=no" title="Calculus of Variations and Partial Differential Equations"><img border="0" src="https://www.scimagojr.com/journal_img.php?id=25309" alt="Calculus of Variations and Partial Differential Equations"  /></a>
-<a href="https://www.scimagojr.com/journalsearch.php?q=27000&amp;tip=sid&amp;exact=no" title="Annales Henri Poincare"><img border="0" src="https://www.scimagojr.com/journal_img.php?id=27000" alt="Annales Henri Poincare"  /></a>
-<a href="https://www.scimagojr.com/journalsearch.php?q=23200&amp;tip=sid&amp;exact=no" title="Annales de l'Institut Henri Poincare (C) Analyse Non Lineaire"><img border="0" src="https://www.scimagojr.com/journal_img.php?id=23200" alt="Annales de l'Institut Henri Poincare (C) Analyse Non Lineaire"  /></a>
-<a href="https://www.scimagojr.com/journalsearch.php?q=27971&amp;tip=sid&amp;exact=no" title="Zeitschrift fur Angewandte Mathematik und Physik"><img border="0" src="https://www.scimagojr.com/journal_img.php?id=27971" alt="Zeitschrift fur Angewandte Mathematik und Physik"  /></a>
-<a href="https://www.scimagojr.com/journalsearch.php?q=25812&amp;tip=sid&amp;exact=no" title="Communications in Partial Differential Equations"><img border="0" src="https://www.scimagojr.com/journal_img.php?id=25812" alt="Communications in Partial Differential Equations"  /></a>
-<a href="https://www.scimagojr.com/journalsearch.php?q=21100242249&amp;tip=sid&amp;exact=no" title="Analysis and PDE"><img border="0" src="https://www.scimagojr.com/journal_img.php?id=21100242249" alt="Analysis and PDE"  /></a>
-<a href="https://www.scimagojr.com/journalsearch.php?q=21100199330&amp;tip=sid&amp;exact=no" title="Advances in Calculus of Variations"><img border="0" src="https://www.scimagojr.com/journal_img.php?id=21100199330" alt="Advances in Calculus of Variations"  /></a>
-<a href="https://www.scimagojr.com/journalsearch.php?q=23892&amp;tip=sid&amp;exact=no" title="Journal of Evolution Equations"><img border="0" src="https://www.scimagojr.com/journal_img.php?id=23892" alt="Journal of Evolution Equations"  /></a>
-  <a href="https://www.scimagojr.com/journalsearch.php?q=29120&amp;tip=sid&amp;exact=no" title="Physica D: Nonlinear Phenomena"><img border="0" src="https://www.scimagojr.com/journal_img.php?id=29120" alt="Physica D: Nonlinear Phenomena"  /></a>
-  <a href="https://www.scimagojr.com/journalsearch.php?q=75561&amp;tip=sid&amp;exact=no" title="Advanced Nonlinear Studies"><img border="0" src="https://www.scimagojr.com/journal_img.php?id=75561" alt="Advanced Nonlinear Studies"  /></a>
-<a href="https://www.scimagojr.com/journalsearch.php?q=25696&amp;tip=sid&amp;exact=no" title="Nonlinearity"><img border="0" src="https://www.scimagojr.com/journal_img.php?id=25696" alt="Nonlinearity"  /></a>
-  <a href="https://www.scimagojr.com/journalsearch.php?q=13249&amp;tip=sid&amp;exact=no" title="Nonlinear Analysis, Theory, Methods and Applications"><img border="0" src="https://www.scimagojr.com/journal_img.php?id=13249" alt="Nonlinear Analysis, Theory, Methods and Applications"  /></a>
-  <a href="https://www.scimagojr.com/journalsearch.php?q=21780&amp;tip=sid&amp;exact=no" title="Nonlinear Analysis: Real World Applications"><img border="0" src="https://www.scimagojr.com/journal_img.php?id=21780" alt="Nonlinear Analysis: Real World Applications"  /></a>
-<a href="https://www.scimagojr.com/journalsearch.php?q=21100887442&amp;tip=sid&amp;exact=no" title="Forum of Mathematics, Pi"><img border="0" src="https://www.scimagojr.com/journal_img.php?id=21100887442" alt="Forum of Mathematics, Pi"  /></a>
-<a href="https://www.scimagojr.com/journalsearch.php?q=21100886430&amp;tip=sid&amp;exact=no" title="Forum of Mathematics, Sigma"><img border="0" src="https://www.scimagojr.com/journal_img.php?id=21100886430" alt="Forum of Mathematics, Sigma"  /></a>
-<a href="https://www.scimagojr.com/journalsearch.php?q=25761&amp;tip=sid&amp;exact=no" title="Pacific Journal of Mathematics"><img border="0" src="https://www.scimagojr.com/journal_img.php?id=25761" alt="Pacific Journal of Mathematics"  /></a>
-<a href="https://www.scimagojr.com/journalsearch.php?q=25123&amp;tip=sid&amp;exact=no" title="Mathematische Zeitschrift"><img border="0" src="https://www.scimagojr.com/journal_img.php?id=25123" alt="Mathematische Zeitschrift"  /></a>
-<a href="https://www.scimagojr.com/journalsearch.php?q=23796&amp;tip=sid&amp;exact=no" title="Journal fur die Reine und Angewandte Mathematik"><img border="0" src="https://www.scimagojr.com/journal_img.php?id=23796" alt="Journal fur die Reine und Angewandte Mathematik"  /></a>
-<a href="https://www.scimagojr.com/journalsearch.php?q=26951&amp;tip=sid&amp;exact=no" title="Studies in Applied Mathematics"><img border="0" src="https://www.scimagojr.com/journal_img.php?id=26951" alt="Studies in Applied Mathematics"  /></a>
-<a href="https://www.scimagojr.com/journalsearch.php?q=21101198720&amp;tip=sid&amp;exact=no" title="Probability and Mathematical Physics"><img border="0" src="https://www.scimagojr.com/journal_img.php?id=21101198720" alt="Probability and Mathematical Physics"  /></a>
-<a href="https://www.scimagojr.com/journalsearch.php?q=21101196741&amp;tip=sid&amp;exact=no" title="Pure and Applied Analysis"><img border="0" src="https://www.scimagojr.com/journal_img.php?id=21101196741" alt="Pure and Applied AnalysisRank"  /></a>
-<a href="https://www.scimagojr.com/journalsearch.php?q=23795&amp;tip=sid&amp;exact=no" title="Journal des Mathematiques Pures et Appliquees"><img border="0" src="https://www.scimagojr.com/journal_img.php?id=23795" alt="Journal des Mathematiques Pures et Appliquees"  /></a>
-<a href="https://www.scimagojr.com/journalsearch.php?q=21100400176&amp;tip=sid&amp;exact=no" title="Analysis and Mathematical Physics"><img border="0" src="https://www.scimagojr.com/journal_img.php?id=21100400176" alt="Analysis and Mathematical Physics"  /></a>
-  <a href="https://www.scimagojr.com/journalsearch.php?q=24598&amp;tip=sid&amp;exact=no" title="Mathematical Models and Methods in Applied Sciences"><img border="0" src="https://www.scimagojr.com/journal_img.php?id=24598" alt="Mathematical Models and Methods in Applied Sciences"  /></a>
-<a href="https://www.scimagojr.com/journalsearch.php?q=28663&amp;tip=sid&amp;exact=no" title="Letters in Mathematical Physics"><img border="0" src="https://www.scimagojr.com/journal_img.php?id=28663" alt="Letters in Mathematical Physics"  /></a>
-<a href="https://www.scimagojr.com/journalsearch.php?q=29716&amp;tip=sid&amp;exact=no" title="Reviews in Mathematical Physics"><img border="0" src="https://www.scimagojr.com/journal_img.php?id=29716" alt="Reviews in Mathematical Physics"  /></a>
-<a href="https://www.scimagojr.com/journalsearch.php?q=28574&amp;tip=sid&amp;exact=no" title="Journal of Statistical Physics"><img border="0" src="https://www.scimagojr.com/journal_img.php?id=28574" alt="Journal of Statistical Physics"  /></a>
-<a href="https://www.scimagojr.com/journalsearch.php?q=28544&amp;tip=sid&amp;exact=no" title="Journal of Mathematical Physics"><img border="0" src="https://www.scimagojr.com/journal_img.php?id=28544" alt="Journal of Mathematical Physics"  /></a>
-<a href="https://www.scimagojr.com/journalsearch.php?q=23897&amp;tip=sid&amp;exact=no" title="Journal of Geometry and Physics"><img border="0" src="https://www.scimagojr.com/journal_img.php?id=23897" alt="Journal of Geometry and Physics"  /></a>
-<a href="https://www.scimagojr.com/journalsearch.php?q=28701&amp;tip=sid&amp;exact=no" title="Mathematical Physics Analysis and Geometry"><img border="0" src="https://www.scimagojr.com/journal_img.php?id=28701" alt="Mathematical Physics Analysis and Geometry"  /></a>
-<a href="https://www.scimagojr.com/journalsearch.php?q=29707&amp;tip=sid&amp;exact=no" title="Reports on Mathematical Physics"><img border="0" src="https://www.scimagojr.com/journal_img.php?id=29707" alt="Reports on Mathematical Physics"  /></a>
-</p>
+[List of journals in Mathematical Physics](https://www.scimagojr.com/journalrank.php?category=2610)
+
+Books on Mathematical Physics
+
+[The Feynman Lectures on Physics](https://www.feynmanlectures.caltech.edu/info/index.html)
+
+Elliott H. Lieb, Michael Loss, [_Analysis_](https://bookstore.ams.org/view?ProductCode=GSM/14.R), 
