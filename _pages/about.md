@@ -139,6 +139,11 @@ img{pointer-events: none;}
     - Loss, Ruskai, [_Inequalities_](https://link.springer.com/book/10.1007/b138553).
     - Nachtergaele, Solovej, Yngvason, [_Condensed Matter Physics and Exactly Soluble Models_](https://link.springer.com/book/10.1007/978-3-662-06390-3).
     - Nachtergaele, Solovej, Yngvason, [_Statistical Mechanics_](https://link.springer.com/book/10.1007/978-3-662-10018-9).
+  - Reed, Simon, _Methods of Modern Mathematical Physics_ including
+    - [_Functional Analysis_](https://shop.elsevier.com/books/i-functional-analysis/reed/978-0-08-057048-8).
+    - [_Fourier Analysis, Self-Adjointness_](https://shop.elsevier.com/books/ii-fourier-analysis-self-adjointness/reed/978-0-08-092537-0).
+    - [_Scattering Theory_](https://shop.elsevier.com/books/iii-scattering-theory/reed/978-0-08-092538-7).
+    - [_Analysis of Operators_](https://shop.elsevier.com/books/iv-analysis-of-operators/reed/978-0-08-057045-7).
   - Frank, Laptev, Lewin, Seiringer, [_The Physics and Mathematics of Elliott Lieb_](https://ems.press/books/standalone/234).
   - Lewin, [_Spectral Theory and Quantum Mechanics_](https://link.springer.com/book/10.1007/978-3-031-66878-4).
   - Rougerie, [_De Finetti theorems, mean-field limits and Bose-Einstein condensation_](https://arxiv.org/abs/1506.05263).
