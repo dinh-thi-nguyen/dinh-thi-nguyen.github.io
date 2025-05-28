@@ -144,11 +144,11 @@ img{pointer-events: none;}
     - [_Fourier Analysis, Self-Adjointness_](https://shop.elsevier.com/books/ii-fourier-analysis-self-adjointness/reed/978-0-08-092537-0).
     - [_Scattering Theory_](https://shop.elsevier.com/books/iii-scattering-theory/reed/978-0-08-092538-7).
     - [_Analysis of Operators_](https://shop.elsevier.com/books/iv-analysis-of-operators/reed/978-0-08-057045-7).
+  - Teschl, [_Mathematical Methods in Quantum Mechanics_](https://www.mat.univie.ac.at/~gerald/ftp/book-schroe/schroe.pdf), available for **_free_** and with supplementary material at [author's webpage](https://www.mat.univie.ac.at/~gerald/ftp/book-schroe/index.html).
   - Frank, Laptev, Lewin, Seiringer, [_The Physics and Mathematics of Elliott Lieb_](https://ems.press/books/standalone/234).
   - Lewin, [_Spectral Theory and Quantum Mechanics_](https://link.springer.com/book/10.1007/978-3-031-66878-4).
   - Rougerie, [_De Finetti theorems, mean-field limits and Bose-Einstein condensation_](https://arxiv.org/abs/1506.05263).
   - Lundholm, [_Methods of modern mathematical physics, Uncertainty and exclusion principles in quantum mechanics_](https://arxiv.org/abs/1805.03063).
-  - Teschl, [_Mathematical Methods in Quantum Mechanics_](https://www.mat.univie.ac.at/~gerald/ftp/book-schroe/schroe.pdf), available for **_free_** and with supplementary material at [author's webpage](https://www.mat.univie.ac.at/~gerald/ftp/book-schroe/index.html).
 
 **3. Usefull links**
   - [The International Association of Mathematical Physics (IAMP)](www.iamp.org/).
