@@ -149,7 +149,8 @@ img{pointer-events: none;}
   - Lewin, [_Spectral Theory and Quantum Mechanics_](https://link.springer.com/book/10.1007/978-3-031-66878-4).
   - Rougerie, [_De Finetti theorems, mean-field limits and Bose-Einstein condensation_](https://arxiv.org/abs/1506.05263).
   - Lundholm, [_Methods of modern mathematical physics, Uncertainty and exclusion principles in quantum mechanics_](https://arxiv.org/abs/1805.03063).
+  - [Other interesting books from IAMP](https://www.iamp.org/page.php?page=page_books).
 
 **3. Usefull links**
-  - [The International Association of Mathematical Physics (IAMP)](www.iamp.org/).
-  - Master / PhD scholarships: [Henri Lebesgue Centre](https://www.lebesgue.fr/en/content/bourses_master), [GSSI](https://gssi.it/research-area/maths-research), [French-German (ANR-DFG) joint project](https://effective-quantum.org).
+  - [The International Association of Mathematical Physics (IAMP)](https://www.iamp.org/).
+  - Master / PhD scholarships: [IAMP's](https://www.iamp.org/page.php?page=page_positions), [Henri Lebesgue Centre](https://www.lebesgue.fr/en/content/bourses_master), [GSSI](https://gssi.it/research-area/maths-research), [French-German (ANR-DFG) joint project](https://effective-quantum.org).
