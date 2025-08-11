@@ -154,7 +154,7 @@ img{pointer-events: none;}
 **3. Online seminars**
   - [Mathematical Challenges in Quantum Mechanics](https://indico.gssi.it/event/410).
   - [One world IAMP mathematical physics seminar](https://www.iamp.org/page.php?page=page_seminar).
-  - 
+
 **4. Usefull links**
   - [The International Association of Mathematical Physics (IAMP)](https://www.iamp.org/).
   - Master / PhD scholarships: [IAMP's](https://www.iamp.org/page.php?page=page_positions), [Henri Lebesgue Centre](https://www.lebesgue.fr/en/content/bourses_master), [GSSI](https://gssi.it/research-area/maths-research), [French-German (ANR-DFG) joint project](https://effective-quantum.org).
