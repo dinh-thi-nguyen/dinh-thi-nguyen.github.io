@@ -155,6 +155,10 @@ img{pointer-events: none;}
   - [Mathematical Challenges in Quantum Mechanics](https://indico.gssi.it/event/410).
   - [One world IAMP mathematical physics seminar](https://www.iamp.org/page.php?page=page_seminar).
 
-**4. Usefull links**
+**4. Online lectures / courses**
+  - Coulomb and Riesz gases: a review of what's known and unknown, by Mathieu Lewin. [Part I](https://mediaweb.ap.panopto.com/Panopto/Pages/Viewer.aspx?id=af4aa37f-640f-4439-94cc-af980081ae13), [Part II](https://mediaweb.ap.panopto.com/Panopto/Pages/Viewer.aspx?id=045d709a-4913-4d60-af46-af9800898213), [Part III](https://mediaweb.ap.panopto.com/Panopto/Pages/Viewer.aspx?id=cf5e8fc1-d6f4-4f26-9b83-af980096e533).
+  - Large-Scale Limits for Quantum Gases, by Mathieu Lewin. [Part I](https://www.youtube.com/watch?v=uuX0YTLKbyY), [Part II](https://www.youtube.com/watch?v=dRnu8KjEseo).
+
+**5. Usefull links**
   - [The International Association of Mathematical Physics (IAMP)](https://www.iamp.org/).
   - Master / PhD scholarships: [IAMP's](https://www.iamp.org/page.php?page=page_positions), [Henri Lebesgue Centre](https://www.lebesgue.fr/en/content/bourses_master), [GSSI](https://gssi.it/research-area/maths-research), [French-German (ANR-DFG) joint project](https://effective-quantum.org).
