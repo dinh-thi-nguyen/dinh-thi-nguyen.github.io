@@ -158,6 +158,7 @@ img{pointer-events: none;}
 **4. Online lectures / courses**
   - _Coulomb and Riesz gases: a review of what's known and unknown_, by Mathieu Lewin. [Part I](https://mediaweb.ap.panopto.com/Panopto/Pages/Viewer.aspx?id=af4aa37f-640f-4439-94cc-af980081ae13), [Part II](https://mediaweb.ap.panopto.com/Panopto/Pages/Viewer.aspx?id=045d709a-4913-4d60-af46-af9800898213), [Part III](https://mediaweb.ap.panopto.com/Panopto/Pages/Viewer.aspx?id=cf5e8fc1-d6f4-4f26-9b83-af980096e533).
   - _Large-Scale Limits for Quantum Gases_, by Mathieu Lewin. [Part I](https://www.youtube.com/watch?v=uuX0YTLKbyY), [Part II](https://www.youtube.com/watch?v=dRnu8KjEseo).
+  - _Mathematical Challenges in Quantum Mechanics_. [2021-2022](https://www.youtube.com/playlist?list=PL6XptDFiiD-0vBWsbayBkTHCWhLxdlAz2), [2022-2023](https://www.youtube.com/playlist?list=PL6XptDFiiD-3Z1NwgHf9oTuaV_zfMI3ME), [2023-2024](https://www.youtube.com/playlist?list=PL6XptDFiiD-2zINfF9m-Ctk4qmNyCrMiN), [2024-2025](https://www.youtube.com/playlist?list=PL6XptDFiiD-0odGNMgTiRYk_B6QWQDx23).
 
 **5. Usefull links**
   - [The International Association of Mathematical Physics (IAMP)](https://www.iamp.org/).
