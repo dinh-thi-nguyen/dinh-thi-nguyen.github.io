@@ -94,7 +94,7 @@ img{pointer-events: none;}
 
 | Year | Name | Place | Remark |
 | --- | --- | ---  | --- |
-| 2025/08 | [The 50th Vietnam Conference on Theoretical Physics]([https://sites.google.com/site/chungnhanphu/math-applied-sciences-seminars?authuser=0](https://iop.vast.vn/vctp/50/)) | Vietnam, Dalat | Contributed talk |
+| 2025/08 | [The 50th Vietnam Conference on Theoretical Physics](https://sites.google.com/site/chungnhanphu/math-applied-sciences-seminars?authuser=0](https://iop.vast.vn/vctp/50/) | Vietnam, Dalat | Contributed talk |
 | 2024/08 | [Seminar Mathematics & Applied Sciences](https://sites.google.com/site/chungnhanphu/math-applied-sciences-seminars?authuser=0) | Vietnam, HCMC | Seminar talk |
 | 2024/08 | [VIASM-IAMP Summer School in Mathematical Physics](https://viasm.edu.vn/hdkh/iamp2024) | Vietnam, Hue | Participant |
 | 2024/08 | [Conference "Resonances in the Mathematical World"](https://www.math.hcmus.edu.vn/en/resonancesmathematicalworld) | Vietnam, HCMC | Contributed talk |
