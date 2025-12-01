@@ -158,7 +158,7 @@ img{pointer-events: none;}
   - [One world IAMP mathematical physics seminar](https://www.iamp.org/page.php?page=page_seminar).
 
 **4. Online lectures / courses**
-- [_Erwin Schrödinger International Institute for Mathematics and Physics_](https://www.youtube.com/@ESIVienna).
+  - [_Erwin Schrödinger International Institute for Mathematics and Physics_](https://www.youtube.com/@ESIVienna).
   - _Coulomb and Riesz gases: a review of what's known and unknown_, by Mathieu Lewin. [Part I](https://mediaweb.ap.panopto.com/Panopto/Pages/Viewer.aspx?id=af4aa37f-640f-4439-94cc-af980081ae13), [Part II](https://mediaweb.ap.panopto.com/Panopto/Pages/Viewer.aspx?id=045d709a-4913-4d60-af46-af9800898213), [Part III](https://mediaweb.ap.panopto.com/Panopto/Pages/Viewer.aspx?id=cf5e8fc1-d6f4-4f26-9b83-af980096e533).
   - _Large-Scale Limits for Quantum Gases_, by Mathieu Lewin. [Part I](https://www.youtube.com/watch?v=uuX0YTLKbyY), [Part II](https://www.youtube.com/watch?v=dRnu8KjEseo).
   - [Mean-field limits for quantum systems and nonlinear Gibbs measures](https://www.youtube.com/watch?v=IiFmSkXPP_0&t=308s), by Mathieu Lewin.
