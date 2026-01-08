@@ -132,6 +132,7 @@ img{pointer-events: none;}
 **1. [List of journals in Mathematical Physics](https://www.scimagojr.com/journalrank.php?category=2610)**
 
 **2. Books / Notes / Mathematics / Physics**
+  - [_Many-body Quantum Systems and Condensed Matter Physics_](https://www.youtube.com/playlist?list=PLKBRg7iM5iJKzhdyWd9c1LaQykVkT1rUe), by IAMP.
   - [The Feynman Lectures on Physics](https://www.feynmanlectures.caltech.edu/info/index.html).
   - Lieb, Loss, [_Analysis_](https://bookstore.ams.org/view?ProductCode=GSM/14.R), with [sample chapter](https://www.math.utoronto.ca/almut/MAT1000/LL-6.pdf) and [supplementary material](https://loss.math.gatech.edu/Analysis.html).
   - Lieb, Seiringer, [_The Stability of Matter in Quantum Mechanics_](https://www.cambridge.org/core/books/stability-of-matter-in-quantum-mechanics/BC90EBAF135B745979EA749076A2F931) with [book review](https://arxiv.org/abs/1111.0170) by Solovej and [supplementary material](https://web.math.princeton.edu/~lieb/stability.html).
