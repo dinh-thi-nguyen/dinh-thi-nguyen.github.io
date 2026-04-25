@@ -68,7 +68,9 @@ img{pointer-events: none;}
 
 | Year | Course | Place |
 | --- | --- | --- |
-| Spring 2025 | Multivariable Calculus, Nonlinear Analysis | VNU-HCMUS |
+| Spring 2025 | Multivariable Calculus, Mathematical Quantum Mechanics | VNU-HCMUS |
+| Fall 2025 | Multivariable Calculus, Nonlinear Analysis | VNU-HCMUS |
+| Spring 2025 | Multivariable Calculus, PDEs | VNU-HCMUS |
 | Fall 2023 | Multivariable Calculus | Uppsala University |
 | Summer 2020 | Mathematical Quantum Mechanics II | LMU Munich |
 | Winter 2019 | Mathematical Quantum Mechanics I | LMU Munich |
