@@ -46,7 +46,6 @@ img{pointer-events: none;}
 | Year | Author(s) | Title | Journal |
 | --- | --- | ---  | --- |
 | 2026 | _TAT. Doan_, <br /> _D.&#8209;T.&nbsp;Nguyen_ | Local Density Approximation and Other Limit Regimes for a Homogeneous Bose Gas with Repulsive Three-Body Interactions in Low-Dimensional Space | Vietnam Journal of Mathematics <br /> [Article](https://doi.org/10.1007/s10013-026-00811-z) |
-| 2026 | _TAT. Doan_, <br /> _D.&#8209;T.&nbsp;Nguyen_ | Local Density Approximation and Other Limit Regimes for a Homogeneous Bose Gas with Repulsive Three-Body Interactions in Low-Dimensional Space | ArXiv:2511.13212 <br /> [Preprint](https://arxiv.org/abs/2511.13212) |
 | 2025 | _B.&#8209;D. Le_, <br /> _D.&#8209;T.&nbsp;Nguyen_ | Vortex patterns of a 2D rotating Bose&#8288;&#8211;&#8288;Einstein condensate at the critical rotational speed | ArXiv:2511.13212 <br /> [Preprint](https://arxiv.org/abs/2511.13212) |
 | 2025 | _A. Ataei_, <br /> _A. Ellingsen_, <br /> _F. Getzner_, <br /> _T. Girardot_, <br /> _D. Lundholm_, <br /> _D.&#8209;T.&nbsp;Nguyen_ | Nonlinear Landau levels in the almost-bosonic anyon gas | ArXiv:2510.14679 <br /> [Preprint](https://arxiv.org/abs/2510.14679) |
 | 2025 | _D.&#8209;T.&nbsp;Nguyen_, <br /> N. Rougerie | Erratum&#8288;&#8211;&#8288;Addendum to Thomas&#8288;&#8211;&#8288;Fermi profile of a fast rotating Bose&#8288;&#8211;&#8288;Einstein condensate | Pure and Applied Analysis, 7(1), pp.&nbsp;243&#8288;&#8211;&#8288;249 <br /> [Article](https://doi.org/10.2140/paa.2025.7.243), [Preprint](https://arxiv.org/abs/2201.04418v3) |
