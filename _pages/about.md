@@ -102,6 +102,7 @@ img{pointer-events: none;}
 | --- | --- | ---  | --- |
 | 2026/07 | [The 2026 International Congress of Mathematicians](https://www.icm2026.org) | USA, Philadelphia | Contributed talk |
 | 2026/06 | [The Mathematical Roads to Quantum Field Theory](https://sites.google.com/view/rims-2026-mrqft/summer-conference) | Japan, Kyoto | Contributed talk |
+| 2026/04 | [Taiwan-Vietnam Workshop on PDEs and Applications](https://viasm.edu.vn/hdkh/taiwan-vietnam-workshop-on-pdes-and-applications) | Vietnam, Hanoi | Invited talk |
 | 2025/08 | [The 50th Vietnam Conference on Theoretical Physics](https://iop.vast.vn/vctp/50/) | Vietnam, Dalat | Contributed talk |
 | 2024/08 | [Seminar Mathematics & Applied Sciences](https://sites.google.com/site/chungnhanphu/math-applied-sciences-seminars?authuser=0) | Vietnam, HCMC | Seminar talk |
 | 2024/08 | [VIASM-IAMP Summer School in Mathematical Physics](https://viasm.edu.vn/hdkh/iamp2024) | Vietnam, Hue | Participant |
