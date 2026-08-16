@@ -45,7 +45,7 @@ img{pointer-events: none;}
 
 | Year | Author(s) | Title | Journal |
 | --- | --- | ---  | --- |
-| 2026 | _D.&#8209;T.&nbsp;Nguyen_ | Homogeneous attractive Bose&#8288;&#8211;&#8288;Einstein condensates with repulsive three-body interactions: the two-dimensional case | Mathematische Zeitschrift 313(4), p.85 <br /> [[Article]](https://doi.org/10.1007/s00209-026-04087-4), [Preview](https://rdcu.be/fwN1h) |
+| 2026 | _D.&#8209;T.&nbsp;Nguyen_ | Homogeneous attractive Bose&#8288;&#8211;&#8288;Einstein condensates with repulsive three-body interactions: the two-dimensional case | Mathematische Zeitschrift 313(4), p.85 <br /> [Article](https://doi.org/10.1007/s00209-026-04087-4), [Preview](https://rdcu.be/fwN1h) |
 | 2026 | _D.&#8209;T.&nbsp;Nguyen_ | Local density approximations of 3D self-gravitating Bose&#8288;&#8211;&#8288;Einstein condensate | SIAM Journal on Applied Mathematics, 86(4), pp.&nbsp;1593&#8288;&#8211;&#8288;1608 <br /> [Article](https://doi.org/10.1137/25M178311), [Preview](https://epubs.siam.org/eprint/PRSCCCPZRHREDMXITPJA/full) |
 | 2026 | _TAT. Doan_, <br /> _D.&#8209;T.&nbsp;Nguyen_ | Local Density Approximation and Other Limit Regimes for a Homogeneous Bose Gas with Repulsive Three-Body Interactions in Low-Dimensional Space | Vietnam Journal of Mathematics <br /> [Article](https://doi.org/10.1007/s10013-026-00811-z) |
 | 2025 | _B.&#8209;D. Le_, <br /> _D.&#8209;T.&nbsp;Nguyen_ | Vortex patterns of a two-dimensional Bose&#8288;&#8211;&#8288;Einstein condensate at the almost critical rotational speed | The European Physical Journal Plus 141(937), pp.&nbsp;1&#8288;&#8211;&#8288;17 <br /> [Article](https://doi.org/10.1140/epjp/s13360-026-08170-x), [Preview](https://rdcu.be/fAep7), [Preprint](https://arxiv.org/abs/2511.13212) |
